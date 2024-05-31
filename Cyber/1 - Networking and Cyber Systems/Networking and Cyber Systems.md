@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 | Week            | Topic | Assessment | Notes |
 | --------------- | ----- | ---------- | ----- |

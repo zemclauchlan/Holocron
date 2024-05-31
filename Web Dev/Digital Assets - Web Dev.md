@@ -1,18 +1,5 @@
----
-Stream: Web Development
-Session: S1
-Unit:
-  - Digital Assets
-Year: "2024"
-dg-publish: true
----
-#DigitalAssets
-#DigitalTechnologies
+
 # Topics
-#HTML
-#Python
-#Flask
-#CSS
 
 
 | Week | Topic                                                                            | Assessment   | Notes                         |
