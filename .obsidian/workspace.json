@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ISD/1 - Digital Assets/Buttons.md",
-                "mode": "preview",
-                "source": true
+                "file": "_examplePages/Slides.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ISD/1 - Digital Assets/Buttons.md",
+                "file": "_examplePages/Slides.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ISD/1 - Digital Assets/Buttons.md",
+                "file": "_examplePages/Slides.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ISD/1 - Digital Assets/Buttons.md"
+                "file": "_examplePages/Slides.md"
               }
             }
+          },
+          {
+            "id": "79d6de0fa084a5b9",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,24 +147,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
   "active": "c4378618eac676b4",
   "lastOpenFiles": [
-    "Slides.md",
-    "ISD/1 - Digital Assets/Buttons.md",
-    "Common/Software Development Fundamentals/Javascript/Web Dev - Programming Introduction.md",
+    "_examplePages/Kanban.md",
+    "_examplePages/Slides.md",
+    "_examplePages",
+    "Web Dev/Remote Web Dev.md",
     "Web Dev/Digital Assets - Web Dev.md",
-    "LTC Subjects Front Page.md",
+    "Robotics/4 - Project/Project.md",
+    "Robotics/3 - Application of Robotics/Application Of Robotics.md",
     "Cyber/1 - Networking and Cyber Systems/Networking and Cyber Systems.md",
+    "ISD/1 - Digital Assets/Buttons.md",
+    "Slides.md",
+    "Common/Software Development Fundamentals/Javascript/Web Dev - Programming Introduction.md",
+    "LTC Subjects Front Page.md",
     "ISD/1 - Digital Assets/High Score System.md",
     "ISD/1 - Digital Assets/Main Menu.md",
     "ISD/1 - Digital Assets/Options Menu.md",
@@ -164,22 +181,17 @@
     "ISD/1 - Digital Assets/Extension Tutorials.md",
     "ISD/1 - Digital Assets/Enemies.md",
     "ISD/1 - Digital Assets/End Of Game Bug.md",
-    "Robotics/3 - Application of Robotics/Application Of Robotics.md",
-    "Robotics/4 - Project/Project.md",
     "README.md",
     "ISD/Doom Clone.md",
     "ISD/2 - Digital Applications",
     "testCanvas.canvas",
     "Common/Mermaid Example.md",
-    "Web Dev/Remote Web Dev.md",
-    "Web Dev/Untitled Kanban.md",
     "Web Dev/Week 4.md",
     "Web Dev/Week 3.md",
     "Robotics/3 - Application of Robotics",
     "Robotics/4 - Project",
     "Meetings/VET Co Meeting.md",
     "ISD/1 - Digital Assets/Export Game.md",
-    "ISD/1 - Digital Assets/User Interface Improvements.md",
     "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-26_at_11.22.15_pm.png",
     "ISD/1 - Digital Assets/images/2022-04-29_13-35-40.2022-04-29_13_36_03.gif",
     "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-29_at_1.17.05_pm.png",
@@ -195,7 +207,6 @@
     "Cyber/1 - Networking and Cyber Systems",
     "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms 37d4ad38f4d9477a9692607e2e95be2d.csv",
     "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms 5882f8a9faf74fd0919035b8414e69a5.csv",
-    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms ea555cf15a2b445e8be1ae4cf79dac6a.csv",
-    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms 84ddd98b8ba6416b9363fc7595ab5003.csv"
+    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms ea555cf15a2b445e8be1ae4cf79dac6a.csv"
   ]
 }
