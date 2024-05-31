@@ -165,7 +165,7 @@ Run the game, and click the start game button on the main menu.
 
 ![player.gif](fpc-PlayerInGame.gif)
 
-<include from="reusableContent.topic" element-id="commitPush"/>
+![[Common Blocks#Commit & Push]]
 
 ## Player Run Functionality
 
@@ -186,21 +186,15 @@ Change the `SPEED` variable to **not** be a constant. This will allow you to cha
 Open `Player.gd` and find the `_physics_process(delta)` function. Add the following if statement to set `SPEED` to change based on the button press.
 
 > The exact speed values can be modified based on the requirements of the game.
-{style="info"}
 
+![Check if shift is pressed](fpc-SpeedShiftCheck.png)
 
-<tabs>
-<tab title="Screenshot">
-<img src="fpc-SpeedShiftCheck.png" alt="Check if shift is pressed"/>
-</tab>
-<tab title="Code">
-<code-block>
+```gdscript
 if Input.is_action_pressed("player_run"):
-        SPEED = 10.0
-    else:
-        SPEED = 5.0
-</code-block>
-</tab>
-</tabs>
+	SPEED = 10.0
+else:
+	SPEED = 5.0
+```
 
-<include from="reusableContent.topic" element-id="commitPush"/>
+
+![[Common Blocks#Commit & Push]]

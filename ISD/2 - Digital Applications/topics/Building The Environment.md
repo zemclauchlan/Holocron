@@ -112,4 +112,4 @@ At this stage, keep it simple and get a good example of your first scene.
 
 Similar to the Main Menu, the environment can be further developed at a later stage of the development process.
 
- <include from="reusableContent.topic" element-id="commitPush"/>
+![[Common Blocks#Commit & Push]]

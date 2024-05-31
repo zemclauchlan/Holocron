@@ -1,6 +1,5 @@
 
 > **Prerequisites** - A bullet (or any projectile) scene needs to have been created and saved according to the instructions given on this site. If you have created your own method, you will have to adapt this as necessary.
-{style = "info"}
 
 With the bullet created, the game now needs to be configured to *shoot* the bullet. Initially, this will be done in the player script.
 
@@ -97,4 +96,4 @@ if Input.is_action_just_pressed("player_shoot"):
 Run the game at this stage to test the creation and shooting of bullet instances.
 
 
-<include from="reusableContent.topic" element-id="commitPush"/>
+![[Common Blocks#Commit & Push]]

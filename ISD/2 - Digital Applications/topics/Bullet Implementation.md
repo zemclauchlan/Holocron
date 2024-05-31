@@ -61,7 +61,7 @@ Save the scene as `Bullet.tscn`.
 
 ![Untitled](bullet-SaveScene.png)
 
-<include from="reusableContent.topic" element-id="commitPush"/>
+![[Common Blocks#Commit & Push]]
 
 ## Bullet Script
 
@@ -177,4 +177,4 @@ Select Connect.
 
 Save the Bullet Scene.
 
-<include from="reusableContent.topic" element-id="commitPush"/>
+![[Common Blocks#Commit & Push]]
