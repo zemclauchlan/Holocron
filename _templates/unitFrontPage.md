@@ -1,3 +1,4 @@
+# Semester Plan
 
 | Week            | Topic | Assessment | Notes |
 | --------------- | ----- | ---------- | ----- |
