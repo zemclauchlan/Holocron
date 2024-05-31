@@ -138,16 +138,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "c4378618eac676b4",
   "lastOpenFiles": [
+    "Slides.md",
+    "ISD/1 - Digital Assets/Buttons.md",
     "Common/Software Development Fundamentals/Javascript/Web Dev - Programming Introduction.md",
     "Web Dev/Digital Assets - Web Dev.md",
     "LTC Subjects Front Page.md",
@@ -160,7 +164,6 @@
     "ISD/1 - Digital Assets/Extension Tutorials.md",
     "ISD/1 - Digital Assets/Enemies.md",
     "ISD/1 - Digital Assets/End Of Game Bug.md",
-    "ISD/1 - Digital Assets/Buttons.md",
     "Robotics/3 - Application of Robotics/Application Of Robotics.md",
     "Robotics/4 - Project/Project.md",
     "README.md",
@@ -168,7 +171,6 @@
     "ISD/2 - Digital Applications",
     "testCanvas.canvas",
     "Common/Mermaid Example.md",
-    "Untitled.md",
     "Web Dev/Remote Web Dev.md",
     "Web Dev/Untitled Kanban.md",
     "Web Dev/Week 4.md",
