@@ -1,0 +1,7 @@
+﻿Term,Defintion,Examples (if applicable)
+HTML,(HyperText Markup Language) is used to create the structure and content of the web page. It is used to define what is being shown and where.,
+CSS,"(Cascading Style Sheets) is used to tell the browser how to display the content. For instance: The font size, colour spacing, background colour and much more.",
+Javascript,"Used to add interactivity and some dynamic content. ",
+Front End Development,Front end development manages everything that users visually see first in their browser or application. Front end developers are responsible for the look and feel of a site. Also known as Client-side development.,
+Back End Development,Back end development refers to the server side of an application and everything that communicates between the database and the browser.,
+Structured Query Language.,SQL lets you access and manipulate databases,

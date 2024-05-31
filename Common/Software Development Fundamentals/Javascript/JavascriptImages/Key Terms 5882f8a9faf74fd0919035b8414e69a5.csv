@@ -1,0 +1,10 @@
+﻿Term,Defintion,Examples (if applicable)
+Array,An array allows you to store a group of items (usually of the same data type) together in memory as a collection. An array is a ordered set.,"""Student Scores"", ""Sensor Data"""
+Associated Array,See “Key Value Pair”,
+Dictionary,See “Key Value Pair”,
+Element,The data stored in an index in an set or collection.,Any data stored.
+Hashmap,See “Key Value Pair”,
+Index,"The integer identifying the position in the array. Starts at 0 in most languages. ","0,1,2,3..."
+Key,Unique identifier of an entry in a dictionary,Word
+Key Value Pair,"An unordered set, with a key and value for each entry. Depending on the language, this may also be referred to as : hash, hashmap, associated array.",User Files (Username: Filename)
+Value,The value associated with a key in a dictionary.,Definition

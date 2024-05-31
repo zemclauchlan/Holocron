@@ -1,0 +1,7 @@
+﻿Term,Defintion,Examples (if applicable)
+Sequence,If a set of instructions are executed in the order that they appear (from the top to the bottom),
+Semicolon,Used to identify the end of a statement of code.,;
+Parentheses - (),"Parentheses are used in conditions, function arguments and parameters and a few other instances.",loop()
+Curly Brackets - {},"The start and end of a code block for a decision, loop or function.","void setup() {
+pinMode(LED_BUILTIN, OUTPUT);
+}"

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f29c8879b52952bc",
+        "id": "9497d29dcfeab168",
         "type": "tabs",
         "children": [
           {
-            "id": "16f34dfc65b86307",
+            "id": "c4378618eac676b4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -118,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -140,9 +138,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "367c47a3ecd99cf0",
+  "active": "c4378618eac676b4",
   "lastOpenFiles": [
+    "Common/Software Development Fundamentals/Javascript/Web Dev - Programming Introduction.md",
+    "Web Dev/Digital Assets - Web Dev.md",
+    "LTC Subjects Front Page.md",
+    "Cyber/1 - Networking and Cyber Systems/Networking and Cyber Systems.md",
+    "ISD/1 - Digital Assets/High Score System.md",
+    "ISD/1 - Digital Assets/Main Menu.md",
+    "ISD/1 - Digital Assets/Options Menu.md",
+    "ISD/1 - Digital Assets/Project Configuration.md",
+    "ISD/1 - Digital Assets/Player Health.md",
+    "ISD/1 - Digital Assets/Extension Tutorials.md",
+    "ISD/1 - Digital Assets/Enemies.md",
+    "ISD/1 - Digital Assets/End Of Game Bug.md",
+    "ISD/1 - Digital Assets/Buttons.md",
+    "Robotics/3 - Application of Robotics/Application Of Robotics.md",
+    "Robotics/4 - Project/Project.md",
     "README.md",
-    "Test.md"
+    "ISD/Doom Clone.md",
+    "ISD/2 - Digital Applications",
+    "testCanvas.canvas",
+    "Common/Mermaid Example.md",
+    "Untitled.md",
+    "Web Dev/Remote Web Dev.md",
+    "Web Dev/Untitled Kanban.md",
+    "Web Dev/Week 4.md",
+    "Web Dev/Week 3.md",
+    "Robotics/3 - Application of Robotics",
+    "Robotics/4 - Project",
+    "Meetings/VET Co Meeting.md",
+    "ISD/1 - Digital Assets/Export Game.md",
+    "ISD/1 - Digital Assets/User Interface Improvements.md",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-26_at_11.22.15_pm.png",
+    "ISD/1 - Digital Assets/images/2022-04-29_13-35-40.2022-04-29_13_36_03.gif",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-29_at_1.17.05_pm.png",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-26_at_11.22.52_pm.png",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-26_at_11.25.27_pm.png",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-29_at_12.58.40_pm.png",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-29_at_1.34.08_pm.png",
+    "ISD/1 - Digital Assets/images/Untitled 19.png",
+    "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-29_at_1.06.59_pm.png",
+    "ISD/1 - Digital Assets/images/Untitled 18.png",
+    "ISD/1 - Digital Assets/images",
+    "ISD/1 - Digital Assets",
+    "Cyber/1 - Networking and Cyber Systems",
+    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms 37d4ad38f4d9477a9692607e2e95be2d.csv",
+    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms 5882f8a9faf74fd0919035b8414e69a5.csv",
+    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms ea555cf15a2b445e8be1ae4cf79dac6a.csv",
+    "Common/Software Development Fundamentals/Javascript/JavascriptImages/Key Terms 84ddd98b8ba6416b9363fc7595ab5003.csv"
   ]
 }

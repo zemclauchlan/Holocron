@@ -1,0 +1,9 @@
+﻿Term,Defintion,Examples (if applicable)
+Karnaugh Maps,A method to minimise Boolean expressions in a simple table form.,
+NOT Gate,"The NOT gate simply ""flips"" the input, so TRUE becomes FALSE, and FALSE becomes TRUE.",
+AND Gate,"An AND gate takes two inputs and produces a single output. For the output to be TRUE, then both of the inputs have to be TRUE.",
+NOR Gate,"The combination of an OR gate with a NOT gate, so it is the opposite of an OR gate. ",
+NAND Gate,"The combination of an AND gate with a NOT gate, so it is the opposite of an AND gate.",
+OR Gate,"For the output to be TRUE, then either one or both of the inputs have to be TRUE.",
+XOR Gate,"The output is TRUE only if either inputs are true, not both.",
+XNOR Gate,"The combination of an XOR Gate with a NOT gate, so the opposite of a XOR Gate",
