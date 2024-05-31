@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9497d29dcfeab168",
+        "id": "be8c22ab5d33294d",
         "type": "tabs",
         "children": [
           {
-            "id": "c4378618eac676b4",
+            "id": "4cd431dda0c09737",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_examplePages/Slides.md",
-                "mode": "source",
-                "source": false
+                "file": "ISD/2 - Digital Applications/First Person Shooter.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_examplePages/Slides.md",
+                "file": "ISD/2 - Digital Applications/First Person Shooter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_examplePages/Slides.md",
+                "file": "ISD/2 - Digital Applications/First Person Shooter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_examplePages/Slides.md"
+                "file": "ISD/2 - Digital Applications/First Person Shooter.md"
               }
             }
           },
@@ -154,44 +154,44 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "templater-obsidian:Templater": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-advanced-slides:Show Slide Preview": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c4378618eac676b4",
+  "active": "4cd431dda0c09737",
   "lastOpenFiles": [
-    "_examplePages/Kanban.md",
+    "ISD/2 - Digital Applications/topics/Win Conditions.md",
+    "ISD/2 - Digital Applications/topics/Simple Texturing of a Mesh.md",
+    "ISD/2 - Digital Applications/topics/Shooting Bullet Instances.md",
+    "ISD/2 - Digital Applications/topics/Reusable Assets.md",
+    "ISD/2 - Digital Applications/topics/Raycasting.md",
+    "ISD/2 - Digital Applications/topics/Points.md",
+    "ISD/2 - Digital Applications/topics/Player Health.md",
+    "ISD/2 - Digital Applications/topics/Building The Environment.md",
+    "ISD/2 - Digital Applications/topics/Objects Taking Damage.md",
+    "ISD/2 - Digital Applications/topics/Lose Conditions.md",
+    "ISD/2 - Digital Applications/topics/Hiding the Mouse Pointer.md",
+    "ISD/2 - Digital Applications/topics/FPS-Game-Mechanics.md",
+    "ISD/2 - Digital Applications/topics/First Person Controller.md",
+    "ISD/2 - Digital Applications/topics/Enemy Pathfinding.md",
+    "ISD/2 - Digital Applications/topics/Bullet Implementation.md",
+    "Common/Common Blocks.md",
+    "ISD/2 - Digital Applications/First Person Shooter.md",
+    "Web Dev/Digital Assets - Web Dev.md",
     "_examplePages/Slides.md",
+    "_examplePages/Kanban.md",
     "_examplePages",
     "Web Dev/Remote Web Dev.md",
-    "Web Dev/Digital Assets - Web Dev.md",
     "Robotics/4 - Project/Project.md",
     "Robotics/3 - Application of Robotics/Application Of Robotics.md",
     "Cyber/1 - Networking and Cyber Systems/Networking and Cyber Systems.md",
     "ISD/1 - Digital Assets/Buttons.md",
     "Slides.md",
-    "Common/Software Development Fundamentals/Javascript/Web Dev - Programming Introduction.md",
-    "LTC Subjects Front Page.md",
-    "ISD/1 - Digital Assets/High Score System.md",
-    "ISD/1 - Digital Assets/Main Menu.md",
-    "ISD/1 - Digital Assets/Options Menu.md",
-    "ISD/1 - Digital Assets/Project Configuration.md",
-    "ISD/1 - Digital Assets/Player Health.md",
-    "ISD/1 - Digital Assets/Extension Tutorials.md",
-    "ISD/1 - Digital Assets/Enemies.md",
-    "ISD/1 - Digital Assets/End Of Game Bug.md",
-    "README.md",
-    "ISD/Doom Clone.md",
     "ISD/2 - Digital Applications",
     "testCanvas.canvas",
-    "Common/Mermaid Example.md",
-    "Web Dev/Week 4.md",
-    "Web Dev/Week 3.md",
     "Robotics/3 - Application of Robotics",
     "Robotics/4 - Project",
-    "Meetings/VET Co Meeting.md",
-    "ISD/1 - Digital Assets/Export Game.md",
     "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-26_at_11.22.15_pm.png",
     "ISD/1 - Digital Assets/images/2022-04-29_13-35-40.2022-04-29_13_36_03.gif",
     "ISD/1 - Digital Assets/images/Screen_Shot_2022-04-29_at_1.17.05_pm.png",
