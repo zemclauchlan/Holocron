@@ -21,7 +21,7 @@
 | ![[semesterCalender#17]]  |                                                      |            |       |
 | ![[semesterCalender#18]]  |                                                      |            |       |
 | ![[semesterCalender#19]]  |                                                      |            |       |
-| ![[semesterCalender#20]] |                                                      |            |       
+| ![[semesterCalender#20]] |                                                      |            |  |     
 # Subject Information
 
 The Unit Outline can be found on Google Classroom.
