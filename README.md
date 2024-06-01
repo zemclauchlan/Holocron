@@ -30,7 +30,9 @@ Select the files you wish to commit, add a comment to explain the changes, then 
 
 ![[repoGithubCommitPush.png]]
 
+Then push the changes to your GitHub repository
 
+![[repoGithubPush.png]]
 ## Update the Main documentation
 
 If you need to update the repository, commit and push the changes to your fork, then create a pull request. If your changes are required, your teacher will merge the changes into the main repository. All forks will then be able to update their forks.
