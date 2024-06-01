@@ -7,7 +7,7 @@ Year: "2024"
 dg-publish: true
 ---
 #ISD
-#DigitalAssets
+#DigitalTechnologies/DigitalAssets
 #DigitalTechnologies
 
 
