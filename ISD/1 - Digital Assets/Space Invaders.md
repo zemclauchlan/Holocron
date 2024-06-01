@@ -1,7 +1,7 @@
 # Semester Plan
 
 
-| Week                     | Topic                        | Assessment | Notes |
+|                          | Topic                        | Assessment | Notes |
 | ------------------------ | ---------------------------- | ---------- | ----- |
 | ![[semesterCalender#1]]  | [[Project Configuration]]    |            |       |
 | ![[semesterCalender#2]]  | [[Main Menu]]<br>[[Buttons]] |            |       |

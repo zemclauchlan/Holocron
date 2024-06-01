@@ -5,7 +5,7 @@ The first is through creating projectiles (such as bullets) for the player to sh
 Another method, is to use <tooltip term="raycast">raycasts</tooltip>, where the there is an imaginary line drawn from the camera, and seeing what object it hits first (if any). Raycasts will be covered in a later tutorial.
 
 > What are the pros and cons of each approach? Why choose one over the other?
-{style="info"}
+
 
 ## Bullet Mesh
 
