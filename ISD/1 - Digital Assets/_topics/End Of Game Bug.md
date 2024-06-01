@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 
 If your game is experiencing a bug where objects from the Main Game are appearing after a scene changes, such as when the player dies or countdown finishes, this is one method of fixing the bug.
 

@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+
 Enemy Group Movement
 
   
