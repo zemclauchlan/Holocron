@@ -1,46 +1,22 @@
 
 ## Win & Lose Conditions
 
-  
-
 The Win and Lose conditions refer to the state of gameplay to determine whether the player “wins” the game or “loses” the game. Those states are determined by the game itself and what occurs after is up to the developer.
-
-  
 
 Some examples could be:
 
-  
-
-- Win Condition
-
-- All enemies are killed
-
-- The door at the end of the level is opened
-
-- The player survives the night
-
-- etc.
-
-- Lose Condition
-
-- The player’s health reaches 0.
-
-- The player runs out of ammunition.
-
-- etc.
-
-  
+| Win Condition | Lose Condition |
+| -- | --|
+| All enemies are killed | The player’s health reaches 0. |
+| The door at the end of the level is opened | The player runs out of ammunition. |
+| The player survives the night | |
+| etc. | etc.|
 
 In our clone of space invaders, the following conditions exist (at a minimum)
 
-  
-
 | Win Condition/s | Lose Condition/s |
-
 | --- | --- |
-
 | All enemies are defeated | The timer reaches 0. |
-
 | | The player’s health reaches 0. |
 
   
@@ -89,15 +65,12 @@ Open `MainGame.gd`, and in the `_process()` function, check if there are no more
 
   
 
-```python
+```gdscript
 
 func _process(delta):
-
-$HUD/CurrentScore.text = str(GlobalVariables.scoringInformation["currentScore"])
-
-if get_tree().get_nodes_in_group("enemy").size() == 0:
-
-get_tree().change_scene("res://WinScene.tscn")
+	$HUD/CurrentScore.text = str(GlobalVariables.scoringInformation["currentScore"])
+	if get_tree().get_nodes_in_group("enemy").size() == 0:
+		get_tree().change_scene("res://WinScene.tscn")
 
 ```
 
