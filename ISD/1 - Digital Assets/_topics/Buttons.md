@@ -1,7 +1,6 @@
 
 # Buttons Functionality
 
-  
 
 ![https://youtu.be/QH_5xVreQ-w](https://youtu.be/QH_5xVreQ-w)
 
@@ -9,10 +8,8 @@
 
 In this video, you're shown one way of changing between scenes.
 
-  
 
 You're shown a number of aspects to the process:
-
   
 
 - Creating the new Scene
@@ -29,9 +26,8 @@ You're shown a number of aspects to the process:
 
 The code used in this video is:
 
-  
 
-- TitleScene.gd
+## TitleScene.gd
 
 ```gdscript
 
@@ -50,7 +46,7 @@ func _on_Button_pressed(scene_to_load):
 
 ```
 
-- ButtonScript.gd
+## ButtonScript.gd
 
 ```gdscript
 
@@ -60,7 +56,7 @@ export(String) var scene_to_load
 
 ```
 
-- MainGame.gd
+## MainGame.gd
 
 ```gdscript
 

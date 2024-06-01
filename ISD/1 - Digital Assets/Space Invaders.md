@@ -1,29 +1,29 @@
 # Semester Plan
 
 
-| Week                     | Topic                                                | Assessment | Notes |
-| ------------------------ | ---------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalender#1]]  |  |            |       |
-| ![[semesterCalender#2]]  |                           |            |       |
-| ![[semesterCalender#3]]  |                            |            |       |
-| ![[semesterCalender#4]]  |                                                      |            |       |
-| ![[semesterCalender#5]]  |                                                      |            |       |
-| ![[semesterCalender#6]]  |                                                      |            |       |
-| ![[semesterCalender#7]]  |                                                      |            |       |
-| ![[semesterCalender#8]]  |                                                      |            |       |
-| ![[semesterCalender#9]]  |                                                      |            |       |
-| ![[semesterCalender#10]] |                                                      |            |       |
-| School Holidays          |                                                      |            |       |
-| ![[semesterCalender#11]] |                                                      |            |       |
-| ![[semesterCalender#12]] |                                                      |            |       |
-| ![[semesterCalender#13]] |                                                      |            |       |
-| ![[semesterCalender#14]]  |                                                      |            |       |
-| ![[semesterCalender#15]]  |                                                      |            |       |
-| ![[semesterCalender#16]]  |                                                      |            |       |
-| ![[semesterCalender#17]]  |                                                      |            |       |
-| ![[semesterCalender#18]]  |                                                      |            |       |
-| ![[semesterCalender#19]]  |                                                      |            |       |
-| ![[semesterCalender#20]] |                                                      |            |       |
+| Week                     | Topic                        | Assessment | Notes |
+| ------------------------ | ---------------------------- | ---------- | ----- |
+| ![[semesterCalender#1]]  | [[Project Configuration]]    |            |       |
+| ![[semesterCalender#2]]  | [[Main Menu]]<br>[[Buttons]] |            |       |
+| ![[semesterCalender#3]]  |                              |            |       |
+| ![[semesterCalender#4]]  |                              |            |       |
+| ![[semesterCalender#5]]  |                              |            |       |
+| ![[semesterCalender#6]]  |                              |            |       |
+| ![[semesterCalender#7]]  |                              |            |       |
+| ![[semesterCalender#8]]  |                              |            |       |
+| ![[semesterCalender#9]]  |                              |            |       |
+| ![[semesterCalender#10]] |                              |            |       |
+| School Holidays          |                              |            |       |
+| ![[semesterCalender#11]] |                              |            |       |
+| ![[semesterCalender#12]] |                              |            |       |
+| ![[semesterCalender#13]] |                              |            |       |
+| ![[semesterCalender#14]] | [[Raycasts]]                 |            |       |
+| ![[semesterCalender#15]] |                              |            |       |
+| ![[semesterCalender#16]] |                              |            |       |
+| ![[semesterCalender#17]] |                              |            |       |
+| ![[semesterCalender#18]] |                              |            |       |
+| ![[semesterCalender#19]] |                              |            |       |
+| ![[semesterCalender#20]] |                              |            |       |
 
 # Subject Information
 

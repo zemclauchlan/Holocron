@@ -1,5 +1,4 @@
 
-
 ## Game Play
 
   
@@ -39,8 +38,7 @@ Finally, you're shown the code to restrict the player to the playing area betwee
 In this video you're shown how to create global variables. Global Variables can be accessed (used) by any script throughout the entire project, from any script. This can be used to keep track of many variables needed throughout the project, such as the high score, or in the case of this video - the limiting the number of bullets on screen at once.
 
   
-
-- bullet.gd
+## bullet.gd
 
 ```GDScript
 
@@ -51,25 +49,16 @@ var speed = 500
 # Called when the node enters the scene tree for the first time.
 
 func _ready():
-
-GlobalVariables.bulletInstanceCount += 1
-
-set_physics_process(true)
+	GlobalVariables.bulletInstanceCount += 1
+	set_physics_process(true)
 
 func _physics_process(delta):
-
-var collidedObject = move_and_collide(Vector2(0, -speed*delta))
-
-if (collidedObject):
-
-#print(collidedObject.collider.name)
-
-if "Enemy" in collidedObject.collider.name:
-
-collidedObject.get_collider().queue_free()
-
-queue_free()
-
-GlobalVariables.bulletInstanceCount -= 1
+	var collidedObject = move_and_collide(Vector2(0, -speed*delta))
+	if (collidedObject):
+		#print(collidedObject.collider.name)
+		if "Enemy" in collidedObject.collider.name:
+			collidedObject.get_collider().queue_free()
+			queue_free()
+		GlobalVariables.bulletInstanceCount -= 1
 
 ```
