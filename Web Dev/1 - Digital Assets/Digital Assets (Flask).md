@@ -1,5 +1,5 @@
 
-# Topics
+# Schedule
 
 
 | Week | Topic                                                                            | Assessment   | Notes                         |
