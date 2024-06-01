@@ -1,3 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Condition,Statements that are created by the programmer which evaluates actions in the program and evaluates if it's true or false,counter > 10
-Decision,"A decision is a type of programming statement that allows a program to make decisions based on certain conditions. It is one of the most fundamental concepts in programming. A decision can be used to check if a certain condition is true or false, and then execute certain code depending on the result of the condition. For example, if a certain value is greater than another value, a certain set of instructions can be executed. ",

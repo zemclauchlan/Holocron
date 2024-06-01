@@ -1,3 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Naming Convention,"How the names of variables, functions etc are structured.","lowerCamelCase, snake_case"
-Function Header Comment,"Comment Block at the start of a function (below function declaration) which describes the purpose of the function, any parameters and the return data.",

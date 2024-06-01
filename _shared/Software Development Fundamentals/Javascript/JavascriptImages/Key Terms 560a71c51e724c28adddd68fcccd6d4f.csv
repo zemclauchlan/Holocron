@@ -1,6 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Repository,A repository contains all of your project's files and each file's revision history.,
-Fork,A fork is a copy of a repository that you manage.,
-Commit,Process which records changes in the repository. Think of it as a snapshot of the current status of the project. Commits are done locally.,
-Push,Pushing sends the recent commit history from your local repository up to GitHub.,
-Pull,Grabs any changes from the GitHub repository and merges them into your local repository.,

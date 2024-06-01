@@ -1,7 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Data Type,The type of information being stored in a variable. Instructs the device to allocate and structure the required memory.,"Integer, String, Character, Boolean"
-Variables,,
-Type Inference,Type inference refers to the automatic detection of the type of a variable or constant.,
-Statically Typed,"The data type of a variable/constant is set at compile time, and cannot change throughout the execution of the program.","C, C++, Java, Arduino"
-Dynamically Typed,"The data type of a variable/constant is set at execution time, and can be changed throughout the execution of the program.","Python, GDScript, PHP."
-NaN,"Not a Number. Value used when a variable is used in a way that is assumed to be a number, but is not.",E.g. A String value is divided by a number.

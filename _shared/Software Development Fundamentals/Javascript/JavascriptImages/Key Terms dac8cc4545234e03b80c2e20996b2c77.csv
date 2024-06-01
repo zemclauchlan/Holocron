@@ -1,4 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Sketch,"Arduino Code, with setup() and loop() functions. File extension is .ino",blink.ino
-Constant,"Declared similar to a variable, however the value cannot be changed in code once declared.",MAX_USERS = 5
-Serial Monitor,Tool in the Arduino IDE to send and receive serial data with the Arduino board. Can be used for input and debugging purposes.,

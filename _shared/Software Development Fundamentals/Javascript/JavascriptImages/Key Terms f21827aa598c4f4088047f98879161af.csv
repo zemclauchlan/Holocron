@@ -1,6 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Module,"A small program unit that you can use with other modules to make a program. Programmers also refer to modules as subroutines, procedures, functions, and methods.",
-Parameter,Data that is accepted by a function sent to it externally when the function is called.,
-Argument,A value that is passed to a function.,"""Hello World” in Serial.println(”Hello World”);"
-Function Call,“Running” a function at a given stage of execution.,"multiplyNumbers(4,5);"
-Variable Scope,Variables and constants apply only within the module/function in which they are declared.,

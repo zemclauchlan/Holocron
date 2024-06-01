@@ -1,7 +1,0 @@
-﻿Term,Defintion,Examples (if applicable)
-Loop Control Variable,A variable which controls how many iterations are executed in a loop.,"counter in for (int counter=0; counter<50; counter++) "
-Loop Condition,The “test” to evaluate whether the loop should continue iterating.,"while (x>5) 
-{
-...
-}"
-Iteration,"Single instance of execution of a block of code in a loop. ",
