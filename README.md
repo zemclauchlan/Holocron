@@ -1,10 +1,10 @@
-# Lake Tuggeranong College Subjects
+# LTC Holocron
 
 You may fork this repository and suggest changes (via Pull Requests) 
 
 ## How to Use This Repository
 
-Fork the repository.
+Fork the repository, this creates a copy of the repository into your GitHub account. You can make changes to the repository in your account.
 
 ![Fork the Repository](_shared/images/repoFork.png)
 
@@ -24,6 +24,7 @@ Open Obsidian, and open the repository folder as a vault.
 Periodically, there may be updates to the main repository. In your fork, sync the changes which will merge the updates with your repository. **This can be done through GitHub Desktop or Obsidian**, or any other Git method.
 
 First, make and save changes within Obsidian.
+
 ### Github Desktop
 
 Select the files you wish to commit, add a comment to explain the changes, then press `Commit To Main`.
