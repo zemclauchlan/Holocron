@@ -1,6 +1,16 @@
 # Instructions
 
-![[Accept & Configure Assessment#Install SQLite]]
+## Log into GitHub
+
+## Accept the GitHub Assignment
+[[Accept Assignment]]
+
+## Install SQLite in Codespaces
+[[Install SQLite#Install SQLite]]
+
+## Run Website
+[[Run Project]]
+
 # Video
 
 # Presentation
