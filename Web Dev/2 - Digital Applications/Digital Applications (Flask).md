@@ -1,7 +1,7 @@
 # Semester Plan
 
-| Week                     | Topic                                                         | Assessment | Notes |
-| ------------------------ | ------------------------------------------------------------- | ---------- | ----- |
+| Week                       | Topic                                                         | Assessment | Notes |
+| -------------------------- | ------------------------------------------------------------- | ---------- | ----- |
 | ![[semesterCalenderS2#1]]  | [[Web Dev/2 - Digital Applications/_topics/Week 01\|Week 1]]  |            |       |
 | ![[semesterCalenderS2#2]]  | [[Web Dev/2 - Digital Applications/_topics/Week 02\|Week 2]]  |            |       |
 | ![[semesterCalenderS2#3]]  | [[Web Dev/2 - Digital Applications/_topics/Week 03\|Week 3]]  |            |       |
@@ -12,7 +12,7 @@
 | ![[semesterCalenderS2#8]]  | [[Web Dev/2 - Digital Applications/_topics/Week 08\|Week 8]]  |            |       |
 | ![[semesterCalenderS2#9]]  | [[Web Dev/2 - Digital Applications/_topics/Week 09\|Week 9]]  |            |       |
 | ![[semesterCalenderS2#10]] | [[Web Dev/2 - Digital Applications/_topics/Week 10\|Week 10]] |            |       |
-| School Holidays          |                                                               |            |       |
+| School Holidays            |                                                               |            |       |
 | ![[semesterCalenderS2#11]] | [[Web Dev/2 - Digital Applications/_topics/Week 11\|Week 11]] |            |       |
 | ![[semesterCalenderS2#12]] | [[Web Dev/2 - Digital Applications/_topics/Week 12\|Week 12]] |            |       |
 | ![[semesterCalenderS2#13]] | [[Web Dev/2 - Digital Applications/_topics/Week 13\|Week 13]] |            |       |
