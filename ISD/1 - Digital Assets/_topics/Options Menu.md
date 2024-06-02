@@ -9,9 +9,8 @@
 
 With the Space Invaders project open, Create a new scene.
 
-  
+![[optionsNewScene.png]]  
 
-![Screen Shot 2022-04-29 at 12.55.39 pm.png](Notionimp/images/Screen_Shot_2022-04-29_at_12.55.39_pm.png)
 
   
 
@@ -28,32 +27,32 @@ When the choice appears, choose User Interface out of the four options.
 </aside>
 
   
+![[optionsRootNode.png]]
 
-![Screen Shot 2022-04-29 at 12.55.47 pm.png](Notionimp/images/Screen_Shot_2022-04-29_at_12.55.47_pm.png)
 
   
 
 Rename the scene `OptionsMenu`.
 
   
+![[optionsRootNodeRename.png]]
 
-![Screen Shot 2022-04-29 at 12.56.52 pm.png](Notionimp/images/Screen_Shot_2022-04-29_at_12.56.52_pm.png)
 
   
 
 Add a VBoxContainer node as a child of `OptionsMenu`. Rename the node as `Layout`
 
   
+![[optionsNodeLayout.png]]
 
-![Screen Shot 2022-04-29 at 12.57.33 pm.png](Notionimp/images/Screen_Shot_2022-04-29_at_12.57.33_pm.png)
 
   
 
 Create a CheckButton node as a child of Layout. Rename this to `RapidFireSelect`.
 
-  
+  ![[optionsAddButton.png]]
 
-![Screen Shot 2022-04-29 at 12.58.40 pm.png](Notionimp/images/Screen_Shot_2022-04-29_at_12.58.40_pm.png)
+
 
   
 
