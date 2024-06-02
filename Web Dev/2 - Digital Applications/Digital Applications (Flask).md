@@ -1,18 +1,18 @@
 # Semester Plan
 
-| Week                     | Topic       | Assessment | Notes |
-| ------------------------ | ----------- | ---------- | ----- |
-| ![[semesterCalender#1]]  | [[Week 1]]  |            |       |
-| ![[semesterCalender#2]]  | [[Week 2]]  |            |       |
-| ![[semesterCalender#3]]  | [[Week 3]]  |            |       |
-| ![[semesterCalender#4]]  | [[Week 4]]  |            |       |
-| ![[semesterCalender#5]]  | [[Week 5]]  |            |       |
-| ![[semesterCalender#6]]  | [[Week 6]]  |            |       |
-| ![[semesterCalender#7]]  | [[Week 7]]  |            |       |
-| ![[semesterCalender#8]]  | [[Week 8]]  |            |       |
-| ![[semesterCalender#9]]  | [[Week 9]]  |            |       |
+| Week                         | Topic       | Assessment | Notes |
+| ---------------------------- | ----------- | ---------- | ----- |
+| ![[semesterCalender#1]]      | [[Week 01]]  |            |       |
+| ![[semesterCalender#2]]  |      [[Week 02]]  |            |       |
+| ![[semesterCalender#3]]  | [[Week 03]]  |            |       |
+| ![[semesterCalender#4]]  | [[Week 04]]  |            |       |
+| ![[semesterCalender#5]]  | [[Week 05]]  |            |       |
+| ![[semesterCalender#6]]  | [[Week 06]]  |            |       |
+| ![[semesterCalender#7]]  | [[Week 07]]  |            |       |
+| ![[semesterCalender#8]]  | [[Week 08]]  |            |       |
+| ![[semesterCalender#9]]  | [[Week 09]]  |            |       |
 | ![[semesterCalender#10]] | [[Week 10]] |            |       |
-| School Holidays          |             |            |       |
+| School Holidays                            |            |       |
 | ![[semesterCalender#11]] | [[Week 11]] |            |       |
 | ![[semesterCalender#12]] | [[Week 12]] |            |       |
 | ![[semesterCalender#13]] | [[Week 13]] |            |       |
