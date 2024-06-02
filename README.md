@@ -6,18 +6,18 @@ You may fork this repository and suggest changes (via Pull Requests)
 
 Fork the repository.
 
-![Fork the Repository](repoFork.png)
+![Fork the Repository](_shared/images/repoFork.png)
 
 Clone the repository to your computer using GitHub Desktop (or any method).
 
-![[repoClone.png]]
+![[_shared/images/repoClone.png]]
 > Note the directory that you cloned the repository into. 
 
 Open Obsidian, and open the repository folder as a vault.
 
-![[repoOpen.png]]
+![[_shared/images/repoOpen.png]]
 
-![[repoOpened.png]]
+![[_shared/images/repoOpened.png]]
 
 ## Update your fork
 
