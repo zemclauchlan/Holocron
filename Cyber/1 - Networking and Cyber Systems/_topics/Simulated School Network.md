@@ -7,8 +7,8 @@ Add the various devices to create two subnets, one for students and one for staf
 ![[simulatedSchoolPacketTracer.png]]
 	
 Note: You will need to add more Fast Ethernet ports to **both** of the switches. Turn the switches off, and add more “PT-SWITCH-NM-1CFE” modules.
+![[simulatedSchoolPacketTracerNICs.png]]
 
-![[Cyber/1 - Networking and Cyber Systems/_topics/images/Untitled 3.png]]
 # Configure Servers
 	
 ❓ For each of the servers, you will need to complete the following steps. The only difference for the servers is the IP Addresses used.
