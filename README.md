@@ -15,9 +15,9 @@ Clone the repository to your computer using GitHub Desktop (or any method).
 
 Open Obsidian, and open the repository folder as a vault.
 
-![[_shared/images/repoOpen.png]]
+![Open in Obsidian](_shared/images/repoOpen.png)
 
-![[_shared/images/repoOpened.png]]
+![Opened in Obsidian](_shared/images/repoOpened.png)
 
 ## Update your fork
 
@@ -28,11 +28,12 @@ First, make and save changes within Obsidian.
 
 Select the files you wish to commit, add a comment to explain the changes, then press `Commit To Main`.
 
-![[repoGithubCommitPush.png]]
+![Commit Changes](_shared/images/repoGithubCommitPush.png)
 
 Then push the changes to your GitHub repository
 
-![[repoGithubPush.png]]
+![Push Changes to GitHub](_shared/images/repoGithubPush.png)
+
 ## Update the Main documentation
 
 If you need to update the repository, commit and push the changes to your fork, then create a pull request. If your changes are required, your teacher will merge the changes into the main repository. All forks will then be able to update their forks.
