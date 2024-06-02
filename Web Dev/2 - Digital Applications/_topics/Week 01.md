@@ -22,6 +22,13 @@ Everything else *should* remain the same as programming in Codespaces, just loca
 
 # Presentation
 
+The following file can be viewed as a presentation. After opening it, click the Slide Show Preview Button.
+
+![[openSlidesView.png]]
+
+[[Week 01 Presentation]]
+
+
 # Work to submit
 
 #DigitalTechnologies #DigitalTechnologies/DigitalApplications #Flask #RemoteLearning
