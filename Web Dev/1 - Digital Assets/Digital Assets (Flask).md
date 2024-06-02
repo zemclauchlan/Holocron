@@ -5,23 +5,23 @@
 | Week | Topic                                                                            | Assessment   | Notes                         |
 | ---- | -------------------------------------------------------------------------------- | ------------ | ----------------------------- |
 | 1    | [[#Unit Information]]<br>[[#Programming Introduction]], <br>[[#Version Control]] |              |                               |
-| 2    | [[#Variables & Data Types]], <br>[[#Sequence]]                                   |              |                               |
-| 3    | [[#Decisions]], <br>[[#Loops]]                                                   |              |                               |
-| 4    | [[#Modularisation]]                                                              |              |                               |
-| 5    |                                                                                  | Assessment 1 |                               |
-| 6    | [[#Style Guide]], <br>[[#Data Structures]]                                       |              | Moderation Day (Tuesday)      |
-| 7    |                                                                                  |              |                               |
-| 8    |                                                                                  |              |                               |
-| 9    |                                                                                  | Assessment 2 | Cross Line Exams (Wed-Friday) |
-| 10   |                                                                                  |              |                               |
-| 11   |                                                                                  |              |                               |
-| 12   |                                                                                  |              |                               |
-| 13   |                                                                                  |              |                               |
-| 14   |                                                                                  |              |                               |
-| 15   |                                                                                  |              |                               |
-| 16   |                                                                                  |              |                               |
-| 17   |                                                                                  | Assessment 3 |                               |
-| 18   |                                                                                  |              |                               |
+| 2    | [[Web Dev/1 - Digital Assets/_topics/Week 02]]                                |              |                               |
+| 3    | [[Web Dev/1 - Digital Assets/_topics/Week 03]]                                              |              |                               |
+| 4    | [[Web Dev/1 - Digital Assets/_topics/Week 04]]                                                              |              |                               |
+| 5    |             [[Web Dev/1 - Digital Assets/_topics/Week 05]]                                                                     | Assessment 1 |                               |
+| 6    | [[Web Dev/1 - Digital Assets/_topics/Week 06]]                                       |              | Moderation Day (Tuesday)      |
+| 7    | [[Web Dev/1 - Digital Assets/_topics/Week 07]]                                                                                 |              |                               |
+| 8    | [[Web Dev/1 - Digital Assets/_topics/Week 08]]                                                                                 |              |                               |
+| 9    | [[Web Dev/1 - Digital Assets/_topics/Week 09]]                                                                                 | Assessment 2 | Cross Line Exams (Wed-Friday) |
+| 10   |  [[Web Dev/1 - Digital Assets/_topics/Week 10]]                                                                                |              |                               |
+| 11   | [[Web Dev/1 - Digital Assets/_topics/Week 11]]                                                                                 |              |                               |
+| 12   |  [[Web Dev/1 - Digital Assets/_topics/Week 12]]                                                                                |              |                               |
+| 13   |  [[Web Dev/1 - Digital Assets/_topics/Week 13]]                                                                                |              |                               |
+| 14   | [[Web Dev/1 - Digital Assets/_topics/Week 14]]                                                                                 |              |                               |
+| 15   |  [[Web Dev/1 - Digital Assets/_topics/Week 15]]                                                                                |              |                               |
+| 16   | [[Web Dev/1 - Digital Assets/_topics/Week 16]]                                                                                 |              |                               |
+| 17   |  [[Web Dev/1 - Digital Assets/_topics/Week 17]]                                                                                | Assessment 3 |                               |
+| 18   | [[Web Dev/1 - Digital Assets/_topics/Week 18]]                                                                                 |              |                               |
 | 19   |                                                                                  |              |                               |
 | 20   |                                                                                  |              |                               |
 
