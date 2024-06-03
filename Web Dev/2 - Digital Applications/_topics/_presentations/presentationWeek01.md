@@ -40,18 +40,7 @@ note:
 Choose which development environment works for you. There is no right or wrong answer.
 
 ---
-# Mermaid
 
-```mermaid
-    gitGraph
-       commit
-       commit
-       branch develop
-       checkout develop
-       commit
-       commit
-       checkout main
-       merge develop
-       commit
-       commit
-```
+# Questions?
+
+If you have any questions, please ask!
