@@ -11,12 +11,22 @@
 ![[openSlidesView.png]]
 
 ---
-
 # Preparation
 
-- Install [Obisidian](https://obsidian.md/)
+- Install [Obsidian](https://obsidian.md/)
 - [Holocron](https://github.com/Lake-Tuggeranong-College/Holocron)
 	- Fork Holocron (this repository)
 	- Clone repository to device
 - Open Holocron in Obsidian
 
+---
+# Development Environment
+
+- Project can be developed
+	- GitHub Codespaces (online)
+	- Visual Studio Code & Docker (offline)
+- Choose which works for you
+- Visual Studio Code & Docker can't be run on Chromebook.
+	- Instructions on Holocron
+- Install SQLite into environment
+- Test Environment
