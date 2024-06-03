@@ -1,6 +1,7 @@
 # Instructions
 
 ## Log into GitHub
+www.github.com
 
 ## Accept the GitHub Assignment
 [[Accept Assignment]]
@@ -20,13 +21,14 @@ Everything else *should* remain the same as programming in Codespaces, just loca
 
 # Video
 
+
 # Presentation
 
 The following file can be viewed as a presentation. After opening it, click the Slide Show Preview Button.
 
 ![[openSlidesView.png]]
 
-[[Week 01 Presentation]]
+[[presentationWeek01]]
 
 
 # Work to submit
