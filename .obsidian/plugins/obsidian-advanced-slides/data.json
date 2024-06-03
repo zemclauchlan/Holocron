@@ -7,7 +7,7 @@
   "enableMenu": false,
   "enablePointer": false,
   "enableTimeBar": false,
-  "theme": "black",
+  "theme": "consult",
   "highlightTheme": "zenburn",
   "transition": "slide",
   "transitionSpeed": "default",
@@ -17,5 +17,5 @@
   "showGrid": false,
   "autoComplete": "inPreview",
   "paneMode": "split",
-  "motm": "2024-05-31T04:18:46.217Z"
+  "motm": "2024-06-03T04:36:09.080Z"
 }
