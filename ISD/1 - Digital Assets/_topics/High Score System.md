@@ -72,13 +72,8 @@ One method for improving this process is to add a cheat code into the game.
 
 For instance, in the `Player.gd` script, the script can be updated to check if the user presses the Up key. If so, this changes the scene straight to the win scene.s
 
-  
+  ![[playerHealthButtonPress.png]]
 
-![Screen Shot 2022-04-30 at 11.34.35 pm.png](Notionimp/images/Screen_Shot_2022-04-30_at_11.34.35_pm.png)
-
-  
-
-- Code
 
 ```python
 
@@ -174,28 +169,28 @@ When the player wins the game, the Win Scene is loaded. It will be at this point
 - If your win Scene doesn’t have a script attached
 
 Add a script to the root node by right-clicking on it and choosing Attach Script. Choose the default settings.
+![[playerHealthAttachScript.png]]
 
-![Screen Shot 2022-04-30 at 10.22.57 pm.png](Notionimp/images/Screen_Shot_2022-04-30_at_10.22.57_pm.png)
 
   
 
 Remove the unnecessary code, leaving only the extends command on the first line, and `func _ready()` function.
 
   
+![[playerHealthScriptInit.png]]
 
-![Screen Shot 2022-04-30 at 10.24.59 pm.png](Notionimp/images/Screen_Shot_2022-04-30_at_10.24.59_pm.png)
 
   
 
 Update the _ready() function to store the current players score into the array in the correct position, if necessary.
 
+  ![[playerHealthReadyScript.png]]
+
+
+
   
 
-![Screen Shot 2022-04-30 at 11.20.04 pm.png](Notionimp/images/Screen_Shot_2022-04-30_at_11.20.04_pm.png)
-
-  
-
-- Code
+Code
 
 ```python
 
@@ -235,162 +230,3 @@ $* \normalsize \mathcal {\color{black} \colorbox {orange} {Save, Commit and Push
 
   
 
-## Persistent Data
-
-  
-
-In this tutorial, you’ll be shown how to save and load the `scoringInformation` dictionary.
-
-  
-
-<aside>
-
-❓ In this tutorial, only a small amount of data will be saved and loaded, so not a lot of focus on serialisation is done. However if the game requires saving more complex data, you will need to ensure this is done.
-
-  
-
-</aside>
-
-  
-
-Open [Global.g](http://Global.gs)d and create a new global variable which sets the save file.
-
-  
-
-![Screen Shot 2022-05-01 at 12.24.52 am.png](Notionimp/images/Screen_Shot_2022-05-01_at_12.24.52_am.png)
-
-  
-
-- Code
-
-```python
-
-var saveFile = "user://save.dat"
-
-```
-
-  
-
-### Saving the data
-
-  
-
-To ensure it’s saved when it is updated, the saving of high score data can be done in the Win Scene.
-
-  
-
-Open `WinScene.gd` and create a new function called `saveData()`.
-
-  
-
-![Screen Shot 2022-05-01 at 12.20.42 am.png](Notionimp/images/Screen_Shot_2022-05-01_at_12.20.42_am.png)
-
-  
-
-- Code
-
-```python
-
-func saveData():
-
-```
-
-  
-
-Update `saveData()` to attempt to access the file name specified in `Global.gd` called `saveFile`. If there is no issues with that file, it will write the scoringInformation dictionary to the file and close the connection.
-
-  
-
-![Screen Shot 2022-05-01 at 12.25.56 am.png](Notionimp/images/Screen_Shot_2022-05-01_at_12.25.56_am.png)
-
-  
-
-- Code
-
-```python
-
-func saveData():
-
-var file = File.new()
-
-var error = file.open(GlobalVariables.saveFile, file.WRITE)
-
-if error == OK:
-
-file.store_var(GlobalVariables.scoringInformation)
-
-file.close()
-
-print("!!Data Saved!!")
-
-else :
-
-print("!!Data Not Saved!!")
-
-```
-
-  
-
-Lastly, update the `_ready()` function to call the `saveData()` function.
-
-  
-
-![Screen Shot 2022-05-01 at 12.33.02 am.png](Notionimp/images/Screen_Shot_2022-05-01_at_12.33.02_am.png)
-
-  
-
-### Loading the Data
-
-  
-
-Open the main menu and look at the script for the scene - `Menu.gd`.
-
-  
-
-Update the `_ready()` function to load (or attempt to load) the saved data.
-
-  
-
-This code checks to see if the file exists first - applications don’t like attempting to open files that don’t exist.
-
-  
-
-If the file is there, it replaces the `scoringInformation` data that’s coded by default with the loaded data. If there is any error, it just leaves the default values.
-
-  
-
-![Screen Shot 2022-05-01 at 12.34.49 am.png](Notionimp/images/Screen_Shot_2022-05-01_at_12.34.49_am.png)
-
-  
-
-- Code
-
-```python
-
-var file = File.new()
-
-if file.file_exists(GlobalVariables.saveFile):
-
-var error = file.open(GlobalVariables.saveFile, File.READ)
-
-if error == OK:
-
-var player_data = file.get_var()
-
-file.close()
-
-GlobalVariables.scoringInformation = player_data
-
-```
-
-  
-
-$* \normalsize \mathcal {\color{black} \colorbox {orange} {Save, Commit and Push Changes to Github!}}$
-
-  
-
-## Bug or Feature?
-
-  
-
-There’s a bug with the saving and loading of `scoringInformation`. Did you notice? It’s got to do with currentScore - it’s not resetting correctly and is saving the current score in the save file.
