@@ -1,7 +1,6 @@
 
- 
+ ![[playerHealthHeartsFull.png]]
 
-![Hearts for Health Implemented.](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2013.png)
 
   
 
@@ -27,9 +26,8 @@ Download the Asset library from this page.
 
 Unzip the file and find the three heart images.
 
-  
+  ![[playerHealthHeartsExtract.png]]
 
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2014.png)
 
   
 
@@ -46,28 +44,21 @@ Copy these into the Images folder in your project. In the example here, the imag
 </aside>
 
   
-
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2015.png)
-
+![[playerHealthHeartsImport.png]]
   
 
 Opening the desired scene, create a VBoxContainer, called `Health`. Create Five (or as many as the game requires) ********TextureRect********s as children of the VBoxContainer.
 
-  
-
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2016.png)
-
+  ![[playerHealthHeartsNodes.png]]
   
 
 Rename the TextureRects to 1..2..3.. etc. Drag the Heart image onto each of the TextureRects.
 
-  
-
 Additionally, set the StretchMode to be Keep
 
-  
+  ![[playerHealthHeartsTextures.png]]
 
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2017.png)
+
 
   
 
@@ -161,27 +152,21 @@ get_child(i).texture = heart_empty
 
 ********************REMEMBER!!!******************** The paths to the images need to match. Check capitalisations and the **********exact********** path for each of the images.
 
-  
+  ![[playerHealthHeartsPreloadImages.png]]
 
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2018.png)
 
   
 
 Edit the `[MainGame.gd](http://MainGame.gd)` and add the following code into `_process(delta)`.
 
-  
 
-<aside>
 
-‼️ The path to the Health and player nodes will depend on your setup. Change the `$HUD/Health` and `$Player` as necessary to fit the specific nodes.
+> ‼️ The path to the Health and player nodes will depend on your setup. Change the `$HUD/Health` and `$Player` as necessary to fit the specific nodes.
 
-  
 
-</aside>
+  ![[playerHealthHeartsUpdateHealth.png]]
 
-  
 
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2019.png)
 
   
 
@@ -200,16 +185,14 @@ Make sure the Players health variable is set to `export` in the player script.
 Set the players health to match the number of hearts you need.
 
   
-
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2020.png)
-
+![[playerHealthHeartsInit.png]]
   
 
 Run the game!
 
-  
+  ![[playerHealthHeartsExampleFull.gif]]
 
-![Jun-08-2023 12-59-56.gif](Notionimp/images/Jun-08-2023_12-59-56.gif)
+
 
   
 
@@ -224,13 +207,12 @@ The Partial Version of the script uses the half hearts. This could be used if yo
 To configure the partial version of the health bars, open `[Health.gd](http://Health.gd)` and change the `MODES` to `partial`.
 
   
+![[playerHealthHeartsPartial.png]]
 
-![Untitled](Work/ISD/1%20-%20Digital%20Assets/images/Untitled%2021.png)
 
   
 
 Set the players health to an appropriate value and run the game.
 
   
-
-![Jun-08-2023 13-05-52.gif](Notionimp/images/Jun-08-2023_13-05-52.gif)
+![[playerHealthHeartsExamplePartial.gif]]
