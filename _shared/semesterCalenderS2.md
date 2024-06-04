@@ -8,6 +8,8 @@
 ### 3
 
 ### 4
+**Tuesday** - Ryan out of school.
+**Wednesday** - Ryan out of school.
 
 ### 5
 **Thursday** - Moderation Day
