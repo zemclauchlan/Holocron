@@ -28,7 +28,7 @@ The following file can be viewed as a presentation. After opening it, click the 
 
 ![[openSlidesView.png]]
 
-[[presentationWeek01]]
+[[presentationWeek01|Week 1 Presentation]]
 
 
 # Work to submit
