@@ -40,6 +40,15 @@ note:
 Choose which development environment works for you. There is no right or wrong answer.
 
 ---
+# Project Restructure
+
+- Project restructured to *hide* the existing code. 
+![[w1-ProjectRestructure.png]]
+- Most development will be in `app.py`.
+- Leave `bp_admin.py` & `bp_user_management.py` files alone.
+
+
+---
 
 # Questions?
 
