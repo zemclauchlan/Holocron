@@ -224,7 +224,7 @@ print(GlobalVariables.scoringInformation["highScores"])
 
 The high score system has been implemented!
 
-  ![[Common Blocks#Commit & Push]]
+  ![[commonBlocks#Commit & Push]]
 
   
 

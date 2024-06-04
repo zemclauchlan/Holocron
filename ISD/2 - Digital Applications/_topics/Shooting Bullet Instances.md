@@ -96,4 +96,4 @@ if Input.is_action_just_pressed("player_shoot"):
 Run the game at this stage to test the creation and shooting of bullet instances.
 
 
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]

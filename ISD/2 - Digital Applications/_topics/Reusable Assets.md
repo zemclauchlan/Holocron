@@ -52,4 +52,4 @@ Once you save the `tscn` file, the instances are automatically updated in the ot
 ![2022-08-25 14-13-03.2022-08-25 14_17_41.gif](reusableAssets-WallUpdated.gif)
 
 
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]

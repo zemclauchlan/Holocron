@@ -10,4 +10,4 @@ Welcome to the Subject Website.
 
 
 
-![[Common Blocks#Contact Details]]
+![[commonBlocks#Contact Details]]

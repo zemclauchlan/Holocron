@@ -222,4 +222,4 @@ get_tree().change_scene("res://LoseScene.tscn")
 
 ### The Player’s Health Reaches 0.
 
-  ![[Common Blocks#Commit & Push]]
+  ![[commonBlocks#Commit & Push]]

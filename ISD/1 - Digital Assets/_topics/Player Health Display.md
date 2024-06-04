@@ -216,4 +216,4 @@ Set the players health to an appropriate value and run the game.
 
   
 ![[playerHealthHeartsExamplePartial.gif]]
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]

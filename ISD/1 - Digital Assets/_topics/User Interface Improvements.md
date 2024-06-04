@@ -155,4 +155,4 @@ You're shown a number of aspects to the process:
 
 - Parts of programming, such as loops, functions and arrays.
 
-  ![[Common Blocks#Commit & Push]]
+  ![[commonBlocks#Commit & Push]]

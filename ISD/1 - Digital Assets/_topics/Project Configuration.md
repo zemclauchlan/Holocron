@@ -18,4 +18,4 @@ In this video you are shown how to configure a 2D project in Godot, and introduc
 
 This link contains the images you'll need to start the clone of Space Invaders: [2D Assets](https://drive.google.com/file/d/10LKQkemkH1q27rAZUYc9Sa900K2EIZi9/view?usp=sharing)
 
-  ![[Common Blocks#Commit & Push]]
+  ![[commonBlocks#Commit & Push]]

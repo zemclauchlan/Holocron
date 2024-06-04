@@ -45,4 +45,4 @@ You'll also learn briefly about "Size Flags" to layout the App Info section, exp
 This video focuses on the Buttons the title scene. You'll see how to create the buttons, and modify the fonts to match the title font, and then change the font of all the buttons to a new font.
 
   
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]

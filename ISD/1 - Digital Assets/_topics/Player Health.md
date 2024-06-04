@@ -60,6 +60,6 @@ if "Player" in collidedObject.collider.name:
 Test the functionality.
 
   
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]
 
   

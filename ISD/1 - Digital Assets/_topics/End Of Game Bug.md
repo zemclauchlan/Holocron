@@ -50,4 +50,4 @@ This will need to be added to any point where the scene changes in the main game
 GlobalVariables.Player = null
 ```
 
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]

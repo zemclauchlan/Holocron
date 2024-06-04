@@ -165,7 +165,7 @@ Run the game, and click the start game button on the main menu.
 
 ![player.gif](fpc-PlayerInGame.gif)
 
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]
 
 ## Player Run Functionality
 
@@ -197,4 +197,4 @@ else:
 ```
 
 
-![[Common Blocks#Commit & Push]]
+![[commonBlocks#Commit & Push]]
