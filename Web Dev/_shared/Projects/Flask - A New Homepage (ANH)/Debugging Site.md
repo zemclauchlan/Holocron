@@ -1,5 +1,5 @@
 
-> [!Note]- This may speed up development time.
+> [!Note]- This significantly speeds up development time.
 
 One of the main annoyances with developing in Flask is that you have to stop and restart the server when developing to test new code.
 
