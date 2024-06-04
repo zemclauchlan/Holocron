@@ -1,4 +1,3 @@
-  
 # Welcome to Semester 2
 
 - Continuing Flask development.
@@ -46,7 +45,6 @@ Choose which development environment works for you. There is no right or wrong a
 ![[w1-ProjectRestructure.png]]
 - Most development will be in `app.py`.
 - Leave `bp_admin.py` & `bp_user_management.py` files alone.
-
 
 ---
 
