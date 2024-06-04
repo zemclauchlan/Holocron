@@ -1,11 +1,6 @@
-## Persistent Data
-
-  
-
 In this tutorial, you’ll be shown how to save and load the `scoringInformation` dictionary.
 
   
-
 <aside>
 
 ❓ In this tutorial, only a small amount of data will be saved and loaded, so not a lot of focus on serialisation is done. However if the game requires saving more complex data, you will need to ensure this is done.

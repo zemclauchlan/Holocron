@@ -15,7 +15,7 @@
 | ![[semesterCalendarS1#10]] | [[End Of Game Bug]]                                                        |            |       |
 | School Holidays            |                                                                            |            |       |
 | ![[semesterCalendarS1#11]] | [[Project Finalisation]]                                                   |            |       |
-| ![[semesterCalendarS1#12]] | [[Extension Tutorials]]                                                    |            |       |
+| ![[semesterCalendarS1#12]] | [[Extension Tutorials]]<br>[[Persistent Data]]                             |            |       |
 | ![[semesterCalendarS1#13]] | [[Options Menu]]                                                           |            |       |
 | ![[semesterCalendarS1#14]] | [[Raycasts]]                                                               |            |       |
 | ![[semesterCalendarS1#15]] | [[Win & Lose Conditions]]<br>[[High Score System]]                         |            |       |
