@@ -19,6 +19,9 @@ Everything else *should* remain the same as programming in Codespaces, just loca
 ## Run Website
 [[Run Project]]
 
+## Debugging
+[[Debugging Site]]
+
 # Video
 
 
