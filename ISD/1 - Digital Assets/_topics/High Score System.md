@@ -224,9 +224,7 @@ print(GlobalVariables.scoringInformation["highScores"])
 
 The high score system has been implemented!
 
-  
-
-$* \normalsize \mathcal {\color{black} \colorbox {orange} {Save, Commit and Push Changes to Github!}}$
+  ![[Common Blocks#Commit & Push]]
 
   
 

@@ -73,4 +73,4 @@ func _on_Button_Pressed(scene_to_load):
 	get_tree().change_scene(scene_to_load)
 ```
 
-  
+  ![[Common Blocks#Commit & Push]]

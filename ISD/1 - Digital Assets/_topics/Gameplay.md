@@ -62,3 +62,4 @@ func _physics_process(delta):
 		GlobalVariables.bulletInstanceCount -= 1
 
 ```
+![[Common Blocks#Commit & Push]]

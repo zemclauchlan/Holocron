@@ -50,36 +50,3 @@ You may earn competencies towards the following VET Qualifications
 1) ICT20120 - Certificate II in Applied Digital Technologies
 2) ICT30120 - Certificate III in Information Technologies
 
-
-
-# Content
-
-## Programming Introduction
-
-![[Web Dev - Programming Introduction]]
-
-## Version Control
-![[Web Dev - Version Control]]
-
-## Variables & Data Types
-![[Web Dev - Variables and Data Types]]
-## Algorithms 
-
-### Sequence
-![[Web Dev - Algorithm Sequence]]
-
-### Decisions
-![[Web Dev - Algorithm Decisions]]
-### Loops
-![[Web Dev - Algorithm Loops]]
-
-### Modularisation
-![[Web Dev - Modularisation]]
-
-## Style Guide
-![[Web Dev - Style Guide]]
-
-## Data Structures
-![[Web Dev - Data Structures]]
-
-
