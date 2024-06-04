@@ -1,3 +1,8 @@
+This unit focuses on continuing Flask Website development, in an **online/remote learning environment**. There are no scheduled lessons in the timetable, and it is assumed that students complete the work during the week and submit the necessary items by the end of the week.
+
+> [!warning]- Attendance & Submission of Work
+> The work submitted is a requirement to be deemed to be in attendance for that week. If you do not submit the work, you will not be marked present for the lessons in that week (unless you have contacted the school or teacher with a valid reason).
+
 # Semester Plan
 
 | Week                       | Topic                                                         | Assessment | Notes |
