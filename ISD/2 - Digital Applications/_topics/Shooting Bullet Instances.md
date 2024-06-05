@@ -20,38 +20,27 @@ Open `Player.gd` and add the code to preload the bullet and configure the spawn 
 
 > [!warning] Important - the path to the bullet scene and the bulletSpawn point need to be **exactly** as you’ve defined them in your project. If they are named as something else, your code needs to reflect that.
 
-<tabs>
-<tab title="Screenshot">
-<img src="bulletShooting-PreloadBullet.png" alt="Preload Bullet"/>
-</tab>
-<tab title="Code">
-<code-block>
+![[bulletShooting-PreloadBullet.png]]
+
+```gdscript
 var bulletScene = preload("res://Scenes - Other/bullet.tscn")
 var bulletSpawn
-</code-block>
+```
 
-<code-block>
+```
 bulletSpawn = get_node("Camera3D/bulletSpawn")
-</code-block>
-</tab>
-</tabs>
+```
 
 
 Add a new variable to keep track of the ammunition the player is carrying.
 
 Set the value to something appropriate for your project.
 
-<tabs>
-<tab title="Screenshot">
-<img src="bulletShooting-Ammo.png" alt="Bullet Ammo"/>
-</tab>
-<tab title="Code">
+![[bulletShooting-Ammo.png]]
 
-<code-block>
+```gdscript
 var ammo : int = 15
-</code-block>
-</tab>
-</tabs>
+```
 
 
 Create a new function - `shoot()`- which will run when the shoot input is detected.
@@ -61,36 +50,25 @@ Create a new function - `shoot()`- which will run when the shoot input is detect
 
 ![Untitled](bulletShooting-RootGame.png)
 
-<tabs>
-<tab title="Screenshot">
-<img src="bulletShooting-ScriptShoot.png" alt="Bullet Ammo"/>
-</tab>
-<tab title="Code">
-<code-block>
+![[bulletShooting-ScriptShoot.png]]
+```gdscript
 func shoot ():
     var bullet = bulletScene.instantiate()
     get_node("/root/Doom").add_child(bullet)
     bullet.global_transform = bulletSpawn.global_transform
     bullet.scale = Vector3(0.1,0.1,0.1)
     ammo -= 1
-</code-block>
-</tab>
-</tabs>
+```
+
 
 Update `_physics_process()` to check to see if the player has pressed the `shoot` input. 
 
-<tabs>
-<tab title="Screenshot">
-<img src="bulletShooting-PlayerInput.png" alt="Player Input check"/>
-</tab>
-<tab title="Code">
-<code-block>
+![[bulletShooting-PlayerInput.png]]
+
+```gdscript
 if Input.is_action_just_pressed("player_shoot"):
     shoot()
-</code-block>
-</tab>
-</tabs>
-
+```
 
 Run the game at this stage to test the creation and shooting of bullet instances.
 

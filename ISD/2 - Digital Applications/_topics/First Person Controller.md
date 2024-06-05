@@ -119,36 +119,25 @@ The value can be changed at a later point, however start with 0.002.
 
 Add a new `_ready()` function which will hide the mouse pointer and allow the camera to follow where the mouse is moved.
 
-<tabs>
-<tab title="Screenshot">
-<img src="fpc-ScriptMouseCapture.png" alt="Capture the Mouse"/>
-</tab>
-<tab title="Code">
-<code-block>
+![[fpc-ScriptMouseCapture.png]]
+```gdscript
 func _ready():
     Input.mouse_mode = Input.MOUSE_MODE_CAPTURED
-</code-block>
-</tab>
-</tabs>
+```
+
+
 
 Add a new `_input()` function to get the movement of the mouse, and get the rotation of the player camera to match.
 
-<tabs>
-<tab title="Screenshot">
-<img src="fpc-ScriptAddInputFunc.png" alt="Add input function" />
-</tab>
-<tab title="Code">
-<code-block>
+![[fpc-ScriptAddInputFunc.png]]
+
+```gdscript
 func _input(event):
     if event is InputEventMouseMotion and Input.mouse_mode == Input.MOUSE_MODE_CAPTURED:
         rotate_y(-event.relative.x * mouse_sensitivity)
         $Camera3D.rotate_x(-event.relative.y * mouse_sensitivity)
         $Camera3D.rotation.x = clampf($Camera3D.rotation.x, -deg_to_rad(70), deg_to_rad(70))
-</code-block>
-</tab>
-</tabs>
-
-
+```
 
 
 ## Add the Player to the Scene
