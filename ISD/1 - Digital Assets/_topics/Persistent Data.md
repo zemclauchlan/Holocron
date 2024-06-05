@@ -117,8 +117,7 @@ GlobalVariables.scoringInformation = player_data
 ```
 
   
-
-$* \normalsize \mathcal {\color{black} \colorbox {orange} {Save, Commit and Push Changes to Github!}}$
+  ![[commonBlocks#Commit & Push]]
 
   
 
