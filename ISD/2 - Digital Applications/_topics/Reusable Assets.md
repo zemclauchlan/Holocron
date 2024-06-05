@@ -16,8 +16,8 @@ Rename the node from Node3D to Wall.
 
 Build the mesh of the asset you are building. This part of the process will depend on what you’re developing. 
 
-> Anything beyond the simple ‘block’ shapes may require some 3D modelling software, such as Blender, but that’s beyond the scope of this tutorial. If you’re interested in 3D modelling, there are many tutorials available on Youtube.
-{style="info"}
+> [!note] Anything beyond the simple ‘block’ shapes may require some 3D modelling software, such as Blender, but that’s beyond the scope of this tutorial. If you’re interested in 3D modelling, there are many tutorials available on Youtube.
+
 
 For the wall segment, this can be built by creating a `CSGBox3D` as a child node of `Wall`.
 

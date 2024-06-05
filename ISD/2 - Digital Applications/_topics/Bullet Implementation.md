@@ -9,8 +9,7 @@ Another method, is to use <tooltip term="raycast">raycasts</tooltip>, where the 
 
 ## Bullet Mesh
 
-> This tutorial is going to demonstrate how to create a simple bullet. Your implementation for the model may differ, however the process should be the same.
-{style="note"}
+> [!note] This tutorial is going to demonstrate how to create a simple bullet. Your implementation for the model may differ, however the process should be the same.
 
 Create a new Scene (Scene→New Scene).
 
@@ -36,8 +35,8 @@ Then place them as children of a `CSGCombiner3D`. Name the new node as appropria
 
 Texture the object as you would normally.
 
-> Search for "Metallic texture seamless" to find a metal texture for a bullet.
-{style="note"}
+> [!note] Search for "Metallic texture seamless" to find a metal texture for a bullet.
+
 
 ![Screen Shot 2022-10-04 at 9.51.14 pm.png](bullet-Textured.png)
 
@@ -73,8 +72,7 @@ Still in the Bullet scene, attach a new script to the root node (Bullet) and nam
 
 Add two new variables to control how fast the bullet will travel, and how much damage it will inflict on the object it collides with (if configured to take damage). 
 
-> These can be set to whatever values are appropriate.
-{style="info"}
+> [!note] These can be set to whatever values are appropriate.
 
 | Variable | Type    | Description                                                             |
 |----------|---------|-------------------------------------------------------------------------|
@@ -82,8 +80,7 @@ Add two new variables to control how fast the bullet will travel, and how much d
 | `damage` | `int`   | How much damage the bullet will inflict on the object it collides with. |
 
 
-> This can be used to allow for different weapons with different bullet speeds and damage.
-{style="info"}
+> [!info] This can be used to allow for different weapons with different bullet speeds and damage.
 
 <tabs>
 <tab title="Screenshot">
@@ -166,8 +163,8 @@ Change to the Node tab and double-click on the `timeout()` signal.
 
 Set the Receiver Method to `destroy`.
 
-> You can either type in the function name, or use the Pick button to choose the correct function.
-{style="note"}
+> [!note] You can either type in the function name, or use the Pick button to choose the correct function.
+
 
 Select Connect.
 

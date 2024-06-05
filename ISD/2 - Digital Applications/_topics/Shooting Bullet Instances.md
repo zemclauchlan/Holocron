@@ -1,5 +1,6 @@
 
-> **Prerequisites** - A bullet (or any projectile) scene needs to have been created and saved according to the instructions given on this site. If you have created your own method, you will have to adapt this as necessary.
+> [!note]- **Prerequisites** 
+> A bullet (or any projectile) scene needs to have been created and saved according to the instructions given on this site. If you have created your own method, you will have to adapt this as necessary.
 
 With the bullet created, the game now needs to be configured to *shoot* the bullet. Initially, this will be done in the player script.
 
@@ -11,15 +12,13 @@ Open `Player.tscn` and create a `Node3D` node as a child of the Camera. Name it 
 
 In 3d mode, move `bulletSpawn` to be in front of the camera. 
 
-> It might take some experimentation to make it look correct during game play. You may need to change the position a number of times.
-{style= "tip"}
+> [!note] It might take some experimentation to make it look correct during game play. You may need to change the position a number of times.
 
 ![Untitled](bulletShooting-bulletSpawnPosition.png)
 
 Open `Player.gd` and add the code to preload the bullet and configure the spawn point.
 
-> Important - the path to the bullet scene and the bulletSpawn point need to be **exactly** as you’ve defined them in your project. If they are named as something else, your code needs to reflect that.
-{style="warning"}
+> [!warning] Important - the path to the bullet scene and the bulletSpawn point need to be **exactly** as you’ve defined them in your project. If they are named as something else, your code needs to reflect that.
 
 <tabs>
 <tab title="Screenshot">
@@ -57,8 +56,8 @@ var ammo : int = 15
 
 Create a new function - `shoot()`- which will run when the shoot input is detected.
 
-> Change `/Root/Doom` to the name of your root node in the game scene. E.g. `/Root/MainGame`
-{style="note"}
+> [!note] Change `/Root/Doom` to the name of your root node in the game scene. E.g. `/Root/MainGame`
+
 
 ![Untitled](bulletShooting-RootGame.png)
 

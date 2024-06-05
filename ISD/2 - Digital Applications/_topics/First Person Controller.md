@@ -39,8 +39,8 @@ Resize the dimensions of the capsule, but clicking drop down box next to Capsule
 
 Set the Radius and height to values that suit your game.
 
-> You may find these values need to be modified later to better suit your game.
-{style="note"}
+> [!note] You may find these values need to be modified later to better suit your game.
+
 
 ![Set Radius and Height](fpc-RadiusHeight.png)
 
@@ -58,8 +58,8 @@ Set this camera to be the ‘main’ camera by setting the Current attribute to 
 
 Move the camera up the ‘body’ to appear as if the camera ‘sees’ through the players eyes.
 
-> Exact value is not critical, but it has to suit your capsule size set earlier.
-{style="info"}
+> [!note] Exact value is not critical, but it has to suit your capsule size set earlier.
+
 
 Only change the `Y` value. This is the vertical value. The coordinate system will be discussed at a later time.
 
@@ -98,8 +98,8 @@ Create new inputs for the following actions:
 ![inputmap-new.gif](InputMap-new.gif)
 
 
->️ Pay close attention to the spelling and capitalisation. These will be linked to in the script later.
-{style="info"}
+>️ [!note] Pay close attention to the spelling and capitalisation. These will be linked to in the script later.
+
 
 ## Mouse Look
 
