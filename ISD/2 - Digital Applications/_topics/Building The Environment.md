@@ -41,14 +41,11 @@ This updates the mesh to include 2 child nodes.
 # Texture the floor
 
 
-> A Texture is simply an image that’s applied to a mesh.
-{style="note"}
+> [!note] A **Texture** is simply an image that’s applied to a mesh.
 
 Find an image to suit the environment appropriate for the game. 
 
-
-> TIP: When googling, add the word “seamless” to your image searches. This means that the edges of the image align with the opposite side, meaning that when the image is tiled on a mesh, no edging will be visible.
-{style="info"}
+> [!tip] When searching for images, add the word “seamless” to your searches. This means that the edges of the image align with the opposite side, meaning that when the image is tiled on a mesh, no edging will be visible.
 
 Store the image in a folder created for Images.
 
@@ -67,8 +64,7 @@ There is currently no material attached, hence why the mesh is white. Click on t
 Click on the white sphere that appears. In the menu that appears, expand `Albedo`. 
 
 
-> ‼️ Albedo is the default type for textures. There are many more as you can see in the list.
-{style="info"}
+> [!info] Albedo is the default type for textures. There are many more as you can see in the list.
 
 
 ![Albedo](FPS-Environment-MaterialAlbedo.png)
@@ -77,8 +73,7 @@ Drag the texture from the FileSystem tab to the Texture option under Albedo. The
 
 ![Apply Texture to Material](FPS-Environment-ApplyMaterial.gif)
 
-> This is the same process to texture any of your other assets, unless they’ve been textured prior to importing.
-{style="info"}
+> [!note] This is the same process to texture any of your other assets, unless they’ve been textured prior to importing.
 
 The texture can be ‘tiled’ instead of stretched, by editing the x and y values under `Uv 1`. 
 
