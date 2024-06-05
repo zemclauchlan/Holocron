@@ -82,33 +82,22 @@ Add two new variables to control how fast the bullet will travel, and how much d
 
 > [!info] This can be used to allow for different weapons with different bullet speeds and damage.
 
-<tabs>
-<tab title="Screenshot">
-<img src="bullet-Variables.png" alt="Variables"/>
-</tab>
-<tab title="Code">
-<code-block>
+![[bullet-Variables.png]]
+```gdscript
 var speed : float = 30.0
 var damage : int = 1
-</code-block>
-</tab>
-</tabs>
+```
 
 
 Add code, within the `_process` function to move the bullet instance forward. 
 
-<tabs>
-<tab title="Screenshot">
-<img src="bullet-ScriptMoveBullet.png" alt="Moving the bullet" />
-</tab>
-<tab title="Code">
-<code-block>
+![[bullet-ScriptMoveBullet.png]]
+
+```gdscript
 func _process (delta):
     # move the bullet forwards
     global_transform.origin -= transform.basis.z.normalized() * speed * delta
-</code-block>
-</tab>
-</tabs>
+```
 
 Save the Script.
 
@@ -130,21 +119,17 @@ Also added is the `destroy()` function. This simply deletes the bullet from the 
 
 This has been added in such a way to allow for future modification as required.
 
-<tabs>
-<tab title="Screenshot">
-<img src="bullet-ScriptDamageDestroy.png" alt="Bullet Damage and Destroy" />
-</tab>
-<tab title="Code">
-<code-block>
+![[bullet-ScriptDamageDestroy.png]]
+
+```gdscript
 func _on_Bullet_body_entered(body):
     if body.has_method("take_damage"):
         body.take_damage(damage)
         destroy()
 func destroy():
     queue_free()
-</code-block>
-</tab>
-</tabs>
+```
+
 
 
 ## Automatically deleting the bullet
