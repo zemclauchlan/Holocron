@@ -11,40 +11,40 @@
 >   
 >   These instructions are written for Godot v4.2.2  
 
+# Subject Schedule
 
-| Week                       | Topic                                                         | Assessment | Notes |
-| -------------------------- | ------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br> - [[Reusable Assets]]     |            |       |
-| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br> - [[Bullet Implementation]] |            |       |
-| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br> - [[Enemy Pathfinding]]                       |            |       |
-| ![[semesterCalendarS2#4]]  |                                                               |            |       |
-| ![[semesterCalendarS2#5]]  |                                                               |            |       |
-| ![[semesterCalendarS2#6]]  |                                                               |            |       |
-| ![[semesterCalendarS2#7]]  |                                                               |            |       |
-| ![[semesterCalendarS2#8]]  |                                                               |            |       |
-| ![[semesterCalendarS2#9]]  |                                                               |            |       |
-| ![[semesterCalendarS2#10]] |                                                               |            |       |
-| School Holidays            |                                                               |            |       |
-| ![[semesterCalendarS2#11]] |                                                               |            |       |
-| ![[semesterCalendarS2#12]] |                                                               |            |       |
-| ![[semesterCalendarS2#13]] |                                                               |            |       |
-| ![[semesterCalendarS2#14]] |                                                               |            |       |
-| ![[semesterCalendarS2#15]] |                                                               |            |       |
-| ![[semesterCalendarS2#16]] |                                                               |            |       |
-| ![[semesterCalendarS2#17]] |                                                               |            |       |
-| ![[semesterCalendarS2#18]] |                                                               |            |       |
-| ![[semesterCalendarS2#19]] |                                                               |            |       |
-| ![[semesterCalendarS2#20]] |                                                               |            |       |
+| Week                       | Topic                                                                            | Assessment | Notes |
+| -------------------------- | -------------------------------------------------------------------------------- | ---------- | ----- |
+| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br> - [[Reusable Assets]]                        |            |       |
+| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br> - [[Bullet Implementation]]                    |            |       |
+| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br> - [[Enemy Pathfinding]]<br>Continue Developing your environment. |            |       |
+| ![[semesterCalendarS2#4]]  |                                                                                  |            |       |
+| ![[semesterCalendarS2#5]]  |                                                                                  |            |       |
+| ![[semesterCalendarS2#6]]  |                                                                                  |            |       |
+| ![[semesterCalendarS2#7]]  |                                                                                  |            |       |
+| ![[semesterCalendarS2#8]]  |                                                                                  |            |       |
+| ![[semesterCalendarS2#9]]  |                                                                                  |            |       |
+| ![[semesterCalendarS2#10]] |                                                                                  |            |       |
+| School Holidays            |                                                                                  |            |       |
+| ![[semesterCalendarS2#11]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#12]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#13]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#14]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#15]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#16]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#17]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#18]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#19]] |                                                                                  |            |       |
+| ![[semesterCalendarS2#20]] |                                                                                  |            |       |
 
 # Subject Information
 
-The Unit Outline can be found on Google Classroom.
+| Unit Outline     | Assessments         |
+| ---------------- | ------------------- |
+| Google Classroom | Assessment 1 - 25 % |
+|                  | Assessment 2 - 25 % |
+|                  | Assessment 3 - 50 % |
 
-## Assessments
-
-This unit has a number of assessments, the details can be found in the unit outline.
-
-The details for each assessment can be found on Google Classroom, as they are published.
 
 ![[commonBlocks#Contact Details]]
   
@@ -59,7 +59,7 @@ The details for each assessment can be found on Google Classroom, as they are pu
 | [Shooting Bullet Instances](Shooting%20Bullet%20Instances.md)                                  | ✅           |
 | [[Enemy]]                                                                                      | ✅           |
 | [[Enemy Pathfinding]]                                                                          | ✅           |
-| [Simple Texturing of a Mesh](Simple%20Texturing%20of%20a%20Mesh.md)                            | ❌           |
+| [Simple Texturing of a Mesh](Simple%20Texturing%20of%20a%20Mesh.md)                            | ✅           |
 | [Game Mechanic - Points](Points.md)                                                            | ❌           |
 | [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ❌           |
 | [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ❌           |
