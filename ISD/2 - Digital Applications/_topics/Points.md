@@ -100,3 +100,8 @@ Every frame refresh, this code will take the current_score value and update the 
 ```gdscript
 $Camera3D/playerScore.text = str(Global.current_score)
 ```
+
+![[commonBlocks#Commit & Push]]
+
+# Expanding the Points Mechanic
+Now that you know how to have items give the player points, you can expand it to different objects in the game. Explore the possibilities!
