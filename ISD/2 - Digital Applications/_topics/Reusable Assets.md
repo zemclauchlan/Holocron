@@ -2,7 +2,7 @@ One of the areas of game development that can save you a lot of work in the long
 
 For instance, you can build one ‘master’ copy of a traffic light object, and then have multiple traffic lights throughout the game, all based on the same asset.
 
-> The added benefit to this is that once you have multiple copies of an asset, if you update the master, then all the copies get updated too.
+> [!info] The added benefit to this is that once you have multiple copies of an asset, if you update the master, then all the copies get updated too.
 
 This will be demonstrated here by building a segment of wall that can be duplicated and be used to build a complex room structure.
 
