@@ -1,12 +1,5 @@
 Every FPS needs an enemy!
 
-> [!info]- Which `Body` is best?
-> In this tutorial, you'll be creating a RigidBody3D for the enemy. The player node was created as a CharacterBody3D. Why the change?
-> The basic physic bodies work like this:
-> - `StaticBody3D`: It does not move.
-> - `CharacterBody3D`: You move it.
-> - `RigidBody3D`: The physics engine moves it.
-
 # Create a Scene
 
 Create a new scene (`File`→ `New Scene`) and create the root node as a `RigidBody3D`. This will be the root node of the enemy object.
@@ -57,6 +50,48 @@ With the CollisionShape3D selected, set the Shape attribute to a Capsule.
 > [!note] If you set the MeshInstance3D to be any other shape than a capsule, you may need to modify this step to match.
 
 ![[enemyCollsionShape.png]]
+
+# Navigation Agent
+The next node to add is `NavigationAgent3D`. This is the node that will interact with the NavigationMesh created in another stage.
+
+# Script
+
+Attach a new Script to the enemy node.
+
+![[enemyAttachScript.png]]
+
+Replace the script with the following code.
+
+![[enemyScript.png]]
+
+```gdscript
+extends CharacterBody3D
+
+@onready var nav_agent = $NavigationAgent3D
+var SPEED = 3.0
+
+func update_target_location (target_locaton):
+	nav_agent.set_target_position(target_locaton)
+
+func _physics_process(delta):
+	var current_location = global_transform.origin
+	var next_location = nav_agent.get_next_path_position()
+	
+	# Vector Maths
+	var new_veloicty = (next_location-current_location).normalized() * SPEED
+
+	velocity = new_veloicty
+	
+	move_and_slide()
+	
+```
+
+# Add Enemy Group
+
+With the main enemy node selected, set the group to `enemy`.
+
+![[enemyGroup.png]]
+
 
 # Save The Scene
 
