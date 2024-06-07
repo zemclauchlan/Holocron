@@ -134,5 +134,6 @@
   "anuppuccin-theme-settings@@anp-safari-tab-animated": true,
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-light": false,
   "anuppuccin-theme-settings@@anp-simple-rainbow-collapse-icon-toggle": true,
-  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle"
+  "anuppuccin-theme-settings@@anp-alt-rainbow-style": "anp-full-rainbow-color-toggle",
+  "anuppuccin-theme-settings@@anp-colorful-frame-icon-toggle-dark": false
 }
