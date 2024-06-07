@@ -22,13 +22,12 @@
 | ![[semesterCalendarS2#18]]  |                                                      |            |       |
 | ![[semesterCalendarS2#19]]  |                                                      |            |       |
 | ![[semesterCalendarS2#20]] |                                                      |            |       
+
 # Subject Information
 
-The Unit Outline can be found on Google Classroom.
-
-## Assessments
-
-This unit has a number of assessments, the details can be found in the unit outline.
-
-The details for each assessment can be found on Google Classroom, as they are published.
+| Unit Outline     | Assessments         |
+| ---------------- | ------------------- |
+| Google Classroom | Assessment 1 - 25 % |
+|                  | Assessment 2 - 25 % |
+|                  | Assessment 3 - 50 % |
 

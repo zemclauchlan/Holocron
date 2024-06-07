@@ -29,6 +29,15 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 | ![[semesterCalendarS2#19]] | [Week 19](_topics/Week19.md)                             |            |       |
 | ![[semesterCalendarS2#20]] | [Week 20](_topics/Week20.md)                                                   |            |       |
 
+# Subject Information
+
+| Unit Outline     | Assessments         |
+| ---------------- | ------------------- |
+| Google Classroom | Assessment 1 - 25 % |
+|                  | Assessment 2 - 25 % |
+|                  | Assessment 3 - 50 % |
+
+
 # Introduction
 Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS
 
@@ -75,13 +84,4 @@ Our goal? To build a personal website using Flask, HTML, and CSS.
 
 Remember, mistakes are part of the process. Embrace them, learn from them, and enjoy the journey. Happy coding! 
 
-# Subject Information
-
-The Unit Outline can be found on Google Classroom.
-
-## Assessments
-
-This unit has a number of assessments, the details can be found in the unit outline.
-
-The details for each assessment can be found on Google Classroom, as they are published.
 
