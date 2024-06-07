@@ -62,8 +62,7 @@
 | [Simple Texturing of a Mesh](Simple%20Texturing%20of%20a%20Mesh.md)                            | ✅           |
 | [Game Mechanic - Points](Points.md)                                                            | ✅           |
 | [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ✅           |
-| [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ❌           |
-| [Hiding the Mouse Pointer](Hiding%20the%20Mouse%20Pointer.md)                                  | ❌ - Needed? |
+| [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ✅           |
 | [Raycasting](Raycasting.md)                                                                    | ❌           |
 | [Win Conditions](Win%20Conditions.md)                                                          | ❌           |
 | [Lose Conditions](Lose%20Conditions.md)                                                        | ❌           |
