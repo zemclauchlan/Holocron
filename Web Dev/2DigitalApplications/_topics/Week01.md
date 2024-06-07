@@ -29,9 +29,9 @@ Everything else *should* remain the same as programming in Codespaces, just loca
 
 The following file can be viewed as a presentation. After opening it, click the Slide Show Preview Button.
 
-![[openSlidesView.png]]
+![[Web Dev/2DigitalApplications/_topics/_images/openSlidesView.png]]
 
-[[presentationWeek01|Week 1 Presentation]]
+[[Web Dev/2DigitalApplications/_topics/_presentations/presentationWeek01|Week 1 Presentation]]
 
 
 # Work to submit
