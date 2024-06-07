@@ -16,9 +16,9 @@
 
 | Week                       | Topic                                                                            | Assessment | Notes |
 | -------------------------- | -------------------------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br> - [[Reusable Assets]]                        |            |       |
-| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br> - [[Bullet Implementation]]                    |            |       |
-| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br> - [[Enemy Pathfinding]]<br>Continue Developing your environment. |            |       |
+| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br>- [[Reusable Assets]]                        |            |       |
+| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br>- [[Bullet Implementation]]                    |            |       |
+| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br>- [[Enemy Pathfinding]]<br>Continue Developing your environment. |            |       |
 | ![[semesterCalendarS2#4]]  |                                                                                  |            |       |
 | ![[semesterCalendarS2#5]]  |                                                                                  |            |       |
 | ![[semesterCalendarS2#6]]  |                                                                                  |            |       |
