@@ -7,27 +7,27 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 
 | Week                       | Topic                                                         | Assessment | Notes |
 | -------------------------- | ------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | [Week 1](WebDev/2-Digital-Applications/_topics/Week01.md)  |            |       |
-| ![[semesterCalendarS2#2]]  | [Week 2](WebDev/2-Digital-Applications/_topics/Week02.md)  |            |       |
-| ![[semesterCalendarS2#3]]  | [Week 3](WebDev/2-Digital-Applications/_topics/Week03.md)  |            |       |
-| ![[semesterCalendarS2#4]]  | [Week 4](WebDev/2-Digital-Applications/_topics/Week04.md)  |            |       |
-| ![[semesterCalendarS2#5]]  | [Week 5](WebDev/2-Digital-Applications/_topics/Week05.md)  |            |       |
-| ![[semesterCalendarS2#6]]  | [Week 6](WebDev/2-Digital-Applications/_topics/Week06.md) |            |       |
-| ![[semesterCalendarS2#7]]  | [Week 7](WebDev/2-Digital-Applications/_topics/Week07.md)  |            |       |
-| ![[semesterCalendarS2#8]]  | [Week 8](WebDev/2-Digital-Applications/_topics/Week08.md)  |            |       |
-| ![[semesterCalendarS2#9]]  | [Week 9](WebDev/2-Digital-Applications/_topics/Week09.md) |            |       |
-| ![[semesterCalendarS2#10]] | [Week 10](WebDev/2-Digital-Applications/_topics/Week10.md) |            |       |
+| ![[semesterCalendarS2#1]]  | [Week 1](_topics/Week01.md)  |            |       |
+| ![[semesterCalendarS2#2]]  | [Week 2](_topics/Week02.md)  |            |       |
+| ![[semesterCalendarS2#3]]  | [Week 3](_topics/Week03.md)  |            |       |
+| ![[semesterCalendarS2#4]]  | [Week 4](_topics/Week04.md)  |            |       |
+| ![[semesterCalendarS2#5]]  | [Week 5](_topics/Week05.md)  |            |       |
+| ![[semesterCalendarS2#6]]  | [Week 6](_topics/Week06.md) |            |       |
+| ![[semesterCalendarS2#7]]  | [Week 7](_topics/Week07.md)  |            |       |
+| ![[semesterCalendarS2#8]]  | [Week 8](_topics/Week08.md)  |            |       |
+| ![[semesterCalendarS2#9]]  | [Week 9](_topics/Week09.md) |            |       |
+| ![[semesterCalendarS2#10]] | [Week 10](_topics/Week10.md) |            |       |
 | School Holidays            |                                                               |            |       |
-| ![[semesterCalendarS2#11]] | [Week 11](WebDev/2-Digital-Applications/_topics/Week11.md) |            |       |
-| ![[semesterCalendarS2#12]] | [Week 12](WebDev/2-Digital-Applications/_topics/Week12.md) |            |       |
-| ![[semesterCalendarS2#13]] | [Week 13](WebDev/2-Digital-Applications/_topics/Week13.md) |            |       |
-| ![[semesterCalendarS2#14]] | [Week 14](WebDev/2-Digital-Applications/_topics/Week14.md) |            |       |
-| ![[semesterCalendarS2#15]] | [Week 15](WebDev/2-Digital-Applications/_topics/Week15.md) |            |       |
-| ![[semesterCalendarS2#16]] | [Week 16](WebDev/2-Digital-Applications/_topics/Week16.md) |            |       |
-| ![[semesterCalendarS2#17]] | [Week 17](WebDev/2-Digital-Applications/_topics/Week17.md) |            |       |
-| ![[semesterCalendarS2#18]] | [Week 18](WebDev/2-Digital-Applications/_topics/Week18.md) |            |       |
-| ![[semesterCalendarS2#19]] | [Week 19](WebDev/2-Digital-Applications/_topics/Week19.md)                             |            |       |
-| ![[semesterCalendarS2#20]] | [Week 20](WebDev/2-Digital-Applications/_topics/Week20.md)                                                   |            |       |
+| ![[semesterCalendarS2#11]] | [Week 11](_topics/Week11.md) |            |       |
+| ![[semesterCalendarS2#12]] | [Week 12](_topics/Week12.md) |            |       |
+| ![[semesterCalendarS2#13]] | [Week 13](_topics/Week13.md) |            |       |
+| ![[semesterCalendarS2#14]] | [Week 14](_topics/Week14.md) |            |       |
+| ![[semesterCalendarS2#15]] | [Week 15](_topics/Week15.md) |            |       |
+| ![[semesterCalendarS2#16]] | [Week 16](_topics/Week16.md) |            |       |
+| ![[semesterCalendarS2#17]] | [Week 17](_topics/Week17.md) |            |       |
+| ![[semesterCalendarS2#18]] | [Week 18](_topics/Week18.md) |            |       |
+| ![[semesterCalendarS2#19]] | [Week 19](_topics/Week19.md)                             |            |       |
+| ![[semesterCalendarS2#20]] | [Week 20](_topics/Week20.md)                                                   |            |       |
 
 # Introduction
 Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS
