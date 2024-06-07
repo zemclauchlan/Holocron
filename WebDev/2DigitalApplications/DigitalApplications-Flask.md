@@ -7,7 +7,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 
 | Week                       | Topic                                                         | Assessment | Notes |
 | -------------------------- | ------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | [Week01](WebDev/2DigitalApplications/_topics/Week01.md)  |            |       |
+| ![[semesterCalendarS2#1]]  | [Week01](_topics/Week01.md)  |            |       |
 | ![[semesterCalendarS2#2]]  | [[Web Dev/2DigitalApplications/_topics/Week 02|Week 2]]  |            |       |
 | ![[semesterCalendarS2#3]]  | [[Web Dev/2DigitalApplications/_topics/Week 03|Week 3]]  |            |       |
 | ![[semesterCalendarS2#4]]  | [[Web Dev/2DigitalApplications/_topics/Week 04|Week 4]]  |            |       |
