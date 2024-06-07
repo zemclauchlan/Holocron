@@ -13,7 +13,7 @@ Many will be smaller modules of functionality, like a shopping list, resume buil
 
 - This file (and other 'presentation' files) can be opened as Slides in Obsidian.
 
-![openSlidesView](/WebDev/2DigitalApplications/_topics/_images/openSlidesView.png)
+![openSlidesView](WebDev/2%20-%20Digital%20Applications/_topics/_images/openSlidesView.png)
 
 ---
 # Preparation
@@ -42,7 +42,7 @@ Choose which development environment works for you. There is no right or wrong a
 # Project Restructure
 
 - Project restructured to *hide* the existing code. 
-![[WebDev/2DigitalApplications/_topics/_images/w1-ProjectRestructure.png]]
+![[WebDev/2 - Digital Applications/_topics/_images/w1-ProjectRestructure.png]]
 - Most development will be in `app.py`.
 - Leave `bp_admin.py` & `bp_user_management.py` files alone.
 

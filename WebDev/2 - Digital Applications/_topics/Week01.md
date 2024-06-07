@@ -31,9 +31,9 @@ Everything else *should* remain the same as programming in Codespaces, just loca
 
 The following file can be viewed as a presentation. After opening it, click the Slide Show Preview Button.
 
-![openSlidesView](/WebDev/2DigitalApplications/_topics/_images/openSlidesView.png)
+![openSlidesView](WebDev/2%20-%20Digital%20Applications/_topics/_images/openSlidesView.png)
 
-[This Week's Presentation](_presentations/presentationWeek01.md)
+[This Week's Presentation](WebDev/2%20-%20Digital%20Applications/_topics/_presentations/presentationWeek01.md)
 
 
 
