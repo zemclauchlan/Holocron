@@ -52,3 +52,5 @@ Run the project and you should see the object be destroyed as health reaches 0.
 ![[enemyDamageDemo2.gif]]
 
 > [!note] Remember this process can work for any damageable object in the game - enemies, walls, doors etc.
+
+![[commonBlocks#Commit & Push]]
