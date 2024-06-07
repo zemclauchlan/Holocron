@@ -1,5 +1,3 @@
-[newName](newName.md)
-
 
 Welcome to the Subject Website. 
 
