@@ -1,4 +1,5 @@
-> [!info]- Welcome to this tutorial on building a First-Person Shooter (FPS) game using Godot
+> [!info]- Project Overview
+> Welcome to this tutorial on building a First-Person Shooter (FPS) game using Godot
 >   This tutorial is designed to guide you through the process of creating an FPS game from scratch, providing step-by-step instructions and explanations along the way.  
 >   
 >   Godot is a powerful, open-source game engine that is highly flexible and customisable, making it an excellent choice for game development.   
@@ -64,6 +65,6 @@
 | [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ✅           |
 | [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ✅           |
 | [Raycasting](Raycasting.md)                                                                    | ✅           |
-| [Win Conditions](Win%20Conditions.md)                                                          | ❌           |
-| [Lose Conditions](Lose%20Conditions.md)                                                        | ❌           |
+| [Win Conditions](Win%20Conditions.md)                                                          | TBA           |
+| [Lose Conditions](Lose%20Conditions.md)                                                        | TBA           |
 #DigitalTechnologies #ISD #DigitalTechnologies/DigitalApplications #Godot
