@@ -13,7 +13,7 @@ Many will be smaller modules of functionality, like a shopping list, resume buil
 
 - This file (and other 'presentation' files) can be opened as Slides in Obsidian.
 
-![[WebDev/2DigitalApplications/_topics/_images/openSlidesView.png]]
+![openSlidesView](/WebDev/2DigitalApplications/_topics/_images/openSlidesView.png)
 
 ---
 # Preparation

@@ -2,5 +2,5 @@ Click on and Accept the Assignment in GitHub Classroom.
 
 https://classroom.github.com/a/6DQ8yZw8
 
-![githubAcceptAssignment](/WebDev/_shared/Projects/ANH/images/githubAcceptAssignment.png)
+![Accept Assignment](/WebDev/_shared/Projects/ANH/images/githubAcceptAssignment.png)
 
