@@ -1,4 +1,3 @@
-# FPS - First Person Player Scene
 
 As this game is a First-Person Shooter, there is no need to create a mesh for the player object, as in game, the player will never see it.
 
@@ -9,7 +8,7 @@ There are two main steps to creating the player:
 1. Making the player scene, creating nodes etc, and 
 2. Coding the functionality.
 
-## The Player Scene
+# The Player Scene
 
 Create a new Scene. 
 
@@ -140,7 +139,7 @@ func _input(event):
 ```
 
 
-## Add the Player to the Scene
+# Add the Player to the Scene
 
 Open the Scene/s that you wish to add the player to.
 
@@ -148,7 +147,7 @@ Drag the `player.tscn` file into the hierarchy. Initially this will be `level_on
 
 ![Add Player](fpc-AddPlayer.png)
 
-## Test the game.
+# Test the game.
 
 Run the game, and click the start game button on the main menu.
 
@@ -156,7 +155,7 @@ Run the game, and click the start game button on the main menu.
 
 ![[commonBlocks#Commit & Push]]
 
-## Player Run Functionality
+# Player Run Functionality
 
 To implement a simple run functionality, `Player.gd` can be updated to modify `SPEED` based on whether the shift key is held down or not.
 
