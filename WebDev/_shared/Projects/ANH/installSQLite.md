@@ -7,4 +7,5 @@ Once the project is open, go to the Terminal Tab and enter the following command
 `sudo apt install sqlite3`
 
 Hitting enter after each command.
-![[WebDev/_shared/Projects/ANH/images/sqliteInstall.png]]
+
+![sqliteInstall](/WebDev/_shared/Projects/ANH/images/sqliteInstall.png)
