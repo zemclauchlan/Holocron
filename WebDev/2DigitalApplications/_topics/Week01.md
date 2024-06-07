@@ -33,7 +33,7 @@ The following file can be viewed as a presentation. After opening it, click the 
 
 ![openSlidesView](/WebDev/2DigitalApplications/_topics/_images/openSlidesView.png)
 
-[Week 1 Presentation](/WebDev/2DigitalApplications/_topics/_presentations/presentationWeek01.md)
+[This Week's Presentation](_presentations/presentationWeek01.md)
 
 
 
