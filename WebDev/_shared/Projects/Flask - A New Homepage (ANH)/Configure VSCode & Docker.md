@@ -9,11 +9,11 @@ Once that's been done, you can clone the project to your computer.
 
 Open the project in Visual Studio code by choosing Open Folder from the file menu. Choose the folder that you clones the project into.
 
-![[vsCodeOpen.png]]
+![[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/images/vsCodeOpen.png]]
 
 When the project opens, you'll be asked whether you want to reopen the project in the container.
 
-![[vsCodeOpenInContainer.png]]
+![[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/images/vsCodeOpenInContainer.png]]
 
 Choose that option and the project will reopen, as well as Docker in the background. 
 

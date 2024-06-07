@@ -2,5 +2,5 @@ Click on and Accept the Assignment in GitHub Classroom.
 
 https://classroom.github.com/a/6DQ8yZw8
 
-![[githubAcceptAssignment.png]]
+![[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/images/githubAcceptAssignment.png]]
 

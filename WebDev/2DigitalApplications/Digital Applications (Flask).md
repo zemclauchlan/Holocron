@@ -7,7 +7,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 
 | Week                       | Topic                                                         | Assessment | Notes |
 | -------------------------- | ------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | [Week01](Web%20Dev/2DigitalApplications/_topics/Week01.md)  |            |       |
+| ![[semesterCalendarS2#1]]  | [Week01](WebDev/2DigitalApplications/_topics/Week01.md)  |            |       |
 | ![[semesterCalendarS2#2]]  | [[Web Dev/2DigitalApplications/_topics/Week 02|Week 2]]  |            |       |
 | ![[semesterCalendarS2#3]]  | [[Web Dev/2DigitalApplications/_topics/Week 03|Week 3]]  |            |       |
 | ![[semesterCalendarS2#4]]  | [[Web Dev/2DigitalApplications/_topics/Week 04|Week 4]]  |            |       |
@@ -26,8 +26,8 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 | ![[semesterCalendarS2#16]] | [[Web Dev/2DigitalApplications/_topics/Week 16|Week 16]] |            |       |
 | ![[semesterCalendarS2#17]] | [[Web Dev/2DigitalApplications/_topics/Week 17|Week 17]] |            |       |
 | ![[semesterCalendarS2#18]] | [[Web Dev/2DigitalApplications/_topics/Week 18|Week 18]] |            |       |
-| ![[semesterCalendarS2#19]] | [[Web Dev/2DigitalApplications/_topics/Week19]]                                                   |            |       |
-| ![[semesterCalendarS2#20]] | [[Web Dev/2DigitalApplications/_topics/Week20]]                                                   |            |       |
+| ![[semesterCalendarS2#19]] | [[WebDev/2DigitalApplications/_topics/Week19]]                                                   |            |       |
+| ![[semesterCalendarS2#20]] | [[WebDev/2DigitalApplications/_topics/Week20]]                                                   |            |       |
 
 # Introduction
 Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS

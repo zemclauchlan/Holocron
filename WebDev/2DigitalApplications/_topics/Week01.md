@@ -4,23 +4,23 @@
 www.github.com
 
 ## Accept the GitHub Assignment
-[[Accept Assignment]]
+[[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/Accept Assignment]]
 
 ## OPTIONAL Configure Visual Studio Code & Docker
 You can choose to develop the website in Codespaces, or you can configure your device (not Chromebook) so that you can develop the site with Visual Studio Code and Docker. 
 
 Everything else *should* remain the same as programming in Codespaces, just locally rather than online.
 
-[[Configure VSCode & Docker]]
+[[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/Configure VSCode & Docker]]
 
 ## Install SQLite
-[[Install SQLite]]
+[[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/Install SQLite]]
 
 ## Run Website
-[[Run Project]]
+[[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/Run Project]]
 
 ## Debugging
-[[Debugging Site]]
+[[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/Debugging Site]]
 
 # Video
 
@@ -29,9 +29,9 @@ Everything else *should* remain the same as programming in Codespaces, just loca
 
 The following file can be viewed as a presentation. After opening it, click the Slide Show Preview Button.
 
-![[Web Dev/2DigitalApplications/_topics/_images/openSlidesView.png]]
+![[WebDev/2DigitalApplications/_topics/_images/openSlidesView.png]]
 
-[[Web Dev/2DigitalApplications/_topics/_presentations/presentationWeek01|Week 1 Presentation]]
+[[WebDev/2DigitalApplications/_topics/_presentations/presentationWeek01|Week 1 Presentation]]
 
 
 # Work to submit

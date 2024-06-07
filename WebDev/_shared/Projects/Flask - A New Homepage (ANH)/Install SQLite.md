@@ -7,4 +7,4 @@ Once the project is open, go to the Terminal Tab and enter the following command
 `sudo apt install sqlite3`
 
 Hitting enter after each command.
-![[sqliteInstall.png]]
+![[WebDev/_shared/Projects/Flask - A New Homepage (ANH)/images/sqliteInstall.png]]
