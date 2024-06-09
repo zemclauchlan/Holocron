@@ -64,7 +64,7 @@
 | [Game Mechanic - Points](Points.md)                                                            | ✅           |
 | [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ✅           |
 | [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ✅           |
-| [Raycasting](Raycasting.md)                                                                    | ✅           |
+| [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/Raycasting.md)                                                                    | ✅           |
 | [Win Conditions](Win%20Conditions.md)                                                          | TBA           |
 | [Lose Conditions](Lose%20Conditions.md)                                                        | TBA           |
 #DigitalTechnologies #ISD #DigitalTechnologies/DigitalApplications #Godot
