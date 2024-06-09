@@ -42,20 +42,20 @@ SORT priority
   
 # Tutorial "Upgrade" Status  
 
-| **Tutorial**                                                                                   | **Status**  |
-| ---------------------------------------------------------------------------------------------- | ----------- |
-| [Building the Environment](Building%20The%20Environment.md)                                    | ✅           |
-| [First Person Controller](First%20Person%20Controller.md)                                      | ✅           |
-| [Reusable Assets](Reusable%20Assets.md)                                                        | ✅           |
-| [Bullet Implementation](Bullet%20Implementation.md)                                            | ✅           |
-| [Shooting Bullet Instances](Shooting%20Bullet%20Instances.md)                                  | ✅           |
-| [[Enemy]]                                                                                      | ✅           |
-| [[Enemy Pathfinding]]                                                                          | ✅           |
-| [Simple Texturing of a Mesh](Simple%20Texturing%20of%20a%20Mesh.md)                            | ✅           |
-| [Game Mechanic - Points](Points.md)                                                            | ✅           |
-| [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ✅           |
-| [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ✅           |
-| [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/Raycasting.md)                                                                    | ✅           |
-| [Win Conditions](Win%20Conditions.md)                                                          | TBA           |
-| [Lose Conditions](Lose%20Conditions.md)                                                        | TBA           |
+| **Tutorial**                                                                                   | **Status** |
+| ---------------------------------------------------------------------------------------------- | ---------- |
+| [Building the Environment](Building%20The%20Environment.md)                                    | ✅         |
+| [First Person Controller](First%20Person%20Controller.md)                                      | ✅         |
+| [Reusable Assets](Reusable%20Assets.md)                                                        | ✅         |
+| [Bullet Implementation](Bullet%20Implementation.md)                                            | ✅         |
+| [Shooting Bullet Instances](Shooting%20Bullet%20Instances.md)                                  | ✅         |
+| [Enemy](ISD/2%20-%20Digital%20Applications/_topics/Enemy.md)                                   | ✅         |
+| [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/Enemy%20Pathfinding.md)         | ✅         |
+| [Simple Texturing of a Mesh](Simple%20Texturing%20of%20a%20Mesh.md)                            | ✅         |
+| [Game Mechanic - Points](Points.md)                                                            | ✅         |
+| [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ✅         |
+| [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ✅         |
+| [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/Raycasting.md)                         | ✅         |
+| [Win Conditions](Win%20Conditions.md)                                                          | TBA        |
+| [Lose Conditions](Lose%20Conditions.md)                                                        | TBA        |
 #DigitalTechnologies #ISD #DigitalTechnologies/DigitalApplications #Godot
