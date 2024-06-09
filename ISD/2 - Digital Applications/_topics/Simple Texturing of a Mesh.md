@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 8
+---
+
 
 > [!info] Texturing is the process of applying an image to a 3D object.
 

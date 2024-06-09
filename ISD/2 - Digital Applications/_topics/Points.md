@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 9
+---
+
 # Global Script
 
 > [!tip]- Global script

@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 5
+---
+
 
 > [!note]- **Prerequisites** 
 > A bullet (or any projectile) scene needs to have been created and saved according to the instructions given on this site. If you have created your own method, you will have to adapt this as necessary.

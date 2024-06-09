@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 4
+---
+
 There are numerous ways to implement shooting in an FPS (or other type of) game. 
 
 The first is through creating projectiles (such as bullets) for the player to shoot. The bullets will hit objects in their direct path, and can cause damage. This method is the focus for this section of the project.

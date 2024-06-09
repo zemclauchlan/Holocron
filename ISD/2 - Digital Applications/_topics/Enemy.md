@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 6
+---
+
 Every FPS needs an enemy!
 
 # Create a Scene

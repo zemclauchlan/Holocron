@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 11
+---
+
 > [!note]- Prerequisites
 > - The bullets and enemy have been created
 > - the bullets fire.

@@ -1,3 +1,10 @@
+---
+author: Ryan Cather
+date: 2024-06-09
+priority: 1
+order: 7
+---
+
 # Navmesh
 
 Open your first level (level_one.tscn) and add a `NavigationRegion3D` as a child to the root node.
