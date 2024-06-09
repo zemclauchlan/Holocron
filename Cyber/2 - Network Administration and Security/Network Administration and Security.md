@@ -1,7 +1,7 @@
 
 | Week                       | Topic                                            | Assessment | Notes |     |
 | -------------------------- | ------------------------------------------------ | ---------- | ----- | --- |
-| ![[semesterCalendarS2#1]]  | [[Project Overview]]<br>[[Project Requirements]] |            |       |     |
+| ![[semesterCalendarS2#1]]  | [[Cyber/2 - Network Administration and Security/_topics/Project Overview]]<br>[[Project Requirements]] |            |       |     |
 | ![[semesterCalendarS2#2]]  |                                                  |            |       |     |
 | ![[semesterCalendarS2#3]]  |                                                  |            |       |     |
 | ![[semesterCalendarS2#4]]  |                                                  |            |       |     |
