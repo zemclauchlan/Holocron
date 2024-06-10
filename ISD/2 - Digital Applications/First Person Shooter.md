@@ -14,29 +14,29 @@
 
 # Subject Schedule
 
-| Week                       | Topic                                                                            | Assessment | Notes |
-| -------------------------- | -------------------------------------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br>- [[Reusable Assets]]                        |            |       |
-| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br>- [[Bullet Implementation]]                    |            |       |
-| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br>- [[Enemy Pathfinding]]<br>Continue Developing your environment. |            |       |
-| ![[semesterCalendarS2#4]]  |                                                                                  |            |       |
-| ![[semesterCalendarS2#5]]  |                                                                                  |            |       |
-| ![[semesterCalendarS2#6]]  |                                                                                  |            |       |
-| ![[semesterCalendarS2#7]]  |                                                                                  |            |       |
-| ![[semesterCalendarS2#8]]  |                                                                                  |            |       |
-| ![[semesterCalendarS2#9]]  |                                                                                  |            |       |
-| ![[semesterCalendarS2#10]] |                                                                                  |            |       |
-| School Holidays            |                                                                                  |            |       |
-| ![[semesterCalendarS2#11]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#12]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#13]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#14]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#15]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#16]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#17]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#18]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#19]] |                                                                                  |            |       |
-| ![[semesterCalendarS2#20]] |                                                                                  |            |       |
+| Week                       | Project Work                                                                    | Misc Tasks                                           | Assessment | Notes |
+| -------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------- | ----- |
+| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br>- [[Reusable Assets]]                        | [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |       |
+| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br>- [[Bullet Implementation]]                    |                                                      |            |       |
+| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br>- [[Enemy Pathfinding]]<br>Continue Developing your environment. |                                                      |            |       |
+| ![[semesterCalendarS2#4]]  |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#5]]  |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#6]]  |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#7]]  |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#8]]  |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#9]]  |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#10]] |                                                                                 |                                                      |            |       |
+| School Holidays            |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#11]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#12]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#13]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#14]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#15]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#16]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#17]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#18]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#19]] |                                                                                 |                                                      |            |       |
+| ![[semesterCalendarS2#20]] |                                                                                 |                                                      |            |       |
 
 # Subject Information
 
