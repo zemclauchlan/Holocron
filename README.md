@@ -1,6 +1,6 @@
 # LTC Holocron
 
-You may fork this repository and suggest changes (via Pull Requests) 
+It is suggested that you fork this repository and view it in Obsidian.
 
 ## How to Use This Repository
 
