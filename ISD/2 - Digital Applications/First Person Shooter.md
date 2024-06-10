@@ -14,11 +14,11 @@
 
 # Subject Schedule
 
-| Week                       | Project Work                                                                    | Misc Tasks                                           | Assessment | Notes |
+| Week                       | Project Work                                                                    | Class Tasks                                          | Assessment | Notes |
 | -------------------------- | ------------------------------------------------------------------------------- | ---------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  | - [[Building The Environment]] <br>- [[Reusable Assets]]                        | [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |       |
-| ![[semesterCalendarS2#2]]  | - [[First Person Controller]]<br>- [[Bullet Implementation]]                    |                                                      |            |       |
-| ![[semesterCalendarS2#3]]  | - [[Enemy]]<br>- [[Enemy Pathfinding]]<br>Continue Developing your environment. |                                                      |            |       |
+| ![[semesterCalendarS2#1]]  | - [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/Building%20The%20Environment.md) <br>- [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/Reusable%20Assets.md)                       | - [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |       |
+| ![[semesterCalendarS2#2]]  | - [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/First%20Person%20Controller.md)<br>- [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/Bullet%20Implementation.md)                    |                                                      |            |       |
+| ![[semesterCalendarS2#3]]  | - [Enemy](ISD/2%20-%20Digital%20Applications/_topics/Enemy.md) <br>- [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/Enemy%20Pathfinding.md) <br> | Continue Developing your environment.                                                     |            |       |
 | ![[semesterCalendarS2#4]]  |                                                                                 |                                                      |            |       |
 | ![[semesterCalendarS2#5]]  |                                                                                 |                                                      |            |       |
 | ![[semesterCalendarS2#6]]  |                                                                                 |                                                      |            |       |
