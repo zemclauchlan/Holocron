@@ -14,13 +14,13 @@ Similar to the apporach taken with the Player object, each enemy (or any other o
 > [!important] Each object or enemy that you wish to take damage needs to be configured in the same way.
 
 > [!note] The object taking damage will need to have a `CollisionShape3D` configured as a direct child of the root node.
-> ![[enemyDamageChildNode.png]]
+> ![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageChildNode.png]]
 
 Open the `enemy.gd` script  - or the script attached to the object that you wish to take damage.
 
 Add a simple `take_damage(damage_amount)` function to the script, which simply outputs a test message to ensure that the process works.
 
-![[enemyDamageFunction.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageFunction.png]]
 
 ```gdscript
 func take_damage(damage):
@@ -29,7 +29,7 @@ func take_damage(damage):
 
 Run the game at this stage to test the collision.
 
-![[enemyDamageDemo1.gif]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageDemo1.gif]]
 
 
 > [!tip] You may find it useful to slow the bullets down to properly test, as can be seen in this example.
@@ -37,7 +37,7 @@ Run the game at this stage to test the collision.
 
 Add a global `health` variable at the top of the script and set the value to 100.
 
-![[enemyDamageVarInit.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageVarInit.png]]
 
 ```gdscript
 var health = 100
@@ -45,7 +45,7 @@ var health = 100
 
 Update `take_damage()` to reduce the amount of health, and then check if the health has reached zero. If so, then delete the object.
 
-![[enemyDamageFunctionUpdate.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageFunctionUpdate.png]]
 
 ```gdscript
 func take_damage(damage):
@@ -56,7 +56,7 @@ func take_damage(damage):
 
 Run the project and you should see the object be destroyed as health reaches 0.
 
-![[enemyDamageDemo2.gif]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageDemo2.gif]]
 
 > [!note] Remember this process can work for any damageable object in the game - enemies, walls, doors etc.
 

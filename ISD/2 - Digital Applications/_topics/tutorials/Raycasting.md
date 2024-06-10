@@ -16,19 +16,19 @@ First, you can choose to create a new input trigger for raycasting. Go to Projec
 
 > [!info] In this example the key `r` has been assigned. You can choose another key or mouse button as required.
 
-![[raycastAddInput.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastAddInput.png]]
 
 # Player Object
 
 Open the Player object (`Player.tscn`) and create a **RayCast3D** child object of the Camera node.
 
-![[raycastAddChild.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastAddChild.png]]
 
 With RayCast3D selected, set the Enabled option to be true in the Inspector. Additionally, get the **Target Position** settings to  `0, 0, -10`. This will set the ray cast to be set to be in the direction of the camera.
 
 > [!tip] You should see the raycast line aiming in the same direction of the camera. If not you may need to change these settings. 
 
-![[raycastSetDirection.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastSetDirection.png]]
 
 
 
@@ -50,7 +50,7 @@ Save the `Player.tscn` file.
 
 Open `Player.gd` and add two new variables at the top of the script to store connection to the raycast nodes.
 
-![[raycastVariableDeclaration.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastVariableDeclaration.png]]
 
 ```gdscript
 @onready var ray = $Camera3D/RayCast3D
@@ -62,7 +62,7 @@ If they have, then the code will check to see if the raycast is actually collidi
 
 If it does collide with a collider, then it will check if that object has a function called `raycast_collision()` in it’s script (to be written later). If it does, run that function.
 
-![[raycastPlayerScriptDetect.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastPlayerScriptDetect.png]]
 
 ```gdscript
 if Input.is_action_pressed("raycast"):
@@ -86,15 +86,15 @@ For objects to be detected by raycasts in this implementation there **must** be 
 
 In order to detect the Enemy object with raycasts, you will need to add a RigidBody3D and another CollisionShape3D to the object.
 
-![[raycastEnemyChildNodes.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastEnemyChildNodes.png]]
 
 Add a CapsuleShape3D to the newCollisionShape3D
 
-![[raycastEnemyAddShape.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastEnemyAddShape.png]]
 
 Edit `enemy.gd` to add the new function which will run with a raycast detection.
 
-![[raycastEnemyCollision.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastEnemyCollision.png]]
 
 ```gdscript
 func raycast_collision():
@@ -108,7 +108,7 @@ func raycast_collision():
 
 Objects can be quickly edited to add a CSG shape, such as `CSGBox3D` enabled for collisions. For example, the wall objects can be modified to include this.
 
-![[rayCastWallUseCollision.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/rayCastWallUseCollision.png]]
 
 Attach a script to the Wall root node. Include the function and at this stage simply output that the raycast has been detected.
 
@@ -117,13 +117,13 @@ func raycast_collision():
 	print("ray hit")
 ```
 
-![[raycastWallScript.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastWallScript.png]]
 
 Save the Wall scene and script.
 
 When the game is now run, aim at a wall and press the `ray` input. The “ray hit” output should be visible in the Output.
 
-![[raycastOutput.png]]
+![[ISD/2 - Digital Applications/_topics/tutorials/images/raycastOutput.png]]
 
 Any other objects in the game can react to raycasts but following the same process of adding a collider as a child, such as a `CSGBox3D`, and including a script with a `raycast_collision()` function included.
 

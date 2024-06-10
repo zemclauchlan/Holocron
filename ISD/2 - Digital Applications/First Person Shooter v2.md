@@ -44,18 +44,18 @@ SORT priority
 
 | **Tutorial**                                                                                   | **Status** |
 | ---------------------------------------------------------------------------------------------- | ---------- |
-| [Building the Environment](Building%20The%20Environment.md)                                    | ✅         |
-| [First Person Controller](First%20Person%20Controller.md)                                      | ✅         |
-| [Reusable Assets](Reusable%20Assets.md)                                                        | ✅         |
-| [Bullet Implementation](Bullet%20Implementation.md)                                            | ✅         |
-| [Shooting Bullet Instances](Shooting%20Bullet%20Instances.md)                                  | ✅         |
-| [Enemy](ISD/2%20-%20Digital%20Applications/_topics/Enemy.md)                                   | ✅         |
-| [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/Enemy%20Pathfinding.md)         | ✅         |
-| [Simple Texturing of a Mesh](Simple%20Texturing%20of%20a%20Mesh.md)                            | ✅         |
-| [Game Mechanic - Points](Points.md)                                                            | ✅         |
-| [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/Player%20Health.md) | ✅         |
-| [Game Mechanic - Objects Taking Damage](Objects%20Taking%20Damage.md)                          | ✅         |
-| [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/Raycasting.md)                         | ✅         |
-| [Win Conditions](Win%20Conditions.md)                                                          | TBA        |
-| [Lose Conditions](Lose%20Conditions.md)                                                        | TBA        |
+| [Building the Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)                                    | ✅         |
+| [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)                                      | ✅         |
+| [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)                                                        | ✅         |
+| [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md)                                            | ✅         |
+| [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)                                  | ✅         |
+| [Enemy](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy.md)                                   | ✅         |
+| [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy%20Pathfinding.md)         | ✅         |
+| [Simple Texturing of a Mesh](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Simple%20Texturing%20of%20a%20Mesh.md)                            | ✅         |
+| [Game Mechanic - Points](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Points.md)                                                            | ✅         |
+| [Game Mechanic - Player Health](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Player%20Health.md) | ✅         |
+| [Game Mechanic - Objects Taking Damage](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Objects%20Taking%20Damage.md)                          | ✅         |
+| [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)                         | ✅         |
+| [Win Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Win%20Conditions.md)                                                          | TBA        |
+| [Lose Conditions](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Lose%20Conditions.md)                                                        | TBA        |
 #DigitalTechnologies #ISD #DigitalTechnologies/DigitalApplications #Godot
