@@ -76,7 +76,7 @@ The cost of the indicated path is 4.
 > [!important] It's important to note that in the example above, there is only one cost listed for travelling each edge. In reality there can be many costs. If you consider a GPS navigation system, there would be traffic, speed limit, accidents, roadworks, number of traffic lights or roundabouts etc.
 > The A* Algorithm can take any number of costs associated with the edges and nodes to find the most efficient path.
 
-# Different Cost, Different Path
+## Different Cost, Different Path
 
 If the costs are different, the resultant path may be vastly different.
 
@@ -85,7 +85,7 @@ What's the most efficient path in this example?
 
 ![aStartCostChange](ISD/2%20-%20Digital%20Applications/_topics/theory/images/aStartCostChange.png)
 
-# How Does the Computer Do It?
+## How Does the Computer Do It?
 
 Humans can look at the information above and relatively quickly work out the best path, however computer are not that clever and they need to follow an algorithm to solve the problem.
 
@@ -93,13 +93,13 @@ The pathfinding agent (the "player" at the start point) first finds the nodes ad
 
 Which node does it choose first? The one with the lowest cost.
 
-## Stage 1
+### Stage 1
 
 Given the cost of the edge from the starting node, the cost to get to the adjacent nodes is both 1.
 
 ![aStarStep1](ISD/2%20-%20Digital%20Applications/_topics/theory/images/aStarStep1.png)
 
-## Stage 2
+### Stage 2
 
 In this next step the next stage is calculated, using the nodes adjacent to the Stage 1 nodes.
 
@@ -109,11 +109,11 @@ The most efficient routes are the ones indicated by the arrows. They are priorit
 
 ![aStarStep2](ISD/2%20-%20Digital%20Applications/_topics/theory/images/aStarStep2.png)
 
-## Stage 3+
+### Stage 3+
 
 The process continues calculating as many paths as required to reach the destination. It starts each stage with the lowest cost path to check if that path is more efficient than all other paths.
 
 ![aStarStep3](ISD/2%20-%20Digital%20Applications/_topics/theory/images/aStarStep3.png)
-# Limitations Of A*
+## Limitations Of A*
 
 While A* is great for calculating a path between two set points, it struggles when the nodes are not static - i.e. when they move. The algorithm doesn't cater well for walls or obstacles that can move, because then the path has to be recalculated
