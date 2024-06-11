@@ -9,7 +9,7 @@
 
 # Recap: Positions
 
-As you may recall, every object in Godo has a position in the three dimensional space. This position is made up of **three** components - the `x`, `y` and `z` values.
+As you may recall, every object in Godot has a position in the three dimensional space. This position is made up of **three** components - the `x`, `y` and `z` values.
 
 Each object has a world position which is it's position relating to `world zero` (0,0,0).
 
