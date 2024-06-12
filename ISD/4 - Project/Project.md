@@ -3,30 +3,29 @@
 
 # Semester Plan
 
-
-| Week                     | Topic                                                | Assessment | Notes |
-| ------------------------ | ---------------------------------------------------- | ---------- | ----- |
-| ![[semesterCalendarS2#1]]  |  |            |       |
-| ![[semesterCalendarS2#2]]  |                           |            |       |
-| ![[semesterCalendarS2#3]]  |                            |            |       |
-| ![[semesterCalendarS2#4]]  |                                                      |            |       |
-| ![[semesterCalendarS2#5]]  |                                                      |            |       |
-| ![[semesterCalendarS2#6]]  |                                                      |            |       |
-| ![[semesterCalendarS2#7]]  |                                                      |            |       |
-| ![[semesterCalendarS2#8]]  |                                                      |            |       |
-| ![[semesterCalendarS2#9]]  |                                                      |            |       |
-| ![[semesterCalendarS2#10]] |                                                      |            |       |
-| School Holidays          |                                                      |            |       |
-| ![[semesterCalendarS2#11]] |                                                      |            |       |
-| ![[semesterCalendarS2#12]] |                                                      |            |       |
-| ![[semesterCalendarS2#13]] |                                                      |            |       |
-| ![[semesterCalendarS2#14]]  |                                                      |            |       |
-| ![[semesterCalendarS2#15]]  |                                                      |            |       |
-| ![[semesterCalendarS2#16]]  |                                                      |            |       |
-| ![[semesterCalendarS2#17]]  |                                                      |            |       |
-| ![[semesterCalendarS2#18]]  |                                                      |            |       |
-| ![[semesterCalendarS2#19]]  |                                                      |            |       |
-| ![[semesterCalendarS2#20]] |                                                      |            |       |
+| Week                       | Theory | Practical                                                                                                                                                                                                          | Class Tasks                                            | Assessment |
+| -------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ---------- |
+| ![[semesterCalendarS2#1]]  |        | - [Introduction](ISD/4%20-%20Project/_topics/Introduction.md)<br> - [Project Overview](ISD/4%20-%20Project/_topics/Project%20Overview.md)<br>- [Team Definition](ISD/4%20-%20Project/_topics/Team%20Definition.md) | - [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |
+| ![[semesterCalendarS2#2]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#3]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#4]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#5]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#6]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#7]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#8]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#9]]  |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#10]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| School Holidays            |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#11]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#12]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#13]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#14]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#15]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#16]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#17]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#18]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#19]] |        |                                                                                                                                                                                                                    |                                                        |            |
+| ![[semesterCalendarS2#20]] |        |                                                                                                                                                                                                                    |                                                        |            |
 
 # Subject Information
 
