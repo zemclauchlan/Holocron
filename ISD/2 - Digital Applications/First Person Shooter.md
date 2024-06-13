@@ -14,9 +14,37 @@
 
 # Subject Schedule
 
+## Week 1
+![[semesterCalendarS2#1]]
+
+### Topics
+- [ ] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
+- [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
+- [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
+- [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
+- [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
+
+
+
+## Week 2
+![[semesterCalendarS2#1]] 
+
+### Topics
+
+- [ ] [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)
+- [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
+- [ ] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
+
+
+## Week 3
+
+## Week 4
+
+
+
 | Week                       | Theory                                                                          | Practical                                                                                                                                                                                                                      | Class Tasks                                            | Assessment |
 | -------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ---------- |
-| ![[semesterCalendarS2#1]]  | - [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md) <br> - [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)   | - [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md) <br>- [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)          | - [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |
+| ![[semesterCalendarS2#1]]  | - [x] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md) <br> - [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)   | - [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md) <br>- [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)          | - [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |
 | ![[semesterCalendarS2#2]]  | [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)         | - [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)<br>- [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) |                                                        |            |
 | ![[semesterCalendarS2#3]]  | [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md) | - [Enemy](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy.md) <br>- [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy%20Pathfinding.md) <br>                                           | Continue Developing your environment.                  |            |
 | ![[semesterCalendarS2#4]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
