@@ -4,20 +4,12 @@
 # Semester Plan
 ## Term 3
 
-### Week 1
-![[_admin/semesterCalendarS2#School Events - Week 1]] 
-
 #### Class Tasks
-
-- [ ] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
-
+N/A
 #### Theory
-- [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
-- [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
-
+N/A
 #### Practical
-- [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
-- [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
+N/A
 
 
 
@@ -25,36 +17,22 @@
 ![[semesterCalendarS2#School Events - Week 2]] 
 
 #### Class Tasks
-
 N/A
-
 #### Theory
-
-- [ ] [[ISD/2 - Digital Applications/_topics/theory/Vectors|Vectors]]
-
+N/A
 #### Practical
-- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/First Person Controller|First Person Controller]]
-- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Bullet Implementation|Bullet Implementation]]
-
-- [ ] [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)
-- [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
-- [ ] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
+N/A
 
 
 ### Week 3
  ![[semesterCalendarS2#School Events - Week 3]]
 
 #### Class Tasks
-
 N/A
-
 #### Theory
-- [ ] [[ISD/2 - Digital Applications/_topics/theory/Pathfinding]]
-
+N/A
 #### Practical
-- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy|Enemy]]
-- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy Pathfinding|Enemy Pathfinding]]
-- [ ] Continue Developing your environment.
+N/A
 
 
 
