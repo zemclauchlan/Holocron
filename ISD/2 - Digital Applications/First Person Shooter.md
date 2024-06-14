@@ -19,7 +19,7 @@
 
 ### Class Tasks
 
-- [x] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
+- [ ] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
 
 ### Theory
 - [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
@@ -28,7 +28,6 @@
 ### Practical
 - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
 - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
-- [ ] [Watch Star Wars](disneyplus.com)
 
 
 
