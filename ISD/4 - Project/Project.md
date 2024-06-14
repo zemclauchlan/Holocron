@@ -34,3 +34,6 @@
 | Google Classroom | Assessment 1 - 25 % |
 |                  | Assessment 2 - 25 % |
 |                  | Assessment 3 - 50 % |
+
+
+![[commonBlocks#Contact Details]]
