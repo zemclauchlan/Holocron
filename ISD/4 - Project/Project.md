@@ -4,13 +4,15 @@
 # Semester Plan
 ## Term 3
 
+### Week 1
+![[semesterCalendarS2#School Events - Week 1]] 
+
 #### Class Tasks
 N/A
 #### Theory
 N/A
 #### Practical
 N/A
-
 
 
 ### Week 2
