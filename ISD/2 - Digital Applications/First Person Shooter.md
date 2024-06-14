@@ -32,9 +32,19 @@
 
 
 ## Week 2
-![[semesterCalendarS2#1]] 
+![[semesterCalendarS2#2]] 
 
-### Topics
+### Class Tasks
+
+N/A
+
+### Theory
+
+- [ ] [[ISD/2 - Digital Applications/_topics/theory/Vectors|Vectors]]
+
+### Practical
+- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/First Person Controller|First Person Controller]]
+- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Bullet Implementation|Bullet Implementation]]
 
 - [ ] [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)
 - [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
@@ -42,34 +52,167 @@
 
 
 ## Week 3
+ ![[semesterCalendarS2#3]]
+
+### Class Tasks
+
+N/A
+
+### Theory
+- [ ] [[ISD/2 - Digital Applications/_topics/theory/Pathfinding]]
+
+### Practical
+- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy|Enemy]]
+- [ ] [[ISD/2 - Digital Applications/_topics/tutorials/Enemy Pathfinding|Enemy Pathfinding]]
+- [ ] Continue Developing your environment.
+
+
 
 ## Week 4
+ ![[semesterCalendarS2#4]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+
+## Week 5
+ ![[semesterCalendarS2#5]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 6
+ ![[semesterCalendarS2#6]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 7
+ ![[semesterCalendarS2#7]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 8
+ ![[semesterCalendarS2#8]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 9
+ ![[semesterCalendarS2#9]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+
+## Week 10
+ ![[semesterCalendarS2#10]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 11
+ ![[semesterCalendarS2#11]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+
+
+## Week 12
+ ![[semesterCalendarS2#12]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+
+
+## Week 13
+ ![[semesterCalendarS2#13]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 14
+ ![[semesterCalendarS2#14]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 15
+ ![[semesterCalendarS2#15]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 16
+ ![[semesterCalendarS2#16]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 17
+ ![[semesterCalendarS2#17]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 18
+ ![[semesterCalendarS2#18]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 19
+ ![[semesterCalendarS2#19]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
+## Week 20
+ ![[semesterCalendarS2#20]]
+### Class Tasks
+N/A
+### Theory
+N/A
+### Practical
+N/A
 
 
 
-| Week                       | Theory                                                                          | Practical                                                                                                                                                                                                                      | Class Tasks                                            | Assessment |
-| -------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ | ---------- |
-| ![[semesterCalendarS2#1]]  | - [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md) <br> - [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)   | - [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md) <br>- [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)          | - [Clone Holocron](_sharedContent/Clone%20Holocron.md) |            |
-| ![[semesterCalendarS2#2]]  | [Vectors](ISD/2%20-%20Digital%20Applications/_topics/theory/Vectors.md)         | - [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)<br>- [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) |                                                        |            |
-| ![[semesterCalendarS2#3]]  | [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md) | - [Enemy](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy.md) <br>- [Enemy Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Enemy%20Pathfinding.md) <br>                                           | Continue Developing your environment.                  |            |
-| ![[semesterCalendarS2#4]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#5]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#6]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#7]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#8]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#9]]  |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#10]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| School Holidays            |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#11]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#12]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#13]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#14]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#15]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#16]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#17]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#18]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#19]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
-| ![[semesterCalendarS2#20]] |                                                                                 |                                                                                                                                                                                                                                |                                                        |            |
 
 # Subject Information
 
