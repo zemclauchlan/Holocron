@@ -1,5 +1,5 @@
 > [!note]- Project Overview
-> The project will be explained in due time...
+> Many Declans Enter, one Declan Leaves.
 
 # Semester Plan
 ## Term 3
@@ -8,9 +8,12 @@
 ![[semesterCalendarS2#School Events - Week 1]] 
 
 #### Class Tasks
-N/A
+- [ ] [[_sharedContent/Clone Holocron|Clone Holocron]]
+
+
 #### Theory
-N/A
+- [ ] [[ISD/4 - Project/_projects/Declan Battle Royal|Declan Battle Royal]]
+
 #### Practical
 N/A
 
