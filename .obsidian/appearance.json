@@ -1,8 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "GitHub Theme",
+  "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "enabledCssSnippets": [
-    "holocron"
-  ]
+  "enabledCssSnippets": []
 }
