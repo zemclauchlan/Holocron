@@ -29,7 +29,7 @@ Watch the video/s supplied to understand the topics for this week.
 
   
 
-[https://www.youtube.com/watch?v=SvqHV8lKAJ8&ab_channel=RyanCather](https://www.youtube.com/watch?v=SvqHV8lKAJ8&ab_channel=RyanCather)
+![https://www.youtube.com/watch?v=SvqHV8lKAJ8&ab_channel=RyanCather](https://www.youtube.com/watch?v=SvqHV8lKAJ8&ab_channel=RyanCather)
 
   
   
@@ -53,14 +53,9 @@ Watch the video/s supplied to understand the topics for this week.
 ## Python Programming Langauge
 
   
+> [!info] Google Bard wrote this next section
+> [https://g.co/bard/share/910af69eda65](https://g.co/bard/share/910af69eda65)
 
-<aside>
-
-❓ Google Bard wrote this next section: [https://g.co/bard/share/910af69eda65](https://g.co/bard/share/910af69eda65)
-
-  
-
-</aside>
 
   
 
@@ -98,7 +93,7 @@ Here are some specific examples of what Python can be used for:
 
   
 
-[https://www.youtube.com/watch?v=bZyeVXRta9w](https://www.youtube.com/watch?v=bZyeVXRta9w)
+![https://www.youtube.com/watch?v=bZyeVXRta9w](https://www.youtube.com/watch?v=bZyeVXRta9w)
 
   
 
