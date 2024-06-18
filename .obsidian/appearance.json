@@ -2,5 +2,7 @@
   "accentColor": "",
   "cssTheme": "AnuPpuccin",
   "theme": "moonstone",
-  "enabledCssSnippets": []
+  "enabledCssSnippets": [
+    "holocron"
+  ]
 }
