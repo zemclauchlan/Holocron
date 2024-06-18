@@ -49,6 +49,8 @@
 ### School Events - Week 15
 
 ### School Events - Week 16
+Last Week of Classes
+
 **Wednesday** - Cross Line Exams
 **Thursday** - Cross Line Exams
 **Friday** - Cross Line Exams
