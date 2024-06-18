@@ -9,10 +9,11 @@
 
 #### Class Tasks
 - [ ] [[_sharedContent/Clone Holocron|Clone Holocron]]
+- [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Fork & Clone Project|Fork & Clone Project]]
 
 
 #### Theory
-- [ ] [[ISD/4 - Project/_projects/Declan Battle Royal|Declan Battle Royal]]
+- [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Characters|Characters]]
 
 #### Practical
 N/A
