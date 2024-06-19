@@ -29,7 +29,7 @@
 #### Class Tasks
 N/A
 #### Theory
-- [ ] [Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek02.md)
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek02.md)
 #### Practical
 N/A
 
