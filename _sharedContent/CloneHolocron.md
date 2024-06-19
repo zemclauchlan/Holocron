@@ -6,12 +6,12 @@ There are two ways to use the Holocron.
 
 > [!important] Viewing through Github is not recommended as some links may not work correctly.
 
+It is possible to view the markdown links through the [GitHub repository](https://github.com/Lake-Tuggeranong-College/Holocron) it is not ideal as the formatting and links may not render correctly.
 
-
-
+If you do notice any broken links or other issues, please contact your teacher.
 # Open in Obsidian
 
-> [info] This is the recommended approach
+> [!info] This is the recommended approach
 
 ## How to Use Fork and Clone 
 
