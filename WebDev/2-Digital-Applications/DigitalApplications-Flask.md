@@ -18,7 +18,7 @@
 
 #### Practical
 - [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment.md)
-- [ ] OPTIONAL - [Configure VS Code and Docker](/WebDev/_shared/Projects/ANH/configureVSCodeAndDocker)
+- [ ] OPTIONAL - [Configure VS Code and Docker](/WebDev/_shared/Projects/ANH/configureVSCodeAndDocker.md)
 - [ ] [Run The Project](/WebDev/_shared/Projects/ANH/runProject.md)
 - [ ] [Site Debugging](/WebDev/_shared/Projects/ANH/siteDebugging.md)
 
