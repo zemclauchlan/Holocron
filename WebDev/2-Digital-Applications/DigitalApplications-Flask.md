@@ -228,20 +228,20 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 |                  | Assessment 3 - 50 % |
 
 
-> [!info]- Project Overview
+> [!info]- Technical Overview
 > Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS
 > Our goal? To build a personal website using Flask, HTML, and CSS.    
 > ## The Tech Stack
 > ### 1. Flask
 > - **What Is It?** Flask is a Python web framework. It’s lightweight, flexible, and perfect for small to medium-sized projects.
 > - **Why Use It?** Flask simplifies routing, handling requests, and managing templates. Plus, it integrates seamlessly with Python.
-> - ### 2. HTML (Hypertext Markup Language)
+> ### 2. HTML (Hypertext Markup Language)
 > - **What Is It?** HTML is the language of the web. It structures content, defines headings, paragraphs, links, and more
 > - **Why Use It?** Without HTML, there would be no web pages. It’s the foundation of everything we see online.
-> - ### 3. CSS (Cascading Style Sheets)
+> ### 3. CSS (Cascading Style Sheets)
 > - **What Is It?** CSS adds style and visual appeal to our HTML. It controls fonts, colors, layouts, and animations.
 > - **Why Use It?** CSS turns plain text into beautiful, well-designed web pages. It’s the artist’s palette for our website.
-> - ## Features We’ll Build
+>## Features We’ll Build
 > 1. Resume Builder
 > 	1. Users can input their resume details (education, work experience, skills).
 > 	2. Flask handles form submissions, and the data is stored securely.
@@ -256,6 +256,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 > 4. Navigation
 > 	1. A sleek menu guides users to different sections of the website.
 > 	2. From the homepage to the resume builder, everything is accessible.
+>
 > Remember, mistakes are part of the process. Embrace them, learn from them, and enjoy the journey. Happy coding! 
 
 
