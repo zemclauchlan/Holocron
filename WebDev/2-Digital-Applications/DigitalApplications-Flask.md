@@ -12,8 +12,8 @@
 #### Theory
 N/A
 #### Practical
-- [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment)
-N/A
+- [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment.md)
+
 
 
 
