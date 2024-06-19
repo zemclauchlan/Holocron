@@ -27,9 +27,9 @@
 ![[semesterCalendarS2#School Events - Week 2]] 
 
 #### Class Tasks
-- [ ] [Week 2](_topics/Week02.md)
-#### Theory
 N/A
+#### Theory
+- [ ] [Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek02.md)
 #### Practical
 N/A
 
