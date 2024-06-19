@@ -1,6 +1,8 @@
 > [!note]- Project Overview
 > Many Declans Enter, one Declan Leaves.
 
+[DBR Project Management](https://github.com/orgs/Lake-Tuggeranong-College/projects/3)  
+
 # Semester Plan
 ## Term 3
 
@@ -8,7 +10,7 @@
 ![[semesterCalendarS2#School Events - Week 1]] 
 
 #### Class Tasks
-- [ ] [[_sharedContent/Clone Holocron|Clone Holocron]]
+- [ ] [[_sharedContent/CloneHolocron|CloneHolocron]]
 - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Fork & Clone Project|Fork & Clone Project]]
 
 
