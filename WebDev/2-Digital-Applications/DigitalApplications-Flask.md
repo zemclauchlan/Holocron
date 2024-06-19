@@ -17,6 +17,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 
 #### Class Tasks
 - [ ] [Clone Holocron](/_sharedContent/Clone Holocron.md)
+- [ ] [Clone Holocron](_sharedContent/Clone%20Holocron.md)
 
 #### Theory
 - [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
