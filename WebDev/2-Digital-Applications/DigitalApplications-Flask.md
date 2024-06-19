@@ -8,11 +8,17 @@
 ![[semesterCalendarS2#School Events - Week 1]] 
 
 #### Class Tasks
-- [ ] [Week 1](_topics/Week01.md)
-#### Theory
 N/A
+
+#### Theory
+- [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
+
 #### Practical
 - [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment.md)
+- [ ] OPTIONAL - [Configure VS Code and Docker](WebDev/_shared/Projects/ANH/configureVSCodeAndDocker)
+- [ ] [[WebDev/_shared/Projects/ANH/installSQLite|installSQLite]]
+- [ ] [[WebDev/_shared/Projects/ANH/runProject|runProject]]
+- [ ] [[WebDev/_shared/Projects/ANH/siteDebugging|siteDebugging]]
 
 
 
