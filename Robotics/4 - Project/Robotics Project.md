@@ -8,7 +8,7 @@
 ![[semesterCalendarS2#School Events - Week 1]] 
 
 #### Class Tasks
-- [ ] [[_sharedContent/Clone Holocron|Clone Holocron]]
+- [ ] [[_sharedContent/CloneHolocron|CloneHolocron]]
 #### Theory
 N/A
 #### Practical
