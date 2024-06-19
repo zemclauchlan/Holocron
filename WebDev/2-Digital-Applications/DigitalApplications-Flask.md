@@ -8,6 +8,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 > [!warning]- Attendance & Submission of Work
 > The work submitted is a requirement to be deemed to be in attendance for that week. If you do not submit the work, you will not be marked present for the lessons in that week (unless you have contacted the school or teacher with a valid reason).
 
+Submissions are due **Friday**.
 
 # Semester Plan
 ## Term 3
@@ -20,6 +21,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 
 #### Theory
 - [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
+- [ ] [Flask Vs Django](/WebDev/2-Digital-Applications/_topics/FlaskVsDjango.md)
 
 #### Practical
 - [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment.md)
@@ -27,6 +29,11 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 - [ ] [Run The Project](/WebDev/_shared/Projects/ANH/runProject.md)
 - [ ] [Site Debugging](/WebDev/_shared/Projects/ANH/siteDebugging.md)
 
+#### Submission
+Submit the assigned Google Doc with the following information:
+- [ ] Explain what exactly Django offers over Flask (features, functionality etc).
+- [ ] Considering the plan for this project, which would be a better option - Flask or Django. Why? Or does it make no difference?
+- [ ] Screenshots of the database showing a registered user.
 
 ### Week 2
 ![[semesterCalendarS2#School Events - Week 2]] 
