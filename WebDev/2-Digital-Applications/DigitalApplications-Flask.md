@@ -1,5 +1,8 @@
 > [!note]- Project Overview
-> The project will be explained in due time...
+> This semester you will develop A New Homepage (ANH), which will be based in the Flask environment. 
+> This project can be developed either online through GitHub Codespaces, or locally on your device (not a chromebook) with Visual Studio Code & Docker.
+> The class will be delivered in an online / remote mode, meaning that you are responsible for keeping up with the work posted on this page. 
+
 
 # Semester Plan
 ## Term 3
@@ -8,19 +11,16 @@
 ![[semesterCalendarS2#School Events - Week 1]] 
 
 #### Class Tasks
-N/A
+- [ ] [Clone Holocron](/_sharedContent/Clone Holocron.md)
 
 #### Theory
 - [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
 
 #### Practical
 - [ ] [Accept Assignment](/WebDev/_shared/Projects/ANH/acceptAssignment.md)
-- [ ] OPTIONAL - [Configure VS Code and Docker](WebDev/_shared/Projects/ANH/configureVSCodeAndDocker)
-- [ ] [[WebDev/_shared/Projects/ANH/installSQLite|installSQLite]]
-- [ ] [[WebDev/_shared/Projects/ANH/runProject|runProject]]
-- [ ] [[WebDev/_shared/Projects/ANH/siteDebugging|siteDebugging]]
-
-
+- [ ] OPTIONAL - [Configure VS Code and Docker](/WebDev/_shared/Projects/ANH/configureVSCodeAndDocker)
+- [ ] [Run The Project](/WebDev/_shared/Projects/ANH/runProject.md)
+- [ ] [Site Debugging](/WebDev/_shared/Projects/ANH/siteDebugging.md)
 
 
 ### Week 2
