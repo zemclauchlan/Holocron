@@ -187,17 +187,6 @@ The details for each assessment can be found on Google Classroom, as they are pu
 
 
 
-
-
-# Subject Information
-
-| Unit Outline     | Assessments         |
-| ---------------- | ------------------- |
-| Google Classroom | Assessment 1 - 25 % |
-|                  | Assessment 2 - 25 % |
-|                  | Assessment 3 - 50 % |
-
-
 > [!info]- Technical Overview
 > Exploring Web Development: Building a Personal Website with Flask, HTML, and CSS
 > Our goal? To build a personal website using Flask, HTML, and CSS.    
