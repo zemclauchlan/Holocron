@@ -15,7 +15,7 @@ N/A
 - [ ] [Project Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Requirements.md) 
 #### Practical
 
-- [ ] Accept Github Classroom Assignment
+- [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Accept%20Assignment.md)
 
 
 
