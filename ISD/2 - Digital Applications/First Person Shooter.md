@@ -28,6 +28,7 @@
 - [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
 
 #### Practical
+- [ ] [Accept FPS Assignment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Accept%20FPS%20Assignment.md)
 - [ ] [Building The Environment](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Building%20The%20Environment.md)
 - [ ] [Reusable Assets](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Reusable%20Assets.md)
 
