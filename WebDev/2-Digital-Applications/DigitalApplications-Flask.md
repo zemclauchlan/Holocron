@@ -1,3 +1,9 @@
+---
+tags:
+  - S2
+  - DigitalTechnologies/DigitalApplications
+  - Flask
+---
 > [!note]- Project Overview
 > This semester you will develop A New Homepage (ANH), which will be based in the Flask environment. 
 > This project can be developed either online through GitHub Codespaces, or locally on your device (not a chromebook) with Visual Studio Code & Docker.

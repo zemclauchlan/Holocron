@@ -1,3 +1,8 @@
+---
+tags:
+  - S1
+  - DigitalTechnologies
+---
 # Semester Plan
 
 

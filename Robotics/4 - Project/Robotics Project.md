@@ -1,3 +1,8 @@
+---
+tags:
+  - S2
+  - Robotics
+---
 > [!note]- Project Overview
 > The project will be explained in due time...
 

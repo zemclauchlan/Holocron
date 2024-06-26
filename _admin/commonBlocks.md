@@ -1,3 +1,7 @@
+---
+tags:
+  - common
+---
 # Git
 
 ## Commit & Push

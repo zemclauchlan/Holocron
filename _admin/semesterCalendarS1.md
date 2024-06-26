@@ -1,3 +1,7 @@
+---
+tags:
+  - S1
+---
 ### School Events - Week 1
 **Monday** - Student Free Day
 **Tuesday** - First Day of Classes

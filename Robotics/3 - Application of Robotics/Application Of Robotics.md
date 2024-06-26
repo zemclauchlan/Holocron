@@ -1,3 +1,8 @@
+---
+tags:
+  - S1
+  - Robotics
+---
 
 
 | Week            | Topic | Assessment | Notes |

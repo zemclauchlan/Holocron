@@ -1,3 +1,8 @@
+---
+tags:
+  - S2
+  - DigitalTechnologies
+---
 > [!note]- Project Overview
 > Many Declans Enter, one Declan Leaves.
 
