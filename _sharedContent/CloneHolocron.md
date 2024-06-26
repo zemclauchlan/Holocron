@@ -1,6 +1,6 @@
 There are two ways to use the Holocron.
 1) View files through GitHub, and
-2) Clone & Open the folder in [Obsidian](obsidian.md).
+2) Clone & Open the folder in [Obsidian](https://obsidian.md).
 
 # View through GitHub
 
