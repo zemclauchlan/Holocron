@@ -159,7 +159,7 @@ N/A
 ### Week 13
  ![[semesterCalendarS2#School Events - Week 13]]
 #### Class Tasks
-N/A
+ - [ ] Submit Assessment 2
 #### Theory
 N/A
 #### Practical
@@ -175,7 +175,8 @@ N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
 #### Class Tasks
-N/A
+ - [ ] Prepare for Interview
+ - [ ] Assessment 3 - Interview Week
 #### Theory
 N/A
 #### Practical
@@ -196,34 +197,6 @@ N/A
 N/A
 #### Practical
 N/A
-### Week 18
- ![[semesterCalendarS2#School Events - Week 18]]
-#### Class Tasks
-N/A
-#### Theory
-N/A
-#### Practical
-N/A
-### Week 19
- ![[semesterCalendarS2#School Events - Week 19]]
-#### Class Tasks
-N/A
-#### Theory
-N/A
-#### Practical
-N/A
-### Week 20
- ![[semesterCalendarS2#School Events - Week 20]]
-#### Class Tasks
-N/A
-#### Theory
-N/A
-#### Practical
-N/A
-
-
-
-
 # Subject Information
 
 | Unit Outline     | Assessments         |

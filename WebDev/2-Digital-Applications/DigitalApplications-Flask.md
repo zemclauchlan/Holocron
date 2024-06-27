@@ -147,7 +147,7 @@ N/A
 ### Week 13
  ![[semesterCalendarS2#School Events - Week 13]]
 #### Class Tasks
-N/A
+ - [ ] Submit Assessment 2
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
 #### Practical
@@ -163,7 +163,8 @@ N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
 #### Class Tasks
-N/A
+ - [ ] Prepare for Interview
+ - [ ] Assessment 3 - Interview Week
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek15.md)
 #### Practical
