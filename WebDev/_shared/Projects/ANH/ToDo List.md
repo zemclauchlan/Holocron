@@ -1,6 +1,6 @@
 # CRUD
 
-![CRUD](/WebDev/_shared/Projects/ANH/images/CRUD.jpeg)
+![CRUD](WebDev/_shared/Projects/ANH/images/todoCRUD.jpeg)
 
 [https://www.atatus.com/glossary/crud/](https://www.atatus.com/glossary/crud/)
 
@@ -12,33 +12,33 @@ In this exercise, you’ll demonstrate each of these processes with a simple ToD
 
 # Create the Database Table
 
-In the database tab, right click on the tables and choose New → Table in the popup menu.
+In the database extension tab, click the `+` icon next to `Tables` to create a new table.
 
-![Screen Shot 2022-06-29 at 9.31.32 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2603cdfd-8f4a-49be-8950-de4b3e589309/Screen_Shot_2022-06-29_at_9.31.32_pm.png)
+![todoNewTable](/WebDev/_shared/Projects/ANH/images/todoNewTable.png)
 
 Name the table `todo`.
 
-![Screen Shot 2022-06-29 at 9.38.27 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/07e04132-8227-48c3-9130-f6019a98376b/Screen_Shot_2022-06-29_at_9.38.27_pm.png)
+![todoTableName](/WebDev/_shared/Projects/ANH/images/todoTableName.png)
 
-Create the first field or column in the table, called `id` by clicking on the `+` button.
+Update the SQL commands to specify the fields to create in the `todo` table.
 
-Make sure you tick all the boxes as this will be the primary key and auto incremented. This means that the database itself will manage the numbering of the row and doesn’t need to be manually programmed.
+![todoTableSQL](/WebDev/_shared/Projects/ANH/images/todoTableSQL.png)
 
-![Screen Shot 2022-06-29 at 9.38.34 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b156c906-ce79-4a5b-a245-d096fce6325a/Screen_Shot_2022-06-29_at_9.38.34_pm.png)
+```sql
+CREATE TABLE todo(
+	id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+	text TEXT,
+	done BOOLEAN
+);
+```
 
-Create three more field (or columns).
+Press the run link to execute the SQL.
 
-The first is called `text`. The type of this field should be `TEXT`.
+![todoTableExecute](/WebDev/_shared/Projects/ANH/images/todoTableExecute.png)
 
-The second is called `done`. The type of this field should be `BOOLEAN`.
+The table will now be created and will appear in the left-hand view.
 
-When creating the fields, do not tick any of the boxes.
-
-![Screen Shot 2022-06-29 at 10.07.40 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b225e07a-d9be-4794-ac4a-7b3282f5afb5/Screen_Shot_2022-06-29_at_10.07.40_pm.png)
-
-Click Execute. Once that process is complete, expand the database tables, and todo. The fields created should appear.
-
-![Screen Shot 2022-06-29 at 10.07.47 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e9f6218d-7067-4b73-bfad-3cec97846cb3/Screen_Shot_2022-06-29_at_10.07.47_pm.png)
+![todoTableComplete](/WebDev/_shared/Projects/ANH/images/todoTableComplete.png)
 
 # Create Model
 
@@ -46,11 +46,10 @@ Open `models.py`
 
 At the end of the file, and after any other classes, add the following `todo` class.
 
-<aside> ‼️ Like with any other classes in this case, the names of the class and the variables need to match what the the names are in the database. If you’ve named them different, you will need to make them match.
+ > [!info] Like with any other classes in this case, the names of the class and the variables need to match what the the names are in the database. If you’ve named them different, you will need to make them match.
 
-</aside>
 
-![Screen Shot 2022-06-29 at 10.09.05 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfdb3c6e-d982-493d-b470-73e25621dcd3/Screen_Shot_2022-06-29_at_10.09.05_pm.png)
+![todoModelCreate](/WebDev/_shared/Projects/ANH/images/todoModelCreate.png)
 
 ```python
 class todo (db.Model):
@@ -63,31 +62,37 @@ class todo (db.Model):
 
 # Todo Template
 
-Right click on the Templates folder and create a new HTML file called `todo.html`. Replace the contents with this standard code.
+Right click on the Templates folder and create a new HTML file called `todo.html`. 
+
+![todoHTMLNew](/WebDev/_shared/Projects/ANH/images/todoHTMLNew.png)
+
+Replace the contents with this standard code.
 
 ```python
-{% extends 'programmingTemplate.html' %}
+{% extends "base.html" %}
 
-{# Place the content for the cellContent1 in this block #}
-{% block cellContent1 %}
-    Sidebar
+{% block pageCSS %}
 {% endblock %}
 
-{# Place the content for the cellContent2 in this block #}
-{% block cellContent2 %}
-    Main Content
+{% block rowOneContent %}
+<h1>TODO List</h1>
 {% endblock %}
 
-{# Place the content for the cellContent3 in this block #}
-{% block cellContent3 %}
-    Footer
+{% block rowTwoColOneContent %}
+{% endblock %}
+
+{% block rowTwoColTwoContent %}
+{% endblock %}
+
+{% block rowThreeContent %}
+<div class="footerText">Copyright 2024.</div>
 {% endblock %}
 
 ```
 
-Replace the sidebar with the code to create a new entry in the todo list.
+Replace the sidebar (`rowTwoColOneContent`) with the code to create a new entry in the todo list.
 
-![Screen Shot 2022-06-29 at 10.15.54 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e4ab3d2f-e990-4a92-9f2e-36495e6d2f34/Screen_Shot_2022-06-29_at_10.15.54_pm.png)
+![todoFormCode](/WebDev/_shared/Projects/ANH/images/todoFormCode.png)
 
 ```python
 <form method="POST" action="/todo">
@@ -96,17 +101,17 @@ Replace the sidebar with the code to create a new entry in the todo list.
 </form>
 ```
 
-Replace the cellContent2’s content with the following.
+Replace the `rowTwoColTwoContent`’s content with the following.
 
 This code **loops** for each entry in the Todo list (how many rows are in the table). For each entry, it creates a checkbox to indicate in the task is done or not, and the text of the todo.
 
 It also adds an Update button for each entry.
 
-An example of what it will create is:
+> [!example]- An example of what this code will create is:
+> ![todoExampleList](/WebDev/_shared/Projects/ANH/images/todoExampleList.png)
 
-![Screen Shot 2022-06-29 at 10.23.19 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13e80065-fda3-4e04-b6bd-5bd714243709/Screen_Shot_2022-06-29_at_10.23.19_pm.png)
 
-![Screen Shot 2022-06-29 at 10.20.41 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/683948c7-27d1-4577-a60d-27908f6068d1/Screen_Shot_2022-06-29_at_10.20.41_pm.png)
+![todoList](/WebDev/_shared/Projects/ANH/images/todoListCode.png)
 
 ```python
 <h2>List</h2>
@@ -132,17 +137,15 @@ An example of what it will create is:
 
 Open `app.py` .
 
-Update the Flask import line of code to include the `request` library.
-
-![Screen Shot 2022-06-29 at 10.01.57 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6052992-b49c-4dae-acb7-77a6944dde79/Screen_Shot_2022-06-29_at_10.01.57_pm.png)
-
 Update the following import. This allows this file to load and use the new class just created.
 
-![Screen Shot 2022-06-29 at 9.51.34 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b9e75f66-226c-4e7f-b573-b45217de22bf/Screen_Shot_2022-06-29_at_9.51.34_pm.png)
+![todoImportTodo](/WebDev/_shared/Projects/ANH/images/todoImportTodo.png)
 
 ## View Todos
 
 Create a new route by copying this code into `app.py.`
+
+![todoAddRoute](/WebDev/_shared/Projects/ANH/images/todoAddRoute.png)
 
 ```python
 @app.route('/todo', methods=["POST", "GET"])
@@ -154,26 +157,26 @@ def view_todo():
         db.session.add(new_todo)
         db.session.commit()
         db.session.refresh(new_todo)
-				return redirect("/todo")
+        return redirect("/todo")
     return render_template("todo.html", todos=all_todo)
 ```
 
 ### An Explanation for each line
 
-|Line|Explanation|
-|---|---|
-|41|Creates the new route, called /todo and also adds the extra functionality of POST and GET methods. This means that this route will send data from the server to the browser (GET) and also accept data being sent back from the browser to the server (POST). POST is the common method to submit form data back to the server.|
-|You can read more [https://pythonbasics.org/flask-http-methods/](https://pythonbasics.org/flask-http-methods/).||
-|42|Defines the function name|
-|43|Queries the database and retrieves the whole todo table. The results are stored into the all_todo variable.|
-|44|Checks if the Create todo form (in cellContent1 or sidebar) is attempting to submit data back to the server (POST).|
-|45|Creates a new variable - new_todo by collecting the text entered in the form.|
-|46|Sets the done field to False as default.|
-|47-49|Writes the new entry into the database temporarily, and then commits it to the database permanently. The refresh command updates the entry in memory to match the database.|
-|50|After submitting the new ToDo entry to the database, this reloads the current page.|
-|51|“Sends” the template to the browser with all the notes loaded from the previous query on line 34.|
+| Line                                                                                                            | Explanation                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 47                                                                                                              | Creates the new route, called /todo and also adds the extra functionality of POST and GET methods. This means that this route will send data from the server to the browser (GET) and also accept data being sent back from the browser to the server (POST). POST is the common method to submit form data back to the server. |
+| You can read more [https://pythonbasics.org/flask-http-methods/](https://pythonbasics.org/flask-http-methods/). |                                                                                                                                                                                                                                                                                                                                 |
+| 48                                                                                                              | Defines the function name                                                                                                                                                                                                                                                                                                       |
+| 49                                                                                                              | Queries the database and retrieves the whole todo table. The results are stored into the all_todo variable.                                                                                                                                                                                                                     |
+| 51                                                                                                              | Checks if the Create todo form in `rowTwoColOneContent` (or sidebar) is attempting to submit data back to the server (POST).                                                                                                                                                                                                    |
+| 51                                                                                                              | Creates a new variable - new_todo by collecting the text entered in the form.                                                                                                                                                                                                                                                   |
+| 52                                                                                                              | Sets the done field to False as default.                                                                                                                                                                                                                                                                                        |
+| 53-55                                                                                                           | Writes the new entry into the database temporarily, and then commits it to the database permanently. The `refresh()` command updates the entry in memory to match the database.                                                                                                                                                 |
+| 56                                                                                                              | After submitting the new ToDo entry to the database, this reloads the current page.                                                                                                                                                                                                                                             |
+| 57                                                                                                              | “Sends” the template to the browser with all the notes loaded from the previous query on line 34.                                                                                                                                                                                                                               |
 
-![Screen Shot 2022-08-08 at 8.51.47 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45b0e848-3157-4a29-86d2-9f72b2c43287/Screen_Shot_2022-08-08_at_8.51.47_pm.png)
+
 
 ## Run and test the page.
 
@@ -181,25 +184,21 @@ Run the project and access the link:
 
 [http://127.0.0.1:5000/todo](http://127.0.0.1:5000/todo)
 
-You should see something like this:
+You should see something similar to this:
 
-![Screen Shot 2022-06-29 at 10.42.07 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/16804bc2-8940-4c88-a919-e8c4d6b2cee1/Screen_Shot_2022-06-29_at_10.42.07_pm.png)
+![todoExample](/WebDev/_shared/Projects/ANH/images/todoExample.png)
 
 Create a new Entry and reload the page.
 
-![Screen Shot 2022-06-29 at 10.42.56 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcc24d0f-acc2-452e-bd02-1921dba855cc/Screen_Shot_2022-06-29_at_10.42.56_pm.png)
+![todoExampleCreateEntry](/WebDev/_shared/Projects/ANH/images/todoExampleCreateEntry.png)
 
 # ‘Edit Todo’ Route
 
 This route will handle both the update and delete functions.
 
-Update the Flask import statement to also import the `redirect` library.
+Add the following route code to `app.py`
 
-![Screen Shot 2022-06-29 at 11.18.53 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c5ecf886-4686-4bf3-9d48-f5797aba8953/Screen_Shot_2022-06-29_at_11.18.53_pm.png)
-
-Add the following code to `app.py`
-
-![Screen Shot 2022-06-29 at 11.36.07 pm.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b303c6a6-185f-4df2-ab22-5ece51a1d1b3/Screen_Shot_2022-06-29_at_11.36.07_pm.png)
+![todoEditRoute](/WebDev/_shared/Projects/ANH/images/todoEditRoute.png)
 
 ```python
 @app.route("/todoedit/<todo_id>", methods=["POST", "GET"])
@@ -218,16 +217,16 @@ def edit_note(todo_id):
 
 ## Code explanation
 
-|Line|Explanation|
-|---|---|
-|44-45|Creates the route and python function. This is different from other routes as it accepts a variable in the route. <todo_id> is anything that is in the url after the /todoedit/ in the browser. For instance if the url is [http://127.0.0.1:5000/tododit/5](http://127.0.0.1:5000/tododit/5) then todo_id is 5. In this case, it will refer to the the entry in the table with 5 as the ID.|
-|46|Checks if the form has been POSTed to the server. This will be True when the user submits the form in todo.html created by the line : <form method="POST" action="/todoedit/{{ [http://todo.id/](http://todo.id/) }}">|
-|47-50|This first queries the database to find the entry with the ID matching todo_id and updates it with the text in text field and the done field whether it is ticked or not.|
-|51|Commits any changes to the database.|
-|52|Checks if the form has been submitted using the GET method. This will be True when the user submits the form in todo.html created with the line: <form method="GET" action="/todoedit/{{ [http://todo.id/](http://todo.id/) }}">|
-|53|Finds the entry in the database with the ID matching todo_id and deletes it.|
-|54|Commits the change to the database.|
-|55|redirects the browser to /todo after any changes have been made.|
+| Line  | Explanation                                                                                                                                                                                                                                                                                                                                                                                  |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 59-60 | Creates the route and python function. This is different from other routes as it accepts a variable in the route. <todo_id> is anything that is in the url after the /todoedit/ in the browser. For instance if the url is [http://127.0.0.1:5000/tododit/5](http://127.0.0.1:5000/tododit/5) then todo_id is 5. In this case, it will refer to the the entry in the table with 5 as the ID. |
+| 61    | Checks if the form has been POSTed to the server. This will be True when the user submits the form in todo.html created by the line : <form method="POST" action="/todoedit/{{ [http://todo.id/](http://todo.id/) }}">                                                                                                                                                                       |
+| 62-65 | This first queries the database to find the entry with the ID matching todo_id and updates it with the text in text field and the done field whether it is ticked or not.                                                                                                                                                                                                                    |
+| 66    | Commits any changes to the database.                                                                                                                                                                                                                                                                                                                                                         |
+| 67    | Checks if the form has been submitted using the GET method. This will be True when the user submits the form in todo.html created with the line: <form method="GET" action="/todoedit/{{ [http://todo.id/](http://todo.id/) }}">                                                                                                                                                             |
+| 68    | Finds the entry in the database with the ID matching todo_id and deletes it.                                                                                                                                                                                                                                                                                                                 |
+| 69    | Commits the change to the database.                                                                                                                                                                                                                                                                                                                                                          |
+| 70    | redirects the browser to /todo after any changes have been made.                                                                                                                                                                                                                                                                                                                             |
 
 ---
 
