@@ -158,7 +158,7 @@ def view_todo():
         db.session.commit()
         db.session.refresh(new_todo)
         return redirect("/todo")
-    return render_template("todo.html", todos=all_todo)
+    return render_template("todo.html", todos=all_todo, user=current_user)
 ```
 
 ### An Explanation for each line
