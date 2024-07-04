@@ -3,6 +3,7 @@
 > - Implement a simple 'mini' app into the flask project
 > - Learn & implement CRUD operations
 > - Gain evidence for [ICTICT226 - Operate Simple Database Applications](https://training.gov.au/Training/Details/ICTICT226).
+> - ![todoDemo](/WebDev/_shared/Projects/ANH/images/todoDemo.gif)
 # CRUD
 
 
