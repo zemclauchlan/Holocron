@@ -1,6 +1,6 @@
 # CRUD
 
-![CRUD](WebDev/_shared/Projects/ANH/images/todoCRUD.jpeg)
+![CRUD](/WebDev/_shared/Projects/ANH/images/todoCRUD.jpeg)
 
 [https://www.atatus.com/glossary/crud/](https://www.atatus.com/glossary/crud/)
 
