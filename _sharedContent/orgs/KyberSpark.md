@@ -1,5 +1,5 @@
 
-![kyberSparkLogo](/_sharedContent/orgs/_images/kyberSparkLogo.png)
+![kyberSparkLogo](_sharedContent/orgs/_images/logoKyberSpark.png)
 # Company Overview: Kyber Spark
 
 **Company Mission:** Kyber Spark is a new breed of software development company, igniting passion through three distinct yet interconnected endeavours:
