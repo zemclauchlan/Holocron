@@ -10,7 +10,7 @@
 
 **Vision:** Kyber Spark envisions itself as a leading innovator, igniting a spark of passion in the gaming industry while concurrently fostering a culture of cybersecurity awareness and empowering businesses through cutting-edge web solutions.
 
-**Project Goals:**
+## Project Goals:
 
 - **Game Development:**
     - Develop a groundbreaking FPS title that pushes the boundaries of technical excellence and immersive storytelling.
