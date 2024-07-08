@@ -9,9 +9,9 @@ order: 11
 > - The bullets and enemy have been created
 > - the bullets fire.
 
-Similar to the apporach taken with the Player object, each enemy (or any other object with health) will have its own health that will need to be diminished for it to be destroyed.
+Similar to the approach taken with the Player object, each enemy (or any other object with health) will have its own health that will need to be diminished for it to be destroyed.
 
-> [!important] Each object or enemy that you wish to take damage needs to be configured in the same way.
+> [!tip] Each object or enemy that you wish to take damage needs to be configured in the same way.
 
 > [!note] The object taking damage will need to have a `CollisionShape3D` configured as a direct child of the root node.
 > ![[ISD/2 - Digital Applications/_topics/tutorials/images/enemyDamageChildNode.png]]

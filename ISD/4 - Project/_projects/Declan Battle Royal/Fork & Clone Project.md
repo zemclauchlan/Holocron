@@ -16,6 +16,6 @@ Open Github deskop and **your fork** of the project to the desktop.
 # Open Project
 You can now open the project in Godot.
 
-> [!important] Make sure you use the correct version of Godot as stated!
+> [!tip] Make sure you use the correct version of Godot as stated!
 
 ![[ISD/4 - Project/_projects/Declan Battle Royal/_images/dbrOpened.png]]

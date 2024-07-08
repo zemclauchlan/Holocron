@@ -1,4 +1,6 @@
 
+> [!tip] Sign into GitHub in the browser, before proceeding.
+
 Click on the link to the GitHub Classroom assignment:
 
 https://classroom.github.com/a/twWdTyhT
@@ -18,7 +20,7 @@ Select the new repository you just created on GitHub.
 
 Choose the path where you want to save it.
 
-> [!important] The directory will need to be empty.
+> [!tip] The directory will need to be empty.
 
 
 Click Clone.

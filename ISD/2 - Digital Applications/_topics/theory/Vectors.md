@@ -48,7 +48,7 @@ Unity does the calculation for you automatically, however the logic is that know
 
 Although this is using a 2d image (Vector2), the logic is the same for a 3d world (Vector3). Instead of **x****2** **+ y****2** **= m****2**, it would be **x****2** **+ y****2** **+ z****2****= m****2**
 
-![](https://lh3.googleusercontent.com/pKWFJ7xo-lmdRDZsF-9i1NYaBkbP3T5Cs0ETB8zvmcaHUox0cHM_7huDleong_WcZBaArs5IDO9XcwDopRJ1H9iriHmEVfusaz7BVQNIYi_R4xrv3kLiFzLmURy0We2-bg=w1280)
+![vectorsMagnitudeMaths](ISD/2%20-%20Digital%20Applications/_topics/theory/images/vectorsMagnitudeMaths.jpg)
 
 ## Vector Addition
 
@@ -60,7 +60,7 @@ The process is the same for a 3d vector, just with 3 values. E.g. (2, 1, 2) + (3
 
 This can be useful as you can calculate the final position of a game object given two vectors. As can be seen in the video below, give a starting point of 0,0 and with the first movement (first vector) the object moves to 3,5. Then the object makes another move (second vector), and the object reaches position 5,4.
 
-![](https://lh4.googleusercontent.com/lEXtEzCiilEQlz42dEqcwTd10c0DZCpGUYN8g8aZzrYfF8uX_qTcpn23mGDXDaz2RRGsUpldL3Faud6SitnV9YA=w1280)
+![vectorsAddition](ISD/2%20-%20Digital%20Applications/_topics/theory/images/vectorsAddition.png)
 
 ## Vector Subtraction
 
@@ -70,7 +70,7 @@ Consider the following picture. Two objects exist at two different positions (a 
 
 Note that depending on the order in which the subtraction occurs, you will have different vectors. b-a and a-b have the same magnitude, but point in opposite directions.
 
-![](https://lh5.googleusercontent.com/h4E87t5PXIYUNk6YM8iImmrA3m4pAwpo3iAq2bkurGPUR0dDFOglB87-WhbLIEhip5FvsNz1oGD-Vztz4N1D8NoZc5f08TRoRzj06zueF3h3pxuUTfCmrCNVRVYEtW7SxA=w1280)
+![vectorsSubtraction](ISD/2%20-%20Digital%20Applications/_topics/theory/images/vectorsSubtraction.png)
 
 ## Dot Product
 
@@ -84,7 +84,7 @@ If they are perpendicular, the dot product would be 0.
 
 If they are facing away from each other (or facing each other), the dot product would be -1.
 
-![](https://lh4.googleusercontent.com/S_SNTUt_O2-uCpaszVr1kPbeMVHoengfYWFGRP_vqETPduL3mM8KFxdLsYdV9aSoQ6dL2dET01cAXYpKJifgTV2BanvXV0nYRs05TxzAenHYQTcS_vOd1vaR0QE5UnA3Xg=w1280)
+![vectorsDotProduct](ISD/2%20-%20Digital%20Applications/_topics/theory/images/vectorsDotProduct.png)
 
 ## Cross Product
 
@@ -96,7 +96,7 @@ For instance, let's say you wanted to have a sail on a boat that is attached to 
 
 This site goes into more detail: [http://blog.wolfire.com/2009/07/linear-algebra-for-game-developers-part-2/](http://www.google.com/url?q=http%3A%2F%2Fblog.wolfire.com%2F2009%2F07%2Flinear-algebra-for-game-developers-part-2%2F&sa=D&sntz=1&usg=AOvVaw2xTPfecIdNAVLTc55l-uhx)
 
-![](https://lh6.googleusercontent.com/a8hNJ2G7JB6_fS4zqO36qNaQUCwEaBZxDi6iHTPVV8Ppm-lhrRfRNQ-gdoOV8ln36BTPManDXwes6zxTjmgOh3y_LVH0qJ_3TzG8VW6SBN4SD50da0JEK3FTWkWJyoxISw=w1280)
+![vectorsCrossProduct](ISD/2%20-%20Digital%20Applications/_topics/theory/images/vectorsCrossProduct.jpg)
 
 ## Vector Arithmetic
 
@@ -110,4 +110,4 @@ If you would like more information, or want to study these topics in more depth,
 
 [https://docs.unity3d.com/Manual/VectorCookbook.html](https://docs.unity3d.com/Manual/VectorCookbook.html)
 
-![](https://lh5.googleusercontent.com/arCguuGE5dyWEq775ljE-S-MSiHqscy0OrS1x8MKEKYaHC101CK9wRp5-8rfFUWTj-BYcW3vMoJqscEWnF7oBhGrt7AKEEj_LEpJUmYbynZ4UefPcQcvmK-ixyLIk8ytww=w1280)
+![vectorsMenu](ISD/2%20-%20Digital%20Applications/_topics/theory/images/vectorsMenu.png)

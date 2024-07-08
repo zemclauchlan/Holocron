@@ -3,7 +3,7 @@
 
 A* (pronounced "A Star") is an algorithm used to calculate the most efficient route between two points. This algorithm is used in not only game development, but in GPS navigation systems to calculate how to get to a destination.
 
-> [!important]- KEYWORDS
+> [!question]- KEYWORDS
 > Some keywords that you need to know before moving on:
 > - **agent**: any object that is part of the algorithm. For instance, the player or the enemy.
 > -  **node**: each "step" of the path towards the destination.
@@ -73,7 +73,7 @@ The cost of the indicated path is 4.
 
 ![aStarSolution](ISD/2%20-%20Digital%20Applications/_topics/theory/images/aStarSolution.png)
 
-> [!important] It's important to note that in the example above, there is only one cost listed for travelling each edge. In reality there can be many costs. If you consider a GPS navigation system, there would be traffic, speed limit, accidents, roadworks, number of traffic lights or roundabouts etc.
+> [!info] It's important to note that in the example above, there is only one cost listed for travelling each edge. In reality there can be many costs. If you consider a GPS navigation system, there would be traffic, speed limit, accidents, roadworks, number of traffic lights or roundabouts etc.
 > The A* Algorithm can take any number of costs associated with the edges and nodes to find the most efficient path.
 
 ## Different Cost, Different Path
