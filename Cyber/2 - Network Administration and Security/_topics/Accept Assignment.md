@@ -18,7 +18,7 @@ Select the new repository you just created on GitHub.
 
 Choose the path where you want to save it.
 
-> [!important] The directory will need to be empty.
+> [!tip] The directory will need to be empty.
 
 
 Click Clone.

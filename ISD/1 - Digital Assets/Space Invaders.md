@@ -9,7 +9,7 @@ tags:
 |                            | Topic                                                                      | Assessment | Notes |
 | -------------------------- | -------------------------------------------------------------------------- | ---------- | ----- |
 | ![[semesterCalendarS1#1]]  | [[Project Configuration]]                                                  |            |       |
-| ![[semesterCalendarS1#2]]  | [[Main Menu]]<br>[[Buttons]]                                               |            |       |
+| ![[semesterCalendarS1#2]]  | [[ISD/1 - Digital Assets/_topics/Main Menu]]<br>[[Buttons]]                                               |            |       |
 | ![[semesterCalendarS1#3]]  | [[Gameplay]]                                                               |            |       |
 | ![[semesterCalendarS1#4]]  | [[ISD/1 - Digital Assets/_topics/Player Health]] [[Player Health Display]] |            |       |
 | ![[semesterCalendarS1#5]]  | [[Raycasts]]                                                               |            |       |

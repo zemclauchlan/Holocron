@@ -1,7 +1,7 @@
 
 Click on the link to the GitHub Classroom assignment:
 
-> [!important] Add link here.
+> [!danger] Add link here.
 
 Clone the repository to your computer using GitHub Desktop (or any method). Choose the newly created repository
 
@@ -18,7 +18,7 @@ Select the new repository you just created on GitHub.
 
 Choose the path where you want to save it.
 
-> [!important] The directory will need to be empty.
+> [!tip] The directory will need to be empty.
 
 
 Click Clone.

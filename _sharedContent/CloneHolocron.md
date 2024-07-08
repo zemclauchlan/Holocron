@@ -4,7 +4,7 @@ There are two ways to use the Holocron.
 
 # View through GitHub
 
-> [!important] Viewing through Github is not recommended as some links may not work correctly.
+> [!success] Viewing through Github is not recommended as some links may not work correctly.
 
 It is possible to view the markdown links through the [GitHub repository](https://github.com/Lake-Tuggeranong-College/Holocron) it is not ideal as the formatting and links may not render correctly.
 

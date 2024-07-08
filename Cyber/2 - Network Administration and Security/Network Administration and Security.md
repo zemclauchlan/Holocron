@@ -14,7 +14,7 @@ tags:
 > #### Class Tasks
 > N/A
 > #### Theory
-> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Overview.md
+> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Overview.md)
 > - [ ] [Project Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Requirements.md) 
 > #### Practical
 > - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Accept%20Assignment.md)
