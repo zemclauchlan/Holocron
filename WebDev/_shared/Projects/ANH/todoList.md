@@ -64,6 +64,7 @@ class todo (db.Model):
     id = db.Column(db.Integer, primary_key=True, autoincrement=True)
     text = db.Column(db.Text)
     done = db.Column(db.Boolean)
+    userID = db.Column(db.Integer)
 ```
 
 **Save** the file.
