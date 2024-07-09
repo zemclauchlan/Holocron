@@ -1,3 +1,7 @@
+
+
+This is a *rough* plan for the semester's project.
+
 ```mermaid
 gantt 
 	title Project Timeline 
