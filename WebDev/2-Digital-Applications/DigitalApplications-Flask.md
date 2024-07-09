@@ -14,7 +14,7 @@ This unit focuses on continuing Flask Website development, in an **online/remote
 > [!warning]- Attendance & Submission of Work
 > The work submitted is a requirement to be deemed to be in attendance for that week. If you do not submit the work, you will not be marked present for the lessons in that week (unless you have contacted the school or teacher with a valid reason).
 
-Submissions are due **Friday**.
+Submissions are due **11:59pm Friday** each week.
 
 # Semester Plan
 ## Term 3
@@ -49,18 +49,20 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek02.md)
 #### Practical
-N/A
+- [ ] [Todo List](/WebDev/_shared/Projects/ANH/todoList.md)
 
 
-### Week 3
+### Week 3 - Assessment Week
  ![[semesterCalendarS2#School Events - Week 3]]
-
+**Assessment Week**  
+You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
+Worth 25%.  
+The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
-N/A
+ - [ ] Submit Assessment 1
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek03.md)
-#### Practical
-N/A
+
 
 
 
@@ -134,20 +136,25 @@ N/A
 N/A
 
 
-### Week 12
+### Week 12 - Assessment Due
  ![[semesterCalendarS2#School Events - Week 12]]
+**Assessment Due**  
+The task will be due Friday 11:59pm.  
+Worth 50%.  
+The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
-N/A
+ - [ ] Submit Assessment 2
 #### Theory
-- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek12.md)
+- [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
 #### Practical
 N/A
 
 
 ### Week 13
  ![[semesterCalendarS2#School Events - Week 13]]
+
 #### Class Tasks
- - [ ] Submit Assessment 2
+ - [ ] Vet Competencies
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)
 #### Practical
@@ -162,6 +169,14 @@ N/A
 N/A
 ### Week 15
  ![[semesterCalendarS2#School Events - Week 15]]
+**Assessment Week**  
+This assessment task is a **live** interview.  This will be done via Google Meet.
+
+You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.  
+Your interview and any documentation you bring to the interview will be assessed.  
+You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
+Worth 25%.  
+The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
  - [ ] Prepare for Interview
  - [ ] Assessment 3 - Interview Week

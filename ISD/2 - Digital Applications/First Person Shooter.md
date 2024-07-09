@@ -26,6 +26,7 @@ tags:
 > #### Class Tasks
 > - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
 > - [ ] [Technical Analysis - First Person Shooters](ISD/2%20-%20Digital%20Applications/_topics/theory/Technical%20Analysis%20-%20First%20Person%20Shooters.md)
+> - [ ] [Project Timeline](ISD/2%20-%20Digital%20Applications/_topics/theory/Project%20Timeline.md)
 > #### Theory
 > - [ ] [3D Worlds](ISD/2%20-%20Digital%20Applications/_topics/theory/3D%20Worlds.md)
 > - [ ] [Code Comments](ISD/2%20-%20Digital%20Applications/_topics/theory/Code%20Comments.md)
@@ -124,28 +125,31 @@ tags:
 > [!info]- Week 11
 > ![[semesterCalendarS2#School Events - Week 11]]
 > #### Class Tasks
-> N/
-> #### Theory
-> N/A
-> #### Practical
-> N/A
-
-> [!info]- Week 12
-> ![[semesterCalendarS2#School Events - Week 12]]
-> #### Class Tasks
+> - [ ] Collate resources for assessment
 > - [ ] Assessment Feedback
+> - [ ] Technical Analysis for Assessment
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] Finalise project
 
-> [!danger]- Week 13
-> ![[semesterCalendarS2#School Events - Week 13]]
+> [!danger]- Week 12
+> ![[semesterCalendarS2#School Events - Week 12]]
 > 
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.
 > The task will be posted to Google Classroom, as per normal.
+
+> [!info]- Week 13
+> ![[semesterCalendarS2#School Events - Week 13]]
+> 
+> #### Class Tasks
+> - [ ] Vet Competencies
+> #### Theory
+> N/A
+> #### Practical
+> N/A
 
 > [!info]- Week 14
 > ![[semesterCalendarS2#School Events - Week 14]]
