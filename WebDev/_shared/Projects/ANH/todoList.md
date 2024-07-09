@@ -35,7 +35,8 @@ Update the SQL commands to specify the fields to create in the `todo` table.
 CREATE TABLE todo(
 	id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
 	text TEXT,
-	done BOOLEAN
+	done BOOLEAN,
+	userID INT
 );
 ```
 
@@ -157,7 +158,7 @@ Create a new route by copying this code into `app.py.`
 ```python
 @app.route('/todo', methods=["POST", "GET"])
 def view_todo():
-    all_todo = db.session.query(todo).all()
+	all_todo = todo.query.filter_by(userID=current_user.id).all()
     if request.method == "POST":
         new_todo = todo(text=request.form['text'])
         new_todo.done = False
@@ -175,7 +176,7 @@ def view_todo():
 | 47                                                                                                              | Creates the new route, called /todo and also adds the extra functionality of POST and GET methods. This means that this route will send data from the server to the browser (GET) and also accept data being sent back from the browser to the server (POST). POST is the common method to submit form data back to the server. |
 | You can read more [https://pythonbasics.org/flask-http-methods/](https://pythonbasics.org/flask-http-methods/). |                                                                                                                                                                                                                                                                                                                                 |
 | 48                                                                                                              | Defines the function name                                                                                                                                                                                                                                                                                                       |
-| 49                                                                                                              | Queries the database and retrieves the whole todo table. The results are stored into the all_todo variable.                                                                                                                                                                                                                     |
+| 49                                                                                                              | Queries the database and retrieves the records in the `todo` table which match the current users `userid`. The results are stored into the all_todo variable.                                                                                                                                                                   |
 | 51                                                                                                              | Checks if the Create todo form in `rowTwoColOneContent` (or sidebar) is attempting to submit data back to the server (POST).                                                                                                                                                                                                    |
 | 51                                                                                                              | Creates a new variable - new_todo by collecting the text entered in the form.                                                                                                                                                                                                                                                   |
 | 52                                                                                                              | Sets the done field to False as default.                                                                                                                                                                                                                                                                                        |
