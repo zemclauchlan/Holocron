@@ -141,6 +141,7 @@ tags:
 
 > [!danger]- Week 13
 > ![[semesterCalendarS2#School Events - Week 13]]
+> 
 > **Assessment Due**
 > The task will be due Friday 11:59pm.
 > Worth 50%.
@@ -157,6 +158,7 @@ tags:
 
 > [!danger]- Week 15
 > ![[semesterCalendarS2#School Events - Week 15]]
+> 
 > **Assessment Week** 
 > This assessment task is an interview. 
 > You will be assigned a 10min time slot for this week where you will have a one-to-one interview as your assessment.
@@ -167,11 +169,13 @@ tags:
 
 > [!info]- Week 16
 > ![[semesterCalendarS2#School Events - Week 16]]
+> 
 > **Catchup Week** for assessments.
 > If you have completed assessment tasks, focus on your VET competencies.
 
 > [!info]- Week 17
 > ![[semesterCalendarS2#School Events - Week 17]]
+> 
 > **No Classes**
 
 
