@@ -187,6 +187,9 @@ tags:
 | Google Classroom | Assessment 1 - 25 % |
 |                  | Assessment 2 - 50 % |
 |                  | Assessment 3 - 25 % |
+
+![[commonBlocks#Contact Details]]
+
 # VET Competencies
 During the course of this unit, you will be given the opportunity to complete the following VET Competencies:
 
@@ -198,5 +201,5 @@ During the course of this unit, you will be given the opportunity to complete th
 | BSBXTW301 | Work in a team                                                                | Core |
 | ICTPRG302 | Apply introductory programming techniques                                     | Core |
 
-![[commonBlocks#Contact Details]]
+
   

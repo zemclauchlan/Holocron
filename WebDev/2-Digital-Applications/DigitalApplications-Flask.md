@@ -195,15 +195,12 @@ N/A
 
 # Subject Information
 
-The Unit Outline can be found on Google Classroom.
+| Unit Outline     | Assessments         |
+| ---------------- | ------------------- |
+| Google Classroom | Assessment 1 - 25 % |
+|                  | Assessment 2 - 50 % |
+|                  | Assessment 3 - 25 % |
 
-## Assessments
-
-This unit has a number of assessments, the details can be found in the unit outline.
-
-The details for each assessment can be found on Google Classroom, as they are published.
-
-## Contact Details
 
 ![[commonBlocks#Contact Details]]
 
