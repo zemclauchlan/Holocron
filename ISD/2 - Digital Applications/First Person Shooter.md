@@ -145,7 +145,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 13]]
 > 
 > #### Class Tasks
-> - [ ] Vet Competencies
+> - [ ] [VET](_sharedContent/VET.md)
 > #### Theory
 > N/A
 > #### Practical
