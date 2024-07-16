@@ -13,10 +13,12 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
 > - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Accept%20Assignment.md)
 > #### Theory
-> N/A
+> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Overview.md)
+> - [ ] [Project Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Requirements.md)
 > #### Practical
-> N/A
+> - [ ] [Software](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Software.md)
 
 > [!info]- Week 2
 > ![[semesterCalendarS2#School Events - Week 2]] 
@@ -61,7 +63,7 @@ tags:
 > #### Practical
 > N/A
 
-> [!info]- Week 7
+> [!important]- Week 7
 > ![[semesterCalendarS2#School Events - Week 7]]
 > #### Class Tasks
 > N/A
