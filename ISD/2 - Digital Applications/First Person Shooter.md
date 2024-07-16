@@ -115,7 +115,7 @@ tags:
 > [!info]- Week 10
 > ![[semesterCalendarS2#School Events - Week 10]]
 > #### Class Tasks
-> N/A
+> - [ ] [VET](_sharedContent/VET.md)
 > #### Theory
 > N/A
 > #### Practical
