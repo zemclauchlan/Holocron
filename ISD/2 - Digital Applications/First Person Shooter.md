@@ -43,6 +43,7 @@ tags:
 > N/A
 > #### Theory
 >- [ ] [[ISD/2 - Digital Applications/_topics/theory/Vectors|Vectors]]
+>- [ ] [State Design Pattern](ISD/2%20-%20Digital%20Applications/_topics/theory/State%20Design%20Pattern.md)
 > #### Practical
 > - [ ] [First Person Controller](ISD/2%20-%20Digital%20Applications/_topics/tutorials/First%20Person%20Controller.md)
 > - [ ] [Bullet Implementation](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Bullet%20Implementation.md) 
