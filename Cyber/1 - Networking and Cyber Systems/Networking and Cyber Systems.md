@@ -3,30 +3,191 @@ tags:
   - S1
   - Cyber
 ---
+> [!note]- Project Overview
+> The project will be explained in due time...
 
-| Week                       | Topic                                                 | Assessment | Notes |     |
-| -------------------------- | ----------------------------------------------------- | ---------- | ----- | --- |
-| ![[semesterCalendarS1#1]]  | [[The Internet]] <br>[[TCP IP]] <br> [[IP Addresses]] |            |       |     |
-| ![[semesterCalendarS1#2]]  | [[Network Topologies]] <br> [[OSI Model]]             |            |       |     |
-| ![[semesterCalendarS1#3]]  | [[Subnetting]]<br>[[Packet Tracer Fundamentals]]      |            |       |     |
-| ![[semesterCalendarS1#4]]  | [[Cryptography]]                                      |            |       |     |
-| ![[semesterCalendarS1#5]]  | [[Simulated School Network]]                          |            |       |     |
-| ![[semesterCalendarS1#6]]  | [[Raspberry Pi Installation]]                         |            |       |     |
-| ![[semesterCalendarS1#7]]  |                                                       |            |       |     |
-| ![[semesterCalendarS1#8]]  |                                                       |            |       |     |
-| ![[semesterCalendarS1#9]]  |                                                       |            |       |     |
-| ![[semesterCalendarS1#10]] | [[Capture The Flag]]                                  |            |       |     |
-| School Holidays            |                                                       |            |       |     |
-| ![[semesterCalendarS1#11]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#12]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#13]] | [[Pen Testing Report]]                                |            |       |     |
-| ![[semesterCalendarS1#14]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#15]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#16]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#17]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#18]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#19]] |                                                       |            |       |     |
-| ![[semesterCalendarS1#20]] |                                                       |            |       |     |
+
+# Semester Plan
+## Term 3
+
+> [!info]- Week 1
+> ![[semesterCalendarS1#School Events - Week 1]]
+> # Class Tasks
+> - [ ] [[The Internet]] 
+> - [ ] [[TCP IP]] 
+> - [ ] [[IP Addresses]]
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 2
+> ![[semesterCalendarS1#School Events - Week 2]] 
+> # Class Tasks
+> [[Network Topologies]] 
+ [[OSI Model]]
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 3
+> ![[semesterCalendarS1#School Events - Week 3]]
+> # Class Tasks
+> [[Subnetting]]
+[[Packet Tracer Fundamentals]]
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 4
+> ![[semesterCalendarS1#School Events - Week 4]]
+> # Class Tasks
+> - [ ] [[Cryptography]]
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 5
+> ![[semesterCalendarS1#School Events - Week 5]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> - [ ] [[Simulated School Network]]
+
+> [!info]- Week 6
+> ![[semesterCalendarS1#School Events - Week 6]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> - [ ] [[Raspberry Pi Installation]]
+
+> [!important]- Week 7
+> ![[semesterCalendarS1#School Events - Week 7]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 8
+> ![[semesterCalendarS1#School Events - Week 8]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 9
+> ![[semesterCalendarS1#School Events - Week 9]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 10
+> ![[semesterCalendarS1#School Events - Week 10]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> - [ ] [[Capture The Flag]]
+
+## Term 4
+> [!info]- Week 11
+> ![[semesterCalendarS1#School Events - Week 11]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 12
+> ![[semesterCalendarS1#School Events - Week 12]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 13
+> ![[semesterCalendarS1#School Events - Week 13]]
+> # Class Tasks
+> - [ ] [[Pen Testing Report]]
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 14
+> ![[semesterCalendarS1#School Events - Week 14]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 15
+> ![[semesterCalendarS1#School Events - Week 15]]
+> # Class Tasks
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 16
+> ![[semesterCalendarS1#School Events - Week 16]]
+> # Class **Tasks**
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 17
+> ![[semesterCalendarS1#School Events - Week 17]]
+> # Class **Tasks**
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 18
+> ![[semesterCalendarS1#School Events - Week 18]]
+> # Class **Tasks**
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+> [!info]- Week 19
+> ![[semesterCalendarS1#School Events - Week 19]]
+> # Class **Tasks**
+> N/A
+> # Theory
+> N/A
+> # Practical
+> N/A
+
+
+
 # Subject Information
 
 The Unit Outline can be found on Google Classroom.
@@ -36,4 +197,8 @@ The Unit Outline can be found on Google Classroom.
 This unit has a number of assessments, the details can be found in the unit outline.
 
 The details for each assessment can be found on Google Classroom, as they are published.
+
+## Contact Details
+
+![[commonBlocks#Contact Details]]
 
