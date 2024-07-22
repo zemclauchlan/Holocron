@@ -58,7 +58,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> - [ ] [[Install and configure Servers]
+> - [ ] [[Install and configure Servers]]
 
 > [!info]- Week 6
 > ![[semesterCalendarS2#School Events - Week 6]]
