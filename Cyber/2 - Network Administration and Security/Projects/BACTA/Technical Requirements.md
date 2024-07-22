@@ -4,6 +4,7 @@ The project will have the following technical requirements
 	- [ ] Domain Controller
 	- [ ] File Service
 	- [ ] Web Service
+	- [ ] Database Server
 	- [ ] DNS Service
 	- [ ] Email Service
 	- [ ] DHCP Server

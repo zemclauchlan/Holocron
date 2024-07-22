@@ -5,8 +5,9 @@ tags:
 ---
 > [!note]- Project Overview
 > You are being tasked to develop secure servers and clients to support the Northside Hospital Project.
+> The project name is: **Biomedical ACT Administration (BACTA)**
 > You will be building and configuring a server, a workstation client and the publishing and secure storage of patient health data.
-> Details can be found here. [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Project%20Overview.md)
+> Details can be found here. [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
 
 # Semester Plan
 ## Term 3
@@ -15,21 +16,21 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
 > - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
-> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Accept%20Assignment.md)
+> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Accept%20Assignment.md)
 > #### Theory
-> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Project%20Overview.md)
-> - [ ] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Technical%20Requirements.md)
+> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Overview.md)
+> - [ ] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Technical%20Requirements.md)
 > #### Practical
 > N/A
 
 > [!info]- Week 2
 > ![[semesterCalendarS2#School Events - Week 2]] 
 > #### Class Tasks
-> - [ ] [Network Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Network%20Plan.md)
+> - [ ] [Network Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Network%20Plan.md)
 > #### Theory
-> - [ ] [Domain Controllers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Domain%20Controllers.md)
-> - [ ] [Users and Groups](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Users%20and%20Groups.md)
-> - [ ] [Databases](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Databases.md)
+> - [ ] [Domain Controllers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Domain%20Controllers.md)
+> - [ ] [Users and Groups](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Users%20and%20Groups.md)
+> - [ ] [Databases](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Databases.md)
 > #### Practical
 > N/A
 
@@ -44,7 +45,7 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 4]]
 > #### Class Tasks
 > - [ ] [Task Allocation](Cyber/1%20-%20Networking%20and%20Cyber%20Systems/_topics/Task%20Allocation.md)
-> - [ ] [Project Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Project%20Plan.md)
+> - [ ] [Project Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/BACTA/Project%20Plan.md)
 > #### Theory
 > N/A
 > #### Practical
