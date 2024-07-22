@@ -4,7 +4,9 @@ tags:
   - Cyber
 ---
 > [!note]- Project Overview
-> The project will be explained in due time...
+> You are being tasked to develop secure servers and clients to support the Northside Hospital Project.
+> You will be building and configuring a server, a workstation client and the publishing and secure storage of patient health data.
+> Details can be found here. [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Project%20Overview.md)
 
 # Semester Plan
 ## Term 3
@@ -13,19 +15,21 @@ tags:
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
 > - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
-> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Accept%20Assignment.md)
+> - [ ] [Accept Assignment](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Accept%20Assignment.md)
 > #### Theory
-> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Overview.md)
-> - [ ] [Project Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Project%20Requirements.md)
+> - [ ] [Project Overview](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Project%20Overview.md)
+> - [ ] [Technical Requirements](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Technical%20Requirements.md)
 > #### Practical
-> - [ ] [Software](Cyber/2%20-%20Network%20Administration%20and%20Security/_topics/Software.md)
+> N/A
 
 > [!info]- Week 2
 > ![[semesterCalendarS2#School Events - Week 2]] 
 > #### Class Tasks
-> N/A
+> - [ ] [Network Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Network%20Plan.md)
 > #### Theory
-> N/A
+> - [ ] [Domain Controllers](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Domain%20Controllers.md)
+> - [ ] [Users and Groups](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Users%20and%20Groups.md)
+> - [ ] [Databases](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Databases.md)
 > #### Practical
 > N/A
 
@@ -39,7 +43,8 @@ tags:
 > [!info]- Week 4
 > ![[semesterCalendarS2#School Events - Week 4]]
 > #### Class Tasks
-> N/A
+> - [ ] [Task Allocation](Cyber/1%20-%20Networking%20and%20Cyber%20Systems/_topics/Task%20Allocation.md)
+> - [ ] [Project Plan](Cyber/2%20-%20Network%20Administration%20and%20Security/Projects/Northside%20Hospital/Project%20Plan.md)
 > #### Theory
 > N/A
 > #### Practical
@@ -52,7 +57,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [[Install and configure Servers]
 
 > [!info]- Week 6
 > ![[semesterCalendarS2#School Events - Week 6]]

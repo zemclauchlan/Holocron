@@ -1,0 +1,1 @@
+As a group, determine who is responsible for which parts of the project.
