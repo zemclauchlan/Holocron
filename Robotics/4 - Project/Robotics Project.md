@@ -14,7 +14,7 @@ tags:
 > #### Class Tasks
 > - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
 > #### Theory
-> N/A
+> - [ ] [Project Goals](Robotics/4%20-%20Project/_projects/CyberRange/Project%20Goals.md)
 > #### Practical
 > N/A
 
