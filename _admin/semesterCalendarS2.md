@@ -8,7 +8,7 @@ tags:
 
 #### School Events - Week 2
 
-**Thursday** - Parent Teacher Interviews
+N/A
 
 #### School Events - Week 3
 N/A
