@@ -9,6 +9,14 @@ The basic website structure from last semester will be brought across (user mana
 Many will be smaller modules of functionality, like a shopping list, resume builder etc.
 
 ---
+# Holocron
+
+- Source of Truth!
+- Subject Content will be published here.
+- Regularly receive updates.
+- Obsidian (preferred) or Github
+
+---
 # Slides
 
 - This file (and other 'presentation' files) can be opened as Slides in Obsidian.
@@ -23,16 +31,14 @@ Many will be smaller modules of functionality, like a shopping list, resume buil
 	- Fork Holocron (this repository)
 	- Clone repository to device
 - Open Holocron in Obsidian
-
----
-# Project Overview
+- Accept the GitHub Assignment
 
 ---
 # Development Environment
 
-- Project can be developed
+- Project can be developed, either
 	- GitHub Codespaces (online)
-	- Visual Studio Code & Docker (offline
+	- Visual Studio Code & Docker (offline)
 - Visual Studio Code & Docker can't be run on Chromebook.
 	- Instructions on Holocron
 - Install SQLite into environment
@@ -42,10 +48,19 @@ note:
 Choose which development environment works for you. There is no right or wrong answer.
 
 ---
+# Project Overview
+- Flask, Python, HTML, CSS, etc
+- SQLite Database
+- Personal Homepage
+	- To Do List
+	- Shopping List
+	- Resume Builder
+	- etc.
+---
 # Project Restructure
 
 - Project restructured to *hide* the existing code. 
-![[WebDev/2-Digital-Applications/_topics/_images/w1-ProjectRestructure.png]]
+![[/WebDev/2-Digital-Applications/_topics/_images/w1-ProjectRestructure.png]]
 - Most development will be in `app.py`.
 - Leave `bp_admin.py` & `bp_user_management.py` files alone.
 - Uses the Flask `Blueprint` feature.
@@ -53,7 +68,8 @@ Choose which development environment works for you. There is no right or wrong a
 note: These files contain the majority of the routes and other code for user management (login/logout etc) and any administration routes.
 
 ---
-
 # Questions?
 
 If you have any questions, please ask!
+
+ryan.cather@ed.act.edu.au or discord.
