@@ -41,6 +41,7 @@ tags:
 > - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Fork & Clone Project|Fork & Clone Project]]
 > #### Theory
 > - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Characters|Characters]]
+> - [ ] [DBR Brainstorming](ISD/4%20-%20Project/_projects/Declan%20Battle%20Royal/DBR%20Brainstorming.md)
 > #### Practical
 > N/A
 
