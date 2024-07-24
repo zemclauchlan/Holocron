@@ -37,8 +37,8 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
-> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
-> - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Fork & Clone Project|Fork & Clone Project]]
+> - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [x] [[ISD/4 - Project/_projects/Declan Battle Royal/Fork & Clone Project|Fork & Clone Project]]
 > #### Theory
 > - [ ] [[ISD/4 - Project/_projects/Declan Battle Royal/Characters|Characters]]
 > - [ ] [DBR Brainstorming](ISD/4%20-%20Project/_projects/Declan%20Battle%20Royal/DBR%20Brainstorming.md)
@@ -159,7 +159,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> Game Event Thursday?
 
 > [!danger]- Week 15
 > ![[semesterCalendarS2#School Events - Week 15]]
