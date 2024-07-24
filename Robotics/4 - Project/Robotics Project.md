@@ -12,11 +12,11 @@ tags:
 > [!info]- Week 1
 > ![[semesterCalendarS2#School Events - Week 1]]
 > #### Class Tasks
-> - [x] [CloneHolocron](_sharedContent/CloneHolocron.md)
-> - [x] [Discussion Points](Robotics/4%20-%20Project/_projects/CyberRange/Discussion%20Points.md)
+> - [ ] [CloneHolocron](_sharedContent/CloneHolocron.md)
+> - [ ] [Discussion Points](Robotics/4%20-%20Project/_projects/CyberRange/Discussion%20Points.md)
 > #### Theory
 > - [ ] [Project Goals](Robotics/4%20-%20Project/_projects/CyberRange/Project%20Goals.md)
-> - [x] [User Centred Design](_sharedContent/User%20Centred%20Design.md)
+> - [ ] [User Centred Design](_sharedContent/User%20Centred%20Design.md)
 > #### Practical
 > N/A
 
