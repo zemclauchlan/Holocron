@@ -2,6 +2,8 @@
 https://krunker.io
 http://browser-doom.io/?page=game&game=doom&profile=Doom%20(Shareware)
 
+https://playclassic.games/games/first-person-shooter-dos-games-online/play-doom-online/play/
+
 
 
 > [!info] Google Gemini (2024, July 8) 
