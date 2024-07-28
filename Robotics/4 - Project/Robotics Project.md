@@ -27,7 +27,7 @@ tags:
 > #### Theory
 > N/A
 > #### Practical
-> N/A
+> - [ ] [Project Rebuild & Focus](Robotics/4%20-%20Project/_projects/CyberRange/Project%20Rebuild%20&%20Focus.md)
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
