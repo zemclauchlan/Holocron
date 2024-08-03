@@ -18,3 +18,6 @@
 > [!tip]- 11 Cyber Skills, ICT
 
 # General Advice
+
+> [!info] Use your in-class project as the main resource
+
