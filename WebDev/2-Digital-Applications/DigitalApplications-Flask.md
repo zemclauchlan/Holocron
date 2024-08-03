@@ -25,7 +25,8 @@ Submissions are due **11:59pm Friday** each week.
 
 [![Welcome](https://img.youtube.com/vi/BNpE9kGOL3o/0.jpg)](https://youtu.be/BNpE9kGOL3o)
 
-![https://youtu.be/E22avFJkxR4](https://youtu.be/E22avFJkxR4)
+[![Week 1](https://img.youtube.com/vi/E22avFJkxR4/0.jpg)](https://youtu.be/E22avFJkxR4)
+
 #### Class Tasks
 - [ ] [Clone Holocron](/_sharedContent/CloneHolocron.md)
 
@@ -49,7 +50,7 @@ Submit the assigned Google Doc with the following information:
 ![[semesterCalendarS2#School Events - Week 2]] 
 #### Video
 
-![https://youtu.be/UAeLuI6xGvo](https://youtu.be/UAeLuI6xGvo)
+[![Week 2]https://img.youtube.com/vi/UAeLuI6xGvo/0.jpg](https://youtu.be/UAeLuI6xGvo)
 #### Class Tasks
 N/A
 #### Theory
