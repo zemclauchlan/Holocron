@@ -23,7 +23,7 @@ Submissions are due **11:59pm Friday** each week.
 ![[semesterCalendarS2#School Events - Week 1]] 
 #### Video
 
-![https://youtu.be/BNpE9kGOL3o](https://youtu.be/BNpE9kGOL3o)
+[![Welcome](https://img.youtube.com/vi/BNpE9kGOL3o/0.jpg)](https://youtu.be/BNpE9kGOL3o)
 
 ![https://youtu.be/E22avFJkxR4](https://youtu.be/E22avFJkxR4)
 #### Class Tasks
@@ -63,6 +63,7 @@ Submit the assigned Google Doc with the following information:
 
 ### Week 3 - Assessment Week
  ![[semesterCalendarS2#School Events - Week 3]]
+ 
  [Assessment Assistance](/_sharedContent/Assessments2024S2/Task1.md)
 
 **Assessment Week**  
