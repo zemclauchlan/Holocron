@@ -2,6 +2,8 @@
 
 > [!important] Regularly update your fork of the Holocron. This page may be updated throughout assessment week.
 
+![Assessment Assistance](https://youtu.be/yUWSxqSfXRw)
+
 This is a **written report** responding to the scenario you've been given. You have a short amount of time to finalise the report. 
 
 While the report is not *directly* related to the classwork and project, the purpose of this report is to show the links to real-world situation/s. You should **absolutely** use your project as evidence to include (screenshots, code, etc as necessary).

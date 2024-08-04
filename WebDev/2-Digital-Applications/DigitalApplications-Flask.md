@@ -65,8 +65,11 @@ Submit the assigned Google Doc with the following information:
 
 ### Week 3 - Assessment Week
  ![[semesterCalendarS2#School Events - Week 3]]
+![Assessment 1 Overview](https://youtu.be/mkUcSVH3ZUY)
  
  [Assessment Assistance](/_sharedContent/Assessments2024S2/Task1.md)
+
+
 
 **Assessment Week**  
 You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
