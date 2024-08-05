@@ -28,6 +28,7 @@ Keep in mind the word limit.
 > -  Use data from the sources provided. Add to it from other sources as well.
 > - Refer to real-life cyber security breaches.
 > - Write the talking points last. That's a summary of the main points.
+> - The *Talking Points* section can be written as dot points. However the remainder of the document should be paragraphed.
 
 
 > [!tip]- 12 Robotics
@@ -36,6 +37,7 @@ Keep in mind the word limit.
 > - Write the talking points last. That's a summary of the main points.
 > - If you can put the information into a graphic (image, graph etc), do it.
 > - Refer to skills learned in class that could be learned (or expanded upon) in the proposed cyber skills centre.
+> - The *Talking Points* section can be written as dot points. However the remainder of the document should be paragraphed.
 
 
 > [!tip]- 11 Cyber Skills, ICT
@@ -43,6 +45,7 @@ Keep in mind the word limit.
 > - Write the talking points last. That's a summary of the main points.
 > - If you can put the information into a graphic (image, graph etc), do it.
 > - Use the network diagram from Packet Tracer as part of the report.
+> - The *Talking Points* section can be written as dot points. However the remainder of the document should be paragraphed.
 
 # General Advice
 
@@ -55,6 +58,8 @@ Keep in mind the word limit.
 The rule of thumb for academic reports: Don't state a fact without references.
 
 **Style of writing**. This is a technical document. Do not write an essay. Keep to facts. And be technical.
+
+**Evidence** Tables of data, appendices, Biblography should be included as necessary, but are not counted towards word limit.
 
 **Audience** Keep in mind the intended audience of the report. 
 
