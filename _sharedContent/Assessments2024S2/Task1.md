@@ -63,7 +63,7 @@ The rule of thumb for academic reports: Don't state a fact without references.
 
 **Audience** Keep in mind the intended audience of the report. 
 
-**Word Limit** Keep to the word limit (± 10%). Images don't count towards the word limit, so use them wisely. 
+**Word Limit** Keep to the word limit (± 10%). Images don't count towards the word limit, so use them as necessary. 
 
 # Resource
 
