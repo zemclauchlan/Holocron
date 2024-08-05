@@ -62,7 +62,7 @@ The rule of thumb for academic reports: Don't state a fact without references.
 
 # Resource
 
-# Example Ministerial Briefs
+## Example Ministerial Briefs
 
 
 [2019-Quarter-2-Minister-for-Police-and-Emergency-Services](/_sharedContent/Assessments2024S2/2019-Quarter-2-Minister-for-Police-and-Emergency-Services.pdf) [^1]
