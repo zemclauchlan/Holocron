@@ -70,12 +70,17 @@ The rule of thumb for academic reports: Don't state a fact without references.
 ## Example Ministerial Briefs
 
 
-[2019-Quarter-2-Minister-for-Police-and-Emergency-Services](/_sharedContent/Assessments2024S2/2019-Quarter-2-Minister-for-Police-and-Emergency-Services.pdf) [^1]
+![2019-Quarter-2-Minister-for-Police-and-Emergency-Services](/_sharedContent/Assessments2024S2/2019-Quarter-2-Minister-for-Police-and-Emergency-Services.pdf) [^1]
 
-[2019-Quarter-2-Minister-for-Corrections-and-Justice-Health](_sharedContent/Assessments2024S2/2019-Quarter-2-Minister-for-Corrections-and-Justice-Health.pdf) [^1]
+![2019-Quarter-2-Minister-for-Corrections-and-Justice-Health](_sharedContent/Assessments2024S2/2019-Quarter-2-Minister-for-Corrections-and-Justice-Health.pdf) [^1]
+
+
 
 
 [^1]:  edited from [Justice and Community Safety Directorate](https://www.justice.act.gov.au/about-us/freedom-of-information/open-access-ministerial-briefs)
 
+## Example Reports
 
+![Task 1 - Research & Development](_sharedContent/Assessments2024S2/Task%201%20-%20Research%20&%20Development.pdf)
 
+![Digital Assets_ Tutorial Assignment 25_03_22](_sharedContent/Assessments2024S2/Digital%20Assets_%20Tutorial%20Assignment%2025_03_22.pdf)
