@@ -90,7 +90,7 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek04.md)
 #### Practical
-N/A
+- [ ] [resumeBuilderTute](/WebDev/_shared/Projects/ANH/resumeBuilderTute.md)
 
 ### Week 5
  ![[semesterCalendarS2#School Events - Week 5]]
