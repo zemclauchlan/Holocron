@@ -16,16 +16,15 @@ To keep things simple, one table will be created that will hold both Work and Ed
 
 The database will contain a small number of fields. 
 
-| Field                 | Description                                                               |
-| --------------------- | ------------------------------------------------------------------------- |
-| id                    | Primary Key, uniquely identify the record                                 |
-| userID                | Links to the individual user, through the `user` table.                   |
-| experienceTitle       | The job title or qualification                                            |
-| experienceTime        | When the user worked the job, or completed the qualification              |
-| experienceLocation    | The name of the employer, or the institution they graduated from          |
-| experienceDescription | Job requirements, or details of the qualification                         |
-| experienceWork        | Boolean, if `true`, then it was a job. If `false`, then it was education. |
-|                       |                                                                           |
+| Field                   | Description                                                               |
+| ----------------------- | ------------------------------------------------------------------------- |
+| `id`                    | Primary Key, uniquely identify the record                                 |
+| `userID`                | Links to the individual user, through the `user` table.                   |
+| `experienceTitle`       | The job title or qualification                                            |
+| `experienceTime`        | When the user worked the job, or completed the qualification              |
+| `experienceLocation`    | The name of the employer, or the institution they graduated from          |
+| `experienceDescription` | Job requirements, or details of the qualification                         |
+| `experienceWork`        | Boolean, if `true`, then it was a job. If `false`, then it was education. |
 The Entity Relationship Diagram (ERD) would look like this.
 
 ![resumeERD](/WebDev/_shared/Projects/ANH/images/resumeERD.png)
@@ -96,7 +95,7 @@ Open `app.py` and import the newly created form.
 
 Save the file.
 
-## Logic - App.py
+## Logic - `app.py`
 
 Create a new route to build the resume.
 
@@ -308,7 +307,160 @@ Test creating new entries, for both Work and Education.
 ![[commonBlocks#Commit & Push]]
 # Edit Resume Entries
 
+> [!tip]- Goal.
+> The Resume Build page lists the current entries in the user's resume, and the title has been created as a link that opens the edit page. This is the focus of this section of the tutorial.
 
+The link will be dynamically generated using the `id` of the resume's entry, so a link will be structured like:
+
+`http://127.0.0.1:5001/resume_edit/<resume entry id>`
+
+for example:
+
+`http://127.0.0.1:5001/resume_edit/31`
+
+The goal is to have a form load with the current details, the user can edit the details and submit to update the database. The page will look like
+
+![resumeEditPreview](WebDev/_shared/Projects/ANH/images/resumeEditPreview.png)
+
+## Interface - HTML
+
+Create a new file in the `templates` directory called `resumeEdit.html`.
+
+![resumeEditTemplateFile](/WebDev/_shared/Projects/ANH/images/resumeEditTemplateFile.png)
+
+The template code for this page will be very similar to the code to create new entries on `resumeBuild.html`. 
+
+The main differences are:
+- The page doesn't list the existing entries, and more importantly,
+- Uses the current values for the resume entry and pre-populates the fields for the user.
+
+Pre-populating the fields is done through the `value` attribute. For example:  `value="{{resume_data.experienceTitle}}"` 
+
+```html
+{% extends "base.html" %}
+
+{% block pageCSS %}
+<style type="text/css">
+    .resume-row:nth-of-type(odd) {
+        background-color: #EBF5EE;
+    }
+
+    .resume-row:nth-of-type(even) {
+        background-color: #c1cac3;
+    }
+</style>
+{% endblock %}
+
+{% block rowOneContent %}
+<h1>Resume Builder</h1>
+
+<h2>Add new Entries</h2>
+{% endblock %}
+
+{% block rowTwoColOneContent %}
+{% endblock %}
+
+{% block rowTwoColTwoContent %}
+
+
+<div class="container-fluid">
+    <div class="row">
+        <h3>{{title}}</h3>
+    </div>
+    <div class="row">
+        <form method="POST" >
+            <div class="mb-3">
+                <label for="title" class="form-label">{{ form.experienceTitle.label }}</label>
+                <input type="text" class="form-control" id="experienceTitle" name="experienceTitle" value="{{resume_data.experienceTitle}}">
+                {% for error in form.experienceTitle.errors %}
+                <span style="color: red;">[{{ error }}]</span>
+                {% endfor %}
+            </div>
+            <div class="mb-3">
+                <label for="description" class="form-label">{{ form.experienceLocation.label }}</label>
+                <input type="text" class="form-control" id="experienceLocation" name="experienceLocation" rows="1" value="{{resume_data.experienceLocation}}">
+            </div>
+            <div class="mb-3">
+                <label for="description" class="form-label">{{ form.experienceDescription.label }} </label>
+                <textarea class="form-control" id="experienceDescription" name="experienceDescription" rows="3">{{resume_data.experienceDescription}}</textarea>
+            </div>
+            <div class="mb-3">
+                <label for="time" class="form-label">{{ form.experienceTime.label }}</label>
+                <input type="text" class="form-control" id="experienceTime" name="experienceTime" value="{{resume_data.experienceTime}}">
+            </div>
+            <div class="form-check">
+                <input class="form-check-input" type="checkbox" id="experienceWork" name="experienceWork" value="{{resume_data.experienceWork}}">
+                <label class="form-check-label" for="checkbox" >Check if Work experience, leave blank for education.</label>
+            </div>
+            <p>{{ form.submit() }}</p>
+        </form>
+    </div>
+</div>
+
+
+
+{% endblock %}
+
+{% block rowThreeContent %}
+<div class="footerText">Copyright 2024.</div>
+{% endblock %}
+```
+
+Save the file.
+
+## Logic - `app.py`
+
+Create the route for editing the resume entries. This code creates the route, and loads the Resume form, as done with the Resume Build route. 
+
+Additionally, it loads the details of the resume entry identified by the `<resume_id>` in the URL. These details are sent to the template through the `resume_data` variable so the form can pre-populate the data.
+
+![resumeEditRouteV1](WebDev/_shared/Projects/ANH/images/resumeEditRouteV1.png)
+
+```python
+@app.route("/resume_edit/<resume_id>", methods=["POST", "GET"])
+def edit_resume_entry(resume_id):
+    form = ResumeForm()
+    resume_entry = ResumeExperience.query.filter_by(id=resume_id).first()
+    
+    return render_template("resumeEdit.html", title="Resume - Edit Entry", user=current_user, form=form, resume_data=resume_entry)
+
+```
+
+The last main step to allow editing of the data is:
+
+```mermaid
+flowchart TD
+Step1(User Presses 'Add/Update Experience')
+ --> Step2(Route collects the data in each field, and stores each in individual variables)
+ --> Step3(Store the data back in the database.)
+ --> Step4(Redirect the user back to the Resume Build page)
+```
+
+
+Update the code to perform these steps.
+
+![resumeEditRouteV2](/WebDev/_shared/Projects/ANH/images/resumeEditRouteV2.png)
+
+```python
+if request.method == "POST":
+        db.session.query(ResumeExperience).filter_by(id=resume_id).update({
+            "experienceTitle": request.form['experienceTitle'],
+            "experienceTime": request.form['experienceTime'],
+            "experienceLocation": request.form['experienceLocation'],
+            "experienceDescription": request.form['experienceDescription'],
+            "experienceWork": False if request.form.get('experienceWork') == None else True
+        })
+        db.session.commit()
+        return redirect("/resumeBuild")
+```
+
+Save the file.
+
+## Test Editing a record
+
+Run the site and edit a record! Test all the fields and confirm that each field gets updated.
+
+![resumeEditDemo](/WebDev/_shared/Projects/ANH/images/resumeEditDemo.gif)
 
 # Resume Display
 
