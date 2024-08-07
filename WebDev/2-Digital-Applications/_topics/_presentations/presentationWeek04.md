@@ -57,7 +57,7 @@ Creating:
 
 What else goes on a resume?
 
-![resumeExampleWikiCommons](/WebDev/_shared/Projects/ANH/images/resumeExampleWikiCommons.png)
+![resumeExampleWikiCommons](/WebDev/_shared/Projects/ANH/images/resumeExampleGenerated.png)
 
 note: - Personal information
 	- Name
