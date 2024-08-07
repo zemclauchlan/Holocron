@@ -243,7 +243,7 @@ def edit_note(todo_id):
 
 Open base.html and add a new link to the TODO mini app.
 
-![todoTemplateUpdate](WebDev/_shared/Projects/ANH/images/todoTemplateUpdate.png)
+![todoTemplateUpdate](/WebDev/_shared/Projects/ANH/images/todoTemplateUpdate.png)
 ```html
 <a class="nav-link" href="/todo">ToDo List</a>
 ```
