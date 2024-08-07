@@ -107,7 +107,7 @@ Save the file.
 
 Open `app.py` and import the newly created form.
 
-![resumeImportForm](WebDev/_shared/Projects/ANH/images/resumeImportForm.png)
+![resumeImportForm](/WebDev/_shared/Projects/ANH/images/resumeImportForm.png)
 
 Save the file.
 
@@ -127,7 +127,7 @@ def resumeBuild():
 
 To prepare for displaying the page, you will need to first load the `ResumeForm` form.
 
-![resumeLoadForm](WebDev/_shared/Projects/ANH/images/resumeLoadForm.png)
+![resumeLoadForm](/WebDev/_shared/Projects/ANH/images/resumeLoadForm.png)
 
 ```python
 form=ResumeForm()
@@ -135,7 +135,7 @@ form=ResumeForm()
 
 And then load any resume entries made by the user (if any).
 
-![resumeLoadCurrentDetails](WebDev/_shared/Projects/ANH/images/resumeLoadCurrentDetails.png)
+![resumeLoadCurrentDetails](/WebDev/_shared/Projects/ANH/images/resumeLoadCurrentDetails.png)
 
 ```python
 resume_details = ResumeExperience.query.filter_by(userID=current_user.id).all()
@@ -145,7 +145,7 @@ The HTML page will not only display the current resume entries, but it will also
 
 In order for this to occur, the code needs to test for when the user submits the form - this is done through a `POST` request. This `if` statement will be executed when the user presses submit. 
 
-![resumePOSTTest](WebDev/_shared/Projects/ANH/images/resumePOSTTest.png)
+![resumePOSTTest](/WebDev/_shared/Projects/ANH/images/resumePOSTTest.png)
 
 For each form field, the code will get the form data and store it in a variable. Then it will create a new database record, and commit that record back to the database.
 
@@ -212,7 +212,7 @@ Replace any default code with the following. This includes some CSS to help disp
 
 Edit the `rowTwoColTwoContents` section to create a table structure, using Bootstraps `container-fluid` class.
 
-![resumeBuildTemplateHeadings](WebDev/_shared/Projects/ANH/images/resumeBuildTemplateHeadings.png)
+![resumeBuildTemplateHeadings](/WebDev/_shared/Projects/ANH/images/resumeBuildTemplateHeadings.png)
 
 ```html
 <div class="container-fluid">
@@ -318,7 +318,7 @@ Create a new Entry, and press `Add/Update Experience`. The new field should appe
 
 Test creating new entries, for both Work and Education.
 
-![resumeBuildTemplateFormEntry](WebDev/_shared/Projects/ANH/images/resumeBuildTemplateFormEntry.png)
+![resumeBuildTemplateFormEntry](/WebDev/_shared/Projects/ANH/images/resumeBuildTemplateFormEntry.png)
 
 ![[commonBlocks#Commit & Push]]
 # Edit Resume Entries
@@ -336,7 +336,7 @@ for example:
 
 The goal is to have a form load with the current details, the user can edit the details and submit to update the database. The page will look like
 
-![resumeEditPreview](WebDev/_shared/Projects/ANH/images/resumeEditPreview.png)
+![resumeEditPreview](/WebDev/_shared/Projects/ANH/images/resumeEditPreview.png)
 
 ## Interface - HTML
 
@@ -430,7 +430,7 @@ Create the route for editing the resume entries. This code creates the route, an
 
 Additionally, it loads the details of the resume entry identified by the `<resume_id>` in the URL. These details are sent to the template through the `resume_data` variable so the form can pre-populate the data.
 
-![resumeEditRouteV1](WebDev/_shared/Projects/ANH/images/resumeEditRouteV1.png)
+![resumeEditRouteV1](/WebDev/_shared/Projects/ANH/images/resumeEditRouteV1.png)
 
 ```python
 @app.route("/resume_edit/<resume_id>", methods=["POST", "GET"])
@@ -549,9 +549,9 @@ Each section will involve looping over the data and displaying each field. In th
 Save the file.
 ## Logic - `app.py
 
-The route for this is relatively simple. The route loads the users resume details, first only the work experience, and then the education experience. The two variables are then sent separately to the template.
+The route for this is relatively simple. The route loads the user's resume details, first only the work experience, and then the education experience. The two variables are then sent separately to the template.
 
-![resumeDisplayRoute](WebDev/_shared/Projects/ANH/images/resumeDisplayRoute.png)
+![resumeDisplayRoute](/WebDev/_shared/Projects/ANH/images/resumeDisplayRoute.png)
 
 ```python
 @app.route("/resumeDisplay")
@@ -570,4 +570,4 @@ Save the file.
 
 Run the site and access the page to display your resume. The page will be rendered similar to this.
 
-![resumeDisplayExample](WebDev/_shared/Projects/ANH/images/resumeDisplayExample.png)
+![resumeDisplayExample](/WebDev/_shared/Projects/ANH/images/resumeDisplayExample.png)
