@@ -571,3 +571,16 @@ Save the file.
 Run the site and access the page to display your resume. The page will be rendered similar to this.
 
 ![resumeDisplayExample](/WebDev/_shared/Projects/ANH/images/resumeDisplayExample.png)
+
+
+# Resume Display Improvement
+
+Your challenge is to improve the interface for the resume display page. Currently, the data is just outputted on the page in the different sections. 
+
+Use the official [bootstrap documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) to assist you. Or you can search for other tutorials on how to display information in different ways.
+
+One such method would be to use bootstrap's [cards](https://getbootstrap.com/docs/5.3/components/card/) to display each entry. This could be rendered like this:
+
+![resumeDisplayCardExample](/WebDev/_shared/Projects/ANH/images/resumeDisplayCardExample.png)
+
+
