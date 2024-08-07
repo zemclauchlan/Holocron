@@ -66,7 +66,7 @@ note: - Personal information
 - Referees
 	- Name
 	- Contact Details
-
+What database changes would need to be made to support these additions?
 ---
 
 # Questions?
