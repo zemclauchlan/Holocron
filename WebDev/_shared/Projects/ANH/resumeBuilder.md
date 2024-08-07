@@ -2,6 +2,22 @@
 > The goal of this tutorial is to develop a standalone web-app for users to build a resume. Users will be able to add Work or Educational Experience to their resume. Users will also be able to edit those entries.
 > Users will be able to produce, and print, a resume from the website as well.
 
+# Update the Navigation bar
+
+Before modifying the rest of the code, create the two links that will be used throughout the process. This will help you test your site and confirm functionality.
+
+Open `base.html` in the templates directory. Add the two links below into the section of code for users who are logged in.
+
+![resumeNavbar](/WebDev/_shared/Projects/ANH/images/resumeNavbar.png)
+
+```html
+<a class="nav-link" href="/resumeBuild">Build Resume</a>
+<a class="nav-link" href="/resumeDisplay">Display Resume</a>
+```
+
+
+
+
 # Create Resume Entries
 
 > [!tip]- Goal
@@ -466,3 +482,92 @@ Run the site and edit a record! Test all the fields and confirm that each field 
 
 > [!tip]- Goal
 > This phase will focus on displaying the resume in an aesthetic format.
+
+The final step in the resume-building process is creating a dedicated page on your website that showcases your resume in a visually appealing and printer-friendly format. Consider visual design, print optimisation, and responsiveness to ensure your resume is presented effectively on screen and in print. Embed your resume using a PDF viewer or image, include navigation features for easy access, and provide options for downloading and printing the resume. By creating a professional display page, you can enhance the presentation of your resume and make it easily accessible to potential employers and recruiters.
+
+
+## Interface - HTML
+
+Create a new template in the `templates` directory. Name the file `resumeDisplay.html`.
+
+![resumeDisplayFile](/WebDev/_shared/Projects/ANH/images/resumeDisplayFile.png)
+
+
+Add the default code to the file.
+
+```html
+{% extends "base.html" %}
+
+{% block pageCSS %}
+{% endblock %}
+
+{% block rowOneContent %}
+<h1>Resume</h1>
+{% endblock %}
+
+{% block rowTwoColOneContent %}
+{% endblock %}
+
+{% block rowTwoColTwoContent %}
+{% endblock %}
+
+{% block rowThreeContent %}
+<div class="footerText">Copyright 2024.</div>
+{% endblock %}
+```
+
+At this stage, the page will only contain two sections, one for the Work experience, and another for the Education experience. These will be collated and organised through the route (created later), allowing the template to focus on displaying the data.
+
+Each section will involve looping over the data and displaying each field. In the first stage, the data will just be 'dumped' on the page. Later, the interface will be improved.
+
+![resumeDisplayTemplateData](/WebDev/_shared/Projects/ANH/images/resumeDisplayTemplateData.png)
+
+```jinja2
+<h2>Work Experience</h2>
+
+{% for workEntry in userExperienceWork %}
+<p>
+    {{workEntry.experienceTitle}}
+    {{workEntry.experienceTime}}
+    {{workEntry.experienceLocation}}
+    {{workEntry.experienceDescription}}
+</p>
+{% endfor %}
+
+<h2>Education</h2>
+
+{% for educationEntry in userExperienceEducation %}
+<p>
+    {{educationEntry.experienceTitle}}
+    {{educationEntry.experienceTime}}
+    {{educationEntry.experienceLocation}}
+    {{educationEntry.experienceDescription}}
+</p>
+{% endfor %}
+```
+
+Save the file.
+## Logic - `app.py
+
+The route for this is relatively simple. The route loads the users resume details, first only the work experience, and then the education experience. The two variables are then sent separately to the template.
+
+![resumeDisplayRoute](WebDev/_shared/Projects/ANH/images/resumeDisplayRoute.png)
+
+```python
+@app.route("/resumeDisplay")
+def resumeDisplay():
+    userExperienceWork = ResumeExperience.query.filter_by(
+        userID=current_user.id, experienceWork=1).all()
+    userExperienceEducation = ResumeExperience.query.filter_by(
+        userID=current_user.id, experienceWork=0).all()
+    return render_template("resumeDisplay.html", title="Resume", user=current_user, userExperienceWork=userExperienceWork, userExperienceEducation=userExperienceEducation)
+
+```
+
+Save the file.
+
+## Test the page
+
+Run the site and access the page to display your resume. The page will be rendered similar to this.
+
+![resumeDisplayExample](WebDev/_shared/Projects/ANH/images/resumeDisplayExample.png)
