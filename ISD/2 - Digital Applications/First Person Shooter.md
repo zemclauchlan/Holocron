@@ -74,7 +74,7 @@ tags:
 > #### Class Tasks
 > N/A
 > #### Theory
-> - [ ] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
+> N/A
 > #### Practical
 > - [ ] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
 > - [ ] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
