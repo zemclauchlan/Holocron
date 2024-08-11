@@ -85,6 +85,8 @@ The task will be posted to Google Classroom, as per normal.
 
 ### Week 4
  ![[semesterCalendarS2#School Events - Week 4]]
+![Week 4 - Resume Builder](https://youtu.be/k9czbai5BGo)
+
 #### Class Tasks
 N/A
 #### Theory
