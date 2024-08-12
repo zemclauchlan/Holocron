@@ -10,6 +10,10 @@ Equipment Needed:
 - Keyboard 
 - Mouse
 
+# Very Important!!!
+
+The services and servers are to **only be run on the CyberRange network.** There may be unintended consequences if you run them on the ONE network.
+
 # Operating System
 In your teams install the Raspberry Pi OS.
 
@@ -24,7 +28,7 @@ Credentials:
 | SSID         | Password     |
 | ------------ | ------------ |
 | `CyberRange` | `CyberRange` |
-``
+
 The Raspberry Pi can connect to the SchoolsNet to access the internet via Ethernet.
 
 ## Server name
