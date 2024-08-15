@@ -77,8 +77,8 @@ extends CharacterBody3D
 @onready var nav_agent = $NavigationAgent3D
 var SPEED = 3.0
 
-func update_target_location (target_locaton):
-	nav_agent.set_target_position(target_locaton)
+func update_target_location (target_location):
+	nav_agent.set_target_position(target_location)
 
 func _physics_process(delta):
 	var current_location = global_transform.origin
