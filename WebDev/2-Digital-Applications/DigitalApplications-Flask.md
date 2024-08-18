@@ -96,6 +96,8 @@ N/A
 
 ### Week 5
  ![[semesterCalendarS2#School Events - Week 5]]
+![https://youtu.be/FLWyW1CZVUI](https://youtu.be/FLWyW1CZVUI)
+
 #### Class Tasks
 N/A
 #### Theory
