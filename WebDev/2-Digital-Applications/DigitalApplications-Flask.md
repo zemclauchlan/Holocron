@@ -121,7 +121,7 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
 #### Practical
-- [ ] [shoppingListPart1](/WebDev/_shared/Projects/ANH/shoppingListPart1.md)
+- [ ] [Shopping List Part 1](/WebDev/_shared/Projects/ANH/shoppingListPart1.md)
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
 #### Class Tasks
@@ -129,7 +129,7 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek08.md)
 #### Practical
-- [ ] [shoppingListPart2](/WebDev/_shared/Projects/ANH/shoppingListPart2.md)
+- [ ] [Shopping List Part 2](/WebDev/_shared/Projects/ANH/shoppingListPart2.md)
 
 ### Week 9
  ![[semesterCalendarS2#School Events - Week 9]]
@@ -138,16 +138,16 @@ N/A
 ##### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
 #### Practical
-- [ ] [shoppingListPart3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
+- [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
 
 ### Week 10
  ![[semesterCalendarS2#School Events - Week 10]]
 #### Class Tasks
-- [ ] [assessment2Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
 #### Practical
-- [ ] [shoppingListPart4](/WebDev/_shared/Projects/ANH/shoppingListPart4.md)
+- [ ] [Shopping List Part 4](/WebDev/_shared/Projects/ANH/shoppingListPart4.md)
 
 ## Term 4
 ### Week 11
