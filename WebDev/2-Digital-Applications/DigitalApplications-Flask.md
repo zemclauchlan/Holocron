@@ -23,14 +23,15 @@ Submissions are due **11:59pm Friday** each week.
 ![[semesterCalendarS2#School Events - Week 1]] 
 #### Video
 
-![https://youtu.be/BNpE9kGOL3o](https://youtu.be/BNpE9kGOL3o)
+![Welcome](https://youtu.be/BNpE9kGOL3o)
 
-![https://youtu.be/E22avFJkxR4](https://youtu.be/E22avFJkxR4)
+![Week 1](https://youtu.be/E22avFJkxR4)
+
 #### Class Tasks
 - [ ] [Clone Holocron](/_sharedContent/CloneHolocron.md)
 
 #### Theory
-- [ ] [Week 1 Presentation](WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
+- [ ] [Week 1 Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek01)
 - [ ] [Flask Vs Django](/WebDev/2-Digital-Applications/_topics/FlaskVsDjango.md)
 
 #### Practical
@@ -47,6 +48,9 @@ Submit the assigned Google Doc with the following information:
 
 ### Week 2
 ![[semesterCalendarS2#School Events - Week 2]] 
+#### Video
+
+![Week 2](https://youtu.be/UAeLuI6xGvo)
 
 #### Class Tasks
 N/A
@@ -55,9 +59,18 @@ N/A
 #### Practical
 - [ ] [Todo List](/WebDev/_shared/Projects/ANH/todoList.md)
 
+#### Submission
+Submit the assigned Google Doc with the following information:
+- [ ] Screenshots/Gif of TODO list working
 
 ### Week 3 - Assessment Week
  ![[semesterCalendarS2#School Events - Week 3]]
+![Assessment 1 Overview](https://youtu.be/mkUcSVH3ZUY)
+ 
+ [Assessment Assistance](/_sharedContent/Assessments2024S2/Task1.md)
+
+
+
 **Assessment Week**  
 You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.  
 Worth 25%.  
@@ -72,21 +85,27 @@ The task will be posted to Google Classroom, as per normal.
 
 ### Week 4
  ![[semesterCalendarS2#School Events - Week 4]]
+![Week 4 - Resume Builder](https://youtu.be/k9czbai5BGo)
+
 #### Class Tasks
 N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek04.md)
 #### Practical
-N/A
+- [ ] [Resume Builder](/WebDev/_shared/Projects/ANH/resumeBuilder.md)
 
 ### Week 5
  ![[semesterCalendarS2#School Events - Week 5]]
+![https://youtu.be/FLWyW1CZVUI](https://youtu.be/FLWyW1CZVUI)
+
 #### Class Tasks
 N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek05.md)
 #### Practical
-N/A
+- [ ] [Resume Improvements](/WebDev/_shared/Projects/ANH/resumeImprovements.md)
+
+
 ### Week 6
  ![[semesterCalendarS2#School Events - Week 6]]
 #### Class Tasks
@@ -98,42 +117,43 @@ N/A
 ### Week 7
  ![[semesterCalendarS2#School Events - Week 7]]
 #### Class Tasks
-N/A
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/Assessment 2 Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
 #### Practical
-N/A
+- [ ] [Shopping List Part 1](/WebDev/_shared/Projects/ANH/shoppingListPart1.md)
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
 #### Class Tasks
-N/A
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek08.md)
 #### Practical
-N/A
+- [ ] [Shopping List Part 2](/WebDev/_shared/Projects/ANH/shoppingListPart2.md)
+
 ### Week 9
  ![[semesterCalendarS2#School Events - Week 9]]
 #### Class Tasks
-N/A
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 ##### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek09.md)
 #### Practical
-N/A
+- [ ] [Shopping List Part 3](/WebDev/_shared/Projects/ANH/shoppingListPart3.md)
 
 ### Week 10
  ![[semesterCalendarS2#School Events - Week 10]]
 #### Class Tasks
-N/A
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek10.md)
 #### Practical
-N/A
+- [ ] [Shopping List Part 4](/WebDev/_shared/Projects/ANH/shoppingListPart4.md)
 
 ## Term 4
 ### Week 11
  ![[semesterCalendarS2#School Events - Week 11]]
 #### Class Tasks
-N/A
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek11.md)
 #### Practical
@@ -147,6 +167,7 @@ The task will be due Friday 11:59pm.
 Worth 50%.  
 The task will be posted to Google Classroom, as per normal.
 #### Class Tasks
+- [ ] [assessment2Finalisation](/WebDev/2-Digital-Applications/_topics/assessment2Finalisation.md)
  - [ ] Submit Assessment 2
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek13.md)

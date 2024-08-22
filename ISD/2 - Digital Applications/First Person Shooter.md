@@ -50,6 +50,9 @@ tags:
 
 > [!danger]- Week 3
 > ![[semesterCalendarS2#School Events - Week 3]]
+> 
+> [Assessment Assistance](_sharedContent/Assessments2024S2/Task1.md)
+> 
 > **Assessment Week**
 > You will be given your assessment/topic Monday morning. The task will be due Friday 11:59pm.
 > Worth 25%.
@@ -69,9 +72,9 @@ tags:
 > [!info]- Week 5
 > ![[semesterCalendarS2#School Events - Week 5]]
 > #### Class Tasks
-> N/A
+> - [ ] [Assessment Documentation](ISD/2%20-%20Digital%20Applications/_topics/theory/Assessment%20Documentation.md)
 > #### Theory
-> - [ ] [Pathfinding](ISD/2%20-%20Digital%20Applications/_topics/theory/Pathfinding.md)
+> N/A
 > #### Practical
 > - [ ] [Raycasting](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Raycasting.md)
 > - [ ] [Shooting Bullet Instances](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Shooting%20Bullet%20Instances.md)
