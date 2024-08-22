@@ -36,12 +36,16 @@ Create a `MeshInstance3D` as a child of the Player root node, calling it **HitPo
 
 ![raycastHitPoint](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/raycastHitPoint.png)
 
-In the inspector, Create a new SphereMesh, and change the radius and height to 0.1 and 0.2 respectively.
+In the inspector, Create a new SphereMesh, and change the radius and height to 0.1 and 0.2 respectively. 
 
 Set the colour of the mesh to red (or any other colour) to make it stand out in the game.
 
 ![raycastHitPointColour](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/raycastHitPointColour.png)
 
+
+Move the sphere along the Z axis to represent where the raycast is aiming towards. Notice the blue line to represent the raycast.
+
+![raycastHitPointPosition](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/raycastHitPointPosition.png)
 
 Save the `Player.tscn` file.
 
