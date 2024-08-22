@@ -71,10 +71,11 @@ If it does collide with a collider, then it will check if that object has a func
 if Input.is_action_pressed("raycast"):
 	if ray.is_colliding():
 		var collider = ray.get_collider()
-		if not collider.get_parent().name in "LevelOne":
-			print("Collided with " + collider.get_parent().name + " at %s " % ray.get_collision_point())
-		if collider.get_parent().has_method("raycast_collision"):
-			collider.get_parent().raycast_collision()
+		
+		if collider:
+			#print("Collided with " + collider.name + " at %s " % ray.get_collision_point())
+			if collider.has_method("raycast_collision"):
+				collider.raycast_collision()
 ```
 
 
