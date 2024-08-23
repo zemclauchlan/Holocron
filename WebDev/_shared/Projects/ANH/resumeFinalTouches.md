@@ -22,7 +22,7 @@ CREATE TABLE resume_referees(
 
 Update `models.py` to create a new class to match the new table:
 
-![resumeFinalRefereeModel](WebDev/_shared/Projects/ANH/images/resumeFinalRefereeModel.png)
+![resumeFinalRefereeModel](/WebDev/_shared/Projects/ANH/images/resumeFinalRefereeModel.png)
 
 ```python
 class ResumeReferees(db.Model):
@@ -39,7 +39,7 @@ Open `forms.py`. Due to changes required further in the code, you will need to:
 - Change the variable for the SubmitField for `ResumeForm` to `submit1`, and 
 - Create the new RefereeForm class. Notice that the SubmitField is named `submit2`.
 
-![resumeFinalForms](WebDev/_shared/Projects/ANH/images/resumeFinalForms.png)
+![resumeFinalForms](/WebDev/_shared/Projects/ANH/images/resumeFinalForms.png)
 
 ```python
 class RefereeForm(FlaskForm):
@@ -56,7 +56,7 @@ class RefereeForm(FlaskForm):
 
 First, add the newly created classes to the import statements near the top of the file.
 
-![resumeFinalImport](WebDev/_shared/Projects/ANH/images/resumeFinalImports.png)
+![resumeFinalImport](/WebDev/_shared/Projects/ANH/images/resumeFinalImports.png)
 
 ### `resumeBuild()`
 
@@ -64,11 +64,11 @@ Several changes need to be made to this function for the new referee functionali
 
 Right-click on `form` and choose **Rename Symbol**. Change the name to `formResume` and hit enter. 
 
-![resumeFinalRename](WebDev/_shared/Projects/ANH/images/resumeFinalRename.png)
+![resumeFinalRename](/WebDev/_shared/Projects/ANH/images/resumeFinalRename.png)
 
 Create a new variable for `RefereeForm`.
 
-![resumeFinalRefereeForm](WebDev/_shared/Projects/ANH/images/resumeFinalRefereeForm.png)
+![resumeFinalRefereeForm](/WebDev/_shared/Projects/ANH/images/resumeFinalRefereeForm.png)
 
 
 ```python
@@ -109,7 +109,7 @@ Update `resumeDisplay()` to load the referees for the user. This process is done
 
 You'll then need to add the referee data to send to the template.
 
-![resumeFinalDisplay](WebDev/_shared/Projects/ANH/images/resumeFinalDisplay.png)
+![resumeFinalDisplay](/WebDev/_shared/Projects/ANH/images/resumeFinalDisplay.png)
 
 ```python
 userReferees = ResumeReferees.query.filter_by(userID=current_user.id).all()
@@ -119,13 +119,13 @@ userReferees = ResumeReferees.query.filter_by(userID=current_user.id).all()
 
 Open `resumeBuild.html` and update to reflect the changes made, to accomodate adding Experience and Referees.
 
-![resumeFinalFormUpdate](WebDev/_shared/Projects/ANH/images/resumeFinalFormUpdate.png)
+![resumeFinalFormUpdate](/WebDev/_shared/Projects/ANH/images/resumeFinalFormUpdate.png)
 
 Add the code for the Referee form.
 
 > [!important] Pay attention to the `</div>` tags to ensure the page will be laid out correctly.
 
-![resumeFinalFormNew](WebDev/_shared/Projects/ANH/images/resumeFinalFormNew.png)
+![resumeFinalFormNew](/WebDev/_shared/Projects/ANH/images/resumeFinalFormNew.png)
 
 ```html
 <div class="row">
@@ -157,7 +157,7 @@ The final step is to code the resume to display the referees. Open `resumeDispla
 
 Add the code to iterate over any referees the user has and display them.
 
-![resumeFinalRefereesDisplay](WebDev/_shared/Projects/ANH/images/resumeFinalRefereesDisplay.png)
+![resumeFinalRefereesDisplay](/WebDev/_shared/Projects/ANH/images/resumeFinalRefereesDisplay.png)
 
 ```html
 <h2>Referees</h2>
