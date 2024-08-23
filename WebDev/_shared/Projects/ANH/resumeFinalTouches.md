@@ -253,7 +253,20 @@ Instead of the user entering the rating as a number out of 5, update the form to
 
 ![resumeFinalSelectRating](WebDev/_shared/Projects/ANH/images/resumeFinalSelectRating.png)
 
+## Another Challenge!
 
+Instead of displaying the rating as just a number or text, change `resumeDisplay.html` to display a star (or other symbol) to represent the rating.
+
+![resumeFinalSkillsStar](WebDev/_shared/Projects/ANH/images/resumeFinalSkillsStar.png)
+
+To do this you could first check the value then display a star. Do this in the template, you could use code similar to this:
+
+```jinja2
+{% if skill.rating == 1 %}
+⭐️
+{% endif %}
+
+```
 
 
 
