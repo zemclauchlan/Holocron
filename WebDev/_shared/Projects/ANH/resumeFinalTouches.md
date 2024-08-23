@@ -268,8 +268,3 @@ To do this you could first check the value then display a star. Do this in the t
 
 ```
 
-
-
-
-# Printing
-
