@@ -251,13 +251,13 @@ Instead of the user entering the rating as a number out of 5, update the form to
 
 > [!hint] A drop-down list is called a **Select** in HTML. You may find [this page](https://getbootstrap.com/docs/5.3/forms/select/) useful.
 
-![resumeFinalSelectRating](WebDev/_shared/Projects/ANH/images/resumeFinalSelectRating.png)
+![resumeFinalSelectRating](/WebDev/_shared/Projects/ANH/images/resumeFinalSelectRating.png)
 
 ## Another Challenge!
 
 Instead of displaying the rating as just a number or text, change `resumeDisplay.html` to display a star (or other symbol) to represent the rating.
 
-![resumeFinalSkillsStar](WebDev/_shared/Projects/ANH/images/resumeFinalSkillsStar.png)
+![resumeFinalSkillsStar](/WebDev/_shared/Projects/ANH/images/resumeFinalSkillsStar.png)
 
 To do this you could first check the value then display a star. Do this in the template, you could use code similar to this:
 
