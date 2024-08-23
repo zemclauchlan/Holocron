@@ -113,7 +113,7 @@ N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek06.md)
 #### Practical
-N/A
+- [ ] [resumeFinalTouches](/WebDev/_shared/Projects/ANH/resumeFinalTouches.md)
 ### Week 7
  ![[semesterCalendarS2#School Events - Week 7]]
 #### Class Tasks
