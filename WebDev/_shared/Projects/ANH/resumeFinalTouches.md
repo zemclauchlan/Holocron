@@ -190,6 +190,71 @@ Add the code to iterate over any referees the user has and display them.
 # Skills
 > [!tip] Some resumes include a skills section for people to rate their knowledge on certain topics.
 
+The approach for this section will be largely similar to adding in Referees into the process. You will need to:
+
+```mermaid
+flowchart TD
+Step1(Add a new Database Table & Model)
+ --> Step2(Create a form)
+ --> Step3(Update Resume Build to accept data from the new form)
+ --> Step4(Display the skills data in the resume)
+```
+
+## Database & Model
+
+Create a table with the following structure:
+
+| Field  | Data Type                            | Purpose                       |
+| ------ | ------------------------------------ | ----------------------------- |
+| id     | INTEGER, auto increment, primary key | Unique identifier             |
+| skill  | TEXT                                 | Identified Skill              |
+| rating | INT                                  | Users's self-evaluation (1-5) |
+| userID | INT                                  | User's ID to link to.         |
+
+```sql
+CREATE TABLE resume_skills(  
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    skill TEXT NOT NULL,
+    rating INTEGER NOT NULL,
+    userID INTEGER NOT NULL
+);
+```
+
+The model for this new table is:
+
+```python
+class ResumeSkills(db.Model):
+    id = db.Column(db.Integer, primary_key=True, autoincrement=True)
+    skill = db.Column(db.String(255))
+    rating = db.Column(db.Integer)
+    userID = db.Column(db.Integer)
+```
+
+## Form
+
+The form code is shown here. Note the variable `submit3` to distinguish it from the other forms.
+
+```python
+class SkillForm(FlaskForm):
+    skill = StringField("Skill", validators=[DataRequired()])
+    rating = IntegerField("Rating", validators=[DataRequired()])
+    submit3 = SubmitField("Add Skill")
+```
+
+## `app.py`
+
+Update both the `resumeBuild()` and `resumeDisplay()` functions to load the appropriate data from the database, and send the data to the template. The process will be extremely similar to the changes required for the referees - so follow the steps (modifying the code as appropriate) for that section.
+
+## Challenge!
+
+Instead of the user entering the rating as a number out of 5, update the form to show a drop-down list of the values.
+
+> [!hint] A drop-down list is called a **Select** in HTML. You may find [this page](https://getbootstrap.com/docs/5.3/forms/select/) useful.
+
+![resumeFinalSelectRating](WebDev/_shared/Projects/ANH/images/resumeFinalSelectRating.png)
+
+
+
 
 
 
