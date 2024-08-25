@@ -27,6 +27,16 @@ Add skills - users rate their skill level
 
 ---
 
+# Printing
+
+- R&D time!
+- Allow the user to print their Resume!
+
+![resumeFinalPrintFail](/WebDev/_shared/Projects/ANH/images/resumeFinalPrintFailSmall.png)
+
+---
+
+
 # Questions?
 
 If you have any questions, please ask!
