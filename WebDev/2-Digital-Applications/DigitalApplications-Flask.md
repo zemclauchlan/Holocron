@@ -119,7 +119,7 @@ N/A
 ### Week 7
  ![[semesterCalendarS2#School Events - Week 7]]
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/Assessment 2 Preparation.md)
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
 #### Practical
