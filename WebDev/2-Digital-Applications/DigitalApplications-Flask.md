@@ -108,6 +108,8 @@ N/A
 
 ### Week 6
  ![[semesterCalendarS2#School Events - Week 6]]
+![https://youtu.be/N5Szle-XleU](https://youtu.be/N5Szle-XleU)
+
 #### Class Tasks
 N/A
 #### Theory
