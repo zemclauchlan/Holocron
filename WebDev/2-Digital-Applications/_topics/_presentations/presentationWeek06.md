@@ -11,11 +11,14 @@ Add referees to the resume.
 - Compare instructions to last week's challenges. 
 	- Make changes as necessary.
 
+![week6AddReferees](/WebDev/2-Digital-Applications/_topics/_images/week6AddReferees.png)
 
 ---
 # Skills
 
 Add skills - users rate their skill level
+
+![week6AddSkills](/WebDev/2-Digital-Applications/_topics/_images/week6AddSkills.png)
 
 ---
 # Goal

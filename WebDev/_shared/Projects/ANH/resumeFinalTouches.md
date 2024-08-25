@@ -1,4 +1,10 @@
 > [!important]- Goal
+> Add a few more features to the resume, namely:
+> - Referees
+> - Skills rating
+> 
+> And finally, allow the resume to be printed in a user friendly format.
+
 
 
 
@@ -268,3 +274,25 @@ To do this you could first check the value then display a star. Do this in the t
 
 ```
 
+# Printing Webpages
+
+Currently, when attempting to print, the resume format is distorted.
+
+![resumeFinalPrintFail](/WebDev/_shared/Projects/ANH/images/resumeFinalPrintFail.png)
+
+
+Research into how to use CSS to print webpages in a print-friendly format.
+
+## Resources
+
+You can start with these sites:
+
+https://www.tutorialspoint.com/css/css_printing.htm
+
+https://www.geeksforgeeks.org/bootstrap-5-display-in-print/
+
+https://getbootstrap.com/docs/5.3/utilities/display/#display-in-print
+
+# Submit
+
+In this week's Google Classroom, submit the resume as a PDF from the printing process. 
