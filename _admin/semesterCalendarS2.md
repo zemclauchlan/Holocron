@@ -46,6 +46,7 @@ N/A
 #### School Events - Week 11
 **Monday** - Student Free Day.
 **Tuesday** - First Day of Classes.
+**Wednesday** - Parent Teacher Interviews
 
 #### School Events - Week 12
 N/A
@@ -68,6 +69,7 @@ Last Week of Classes
 **Friday** - Q4/S2 Ends.
 
 #### School Events - Week 17
+No Classes.
 **Monday** - Year 11 AST Trial.
 **Tuesday** - Feedback Day.
 **Thursday** - Unit Scores Published on BSSS.
@@ -75,10 +77,10 @@ Last Week of Classes
 **Friday** - Course Scores Published on BSSS.
 
 #### School Events - Week 18
-N/A
+No Classes.
 
 #### School Events - Week 19
-N/A
+No Classes.
 
 #### School Events - Week 20
-N/A
+No Classes.
