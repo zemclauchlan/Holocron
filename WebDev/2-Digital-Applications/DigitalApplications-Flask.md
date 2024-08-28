@@ -108,16 +108,18 @@ N/A
 
 ### Week 6
  ![[semesterCalendarS2#School Events - Week 6]]
+![https://youtu.be/N5Szle-XleU](https://youtu.be/N5Szle-XleU)
+
 #### Class Tasks
 N/A
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek06.md)
 #### Practical
-N/A
+- [ ] [resumeFinalTouches](/WebDev/_shared/Projects/ANH/resumeFinalTouches.md)
 ### Week 7
  ![[semesterCalendarS2#School Events - Week 7]]
 #### Class Tasks
-- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/Assessment 2 Preparation.md)
+- [ ] [Assessment 2 Preparation](WebDev/2-Digital-Applications/_topics/assessment2Preparation.md)
 #### Theory
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
 #### Practical
