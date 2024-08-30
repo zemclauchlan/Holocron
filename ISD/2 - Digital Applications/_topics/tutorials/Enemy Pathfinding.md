@@ -123,5 +123,7 @@ Update the `_physics_process()` function to find the Player node's position and 
 
 Your Enemy objects should now face the exact position of the player.
 
+![pathfindingLookingAtPlayer](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/pathfindingLookingAtPlayer.png)
+
 ![[commonBlocks#Commit & Push]]
 
