@@ -4,6 +4,22 @@ date: 2024-06-09
 priority: 2
 order: 13
 ---
+> [!info] **Lose conditions** in game development define the specific criteria that, when met, result in the player losing the game. They provide a sense of challenge and stakes to the gameplay and encourage players to avoid making mistakes.
+> 
+> **Common Lose Conditions:**
+> 
+> - **Character death:** The player's character dies, either from enemy attacks, environmental hazards, or other causes.
+> - **Game over:** The player fails to complete a critical objective or task, such as reaching a checkpoint or defeating a boss.
+> - **Time limit:** The player runs out of time to complete a level or objective.
+> - **Resource depletion:** The player runs out of essential resources, such as health, ammo, or money.
+> - **Environmental hazards:** The player is killed by environmental hazards, such as lava, spikes, or falling objects.
+> - **Enemy overwhelming:** The player is defeated by a large number of enemies or an overly powerful enemy.
+> - **Puzzle failure:** The player fails to solve a puzzle or complete a challenge within a certain number of attempts.
+> Google Gemini
+
+
+
+
 There could be several ways for the player to lose. This page will show some common ones.
 
 # Run out of time

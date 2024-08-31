@@ -4,13 +4,14 @@ date: 2024-06-09
 priority: 1
 order: 13
 ---
-> [!tip]- Goal - How does the player win the game?
+> [!info]- Goal - How does the player win the game?
 > Certain conditions need to be met before the player can win. These may be 
 > Every game has different win conditions, sometimes multiple ways.
-> **Win conditions** in games define the specific objectives or criteria that players must meet in order to achieve victory. They provide a sense of purpose and direction for players, and add stakes to the gameplay.
 
 
->[!tip]- Example Win Conditions
+>[!info] **Win conditions** in games define the specific objectives or criteria that players must meet in order to achieve victory. They provide a sense of purpose and direction for players, and add stakes to the gameplay.
+>
+>Example Win Conditions
 >**Simplified Win Conditions for Game Development in Godot:**
 >
 > - **Reach the end:** Get to the final level or destination.
@@ -30,9 +31,7 @@ order: 13
 > - **Team up:** Work with other players to achieve victory.
 > - **Lose conditions:** If you fail, you might lose your progress or even the game.
 
-There are a few simple win conditions that could be implemented in the FPS game being developed:
-- Kill all enemies
-- Run out of time.
+
 
 # Kill All Enemies
 
