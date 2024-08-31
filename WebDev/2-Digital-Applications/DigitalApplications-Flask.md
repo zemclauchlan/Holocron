@@ -124,6 +124,7 @@ N/A
 - [ ] [Presentation](/WebDev/2-Digital-Applications/_topics/_presentations/presentationWeek07.md)
 #### Practical
 - [ ] [Shopping List Part 1](/WebDev/_shared/Projects/ANH/shoppingListPart1.md)
+
 ### Week 8
  ![[semesterCalendarS2#School Events - Week 8]]
 #### Class Tasks
