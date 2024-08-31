@@ -24,9 +24,13 @@ notes:
 
 # VET Competencies
 
-- This weeks Focus - **BSBXCS303**
+- This week's Focus - **BSBXCS303**
 
 ![digitalApplicationsVETCompetencies](/WebDev/2-Digital-Applications/_topics/_images/digitalApplicationsVETCompetencies.png)
+
+---
+
+![BSBXCS303](/WebDev/2-Digital-Applications/_topics/_images/BSBXCS303.png)
 
 ---
 
