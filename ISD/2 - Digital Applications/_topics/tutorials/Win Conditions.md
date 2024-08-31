@@ -75,31 +75,3 @@ This code could be placed on the script for the player or the level. Whichever y
 
 
 
-# Run out of time
-
-No timer is currently implemented in the game, however, this is easy to include. 
-
-One of the easiest methods is a similar approach to how it was implemented in Space Invaders, through a `while` loop in the main game script.
-
-![countDownTimer](ISD/2%20-%20Digital%20Applications/_topics/tutorials/images/countDownTimer.png)
-
-```gdscript
-var current_timer = 50
- 
-func _ready():
-	$HUD/Countdown.text = str(current_timer)
-	while current_timer > 0:
-		await get_tree().create_timer(1).timeout
-		current_timer = current_timer - 1
-		$HUD/Countdown.text = str(current_timer)
-	# now the timer is 0. Player has lost.
-	get_tree().change_scene_to_file("res://Game/LoseScene.tscn")
-```
-
-> [!tip] Note!
-> - In Godot 4, `await` is used instead of `yield` from Godot 3.x
-> - This script assumes several things:
-> 1. The node `$HUD/Countdown` exists. Change this to match your project - linking it to a Label on the HUD for the user. Or remove/comment those lines, and
-> 2. You have a scene called `res://Game/LoseScene.tscn`. Change this to the scene you wish to load if the player runs out of time.
-
-
