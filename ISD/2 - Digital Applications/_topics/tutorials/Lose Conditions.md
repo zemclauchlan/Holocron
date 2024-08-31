@@ -71,3 +71,6 @@ func _on_timer_timeout():
 
 
 # No Health
+
+This is covered in [Player Health](ISD/2%20-%20Digital%20Applications/_topics/tutorials/Player%20Health.md).
+
