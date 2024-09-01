@@ -9,10 +9,6 @@ The second assignment is due after the holidays, and each week there will be sec
 You will also be able to complete some of the VET competencies for this unit.
 
 ---
-# Shopping Cart Mini App
-
-
----
 # Assignment
 - Assignment on Classroom.
 - Technical document
@@ -31,6 +27,24 @@ notes:
 ---
 
 ![BSBXCS303](/WebDev/2-Digital-Applications/_topics/_images/BSBXCS303.png)
+
+---
+
+# Shopping Cart Mini App
+- CRUD operations!
+- **C**reate tables
+- **R**etrieve Shopping Items
+- **U**pdate Shopping Items
+- **D**elete Shopping Items
+
+---
+# Practical
+
+- Create new table
+- Create model
+- Create form
+
+Follow instructions in [Shopping List Part 1](/WebDev/_shared/Projects/ANH/shoppingListPart1.md)
 
 ---
 
