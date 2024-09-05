@@ -21,7 +21,11 @@ TBA
 
 ## Development Process
 
-TBA
+- Brief 2-4 sentence summary for each week of what that week of development involved
+	- What was added to the website?
+	- What new skills were required to make these additions?
+	- What parts of enhanced previous features or were required to work in conjunctions with previous features?
+	- In what way did this week of development draw upon previous knowledge?
 
 ## Technical Analysis
 
