@@ -22,6 +22,12 @@ note: I will be running this class and creating the content for the next 3 weeks
 
 # Documentation
 
+## Assessment
+
+## VET
+
+
+
 ---
 # Questions?
 
