@@ -39,7 +39,7 @@ As the servers need to interact, a naming policy will be created.
 
 | Server            | Name         | IP          |
 | ----------------- | ------------ | ----------- |
-| Web               | httpServer   | 192.168.1.  |
+| Web               | httpServer   | 192.168.1.8 |
 | Database          | dbServer     | 192.168.1.6 |
 | File              | fileServer   | 192.168.1.7 |
 | DNS               | dnsServer    | 192.168.1.4 |
