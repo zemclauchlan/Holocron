@@ -75,7 +75,7 @@ tags:
 > #### Practical
 > N/A
 
-> [!info]- Week 8
+> [!important]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
 > N/A
