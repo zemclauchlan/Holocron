@@ -89,7 +89,7 @@ Create a new template called  `shoppingLists.html`
 
 Replace the standard code with the following 
 
-```python
+```jinja2
 {% extends "base.html" %}
 
 {% block pageCSS %}
