@@ -22,10 +22,12 @@ TBA
 ## Development Process
 
 - Brief 2-4 sentence summary for each week of what that week of development involved
-	- What was added to the website?
+	- What did you add to the Website?
+	- How does your addition fit into the grand scheme of the project?
 	- What new skills were required to make these additions?
-	- What parts of enhanced previous features or were required to work in conjunctions with previous features?
-	- In what way did this week of development draw upon previous knowledge?
+	- Explain how previous learning and work contributed to your ability to complete this week or work.
+<strong>Screenshots as proof is always good</strong>
+Remember this entire section is meant to amount to around 1000 words so if you have 10 weeks worth of development process those summaries either need to be combined or need to be ~100 words each.
 
 ## Technical Analysis
 

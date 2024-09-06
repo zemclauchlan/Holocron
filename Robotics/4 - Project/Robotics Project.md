@@ -78,7 +78,8 @@ tags:
 > [!info]- Week 8
 > ![[semesterCalendarS2#School Events - Week 8]]
 > #### Class Tasks
-> N/A
+> [Assessment Documentation](obsidian://open?vault=Holocron&file=Robotics%2F4%20-%20Project%2F2024S2%2FAssessment%202%20-%202024S2)
+>Development Process scaffold has been added. With the scaffold it should be very easy to write out this section to be up to date this week.
 > #### Theory
 > N/A
 > #### Practical
